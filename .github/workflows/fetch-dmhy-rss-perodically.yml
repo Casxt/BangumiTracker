@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  fetch:
 
     runs-on: ubuntu-latest
     strategy:

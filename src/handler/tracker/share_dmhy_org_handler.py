@@ -119,9 +119,9 @@ class ShareDMHYTrackerHandler():
         pattern_1 = r"第(\d{1,3})[集话話]" # 第1集 第1话 第1話
         pattern_2 = r"-\s(\d{2,3})\s" # - 02
         pattern_3 = r"\[(\d{2,3})\]" # [03]
-        pattern_4 = r"\[(\d{2,3})[vV]?\d*]" # [04v2]
+        pattern_4 = r"\[(\d{2,3})[vV]?\d{1}]" # [04v2]
         pattern_5 = r"【(\d{2,3})\】" # 【05】
-        pattern_6 = r"【(\d{2,3})[vV]?\d*】" # 【06】
+        pattern_6 = r"【(\d{2,3})[vV]?\d{1}】" # 【06】
 
 
         for pattern in (pattern_1, pattern_2, pattern_3, pattern_4, pattern_5, pattern_6):
@@ -134,8 +134,8 @@ class ShareDMHYTrackerHandler():
     
     @staticmethod
     def _split_title(string: str) -> Iterable[str]:
-        # 使用_、空格、【】、[]、- 和 \ 作为分隔符
-        pattern = r"（|）|\(|\)|_|\s|【|】|\[|\]|-|\\"
+        # 使用_、空格、【】、[]、『』、「」、- 、&和 \ 作为分隔符
+        pattern = r"「|」|『|』|（|）|\(|\)|_|\s|【|】|\[|\]|-|\\"
         result = re.split(pattern, string)
         result = [x for x in result if len(x) > 0]
         return result
@@ -194,7 +194,7 @@ class ShareDMHYTrackerHandler():
     @staticmethod
     def _collecting_audio_video_fromat_tag(string:  str) -> tuple[tag_pb2.Tag, bool]:
         string = string.upper()
-        white_list = ["MP4","MKV", "10BIT", "8BIT", "X264", "HEVC", "X265", "AAC", "AVC"]
+        white_list = ["MP4","MKV", "10BIT", "8BIT", "X264", "HEVC", "X265", "AAC", "AVC", "FLAC", "320K"]
         for s in white_list:
             if s in string:
                 return tag_pb2.Tag(tag=string), True
@@ -203,7 +203,7 @@ class ShareDMHYTrackerHandler():
     @staticmethod
     def _collecting_bundle_tag(string:  str) -> tuple[tag_pb2.Tag, bool]:
         string = string.upper()
-        white_list = ["WEB","BD"]
+        white_list = ["WEB","BD", "OP", "ED"]
         for s in white_list:
             if s in string:
                 return tag_pb2.Tag(tag=string), True

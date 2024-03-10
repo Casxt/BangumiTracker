@@ -9,7 +9,7 @@ on:
       commit_message:
         description: 'commit message'
         required: true
-        default: 'manually fetch rss'
+        default: 'manually add bangumi'
       bangumi_name:
         description: 'bangumi name'
         required: true

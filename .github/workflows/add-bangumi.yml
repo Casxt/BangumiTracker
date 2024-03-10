@@ -1,0 +1,77 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Fetch DMHY RSS
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit_message:
+        description: 'commit message'
+        required: true
+        default: 'manually fetch rss'
+      bangumi_name:
+        description: 'bangumi name'
+        required: true
+      bangumi_name_lang:
+        description: "lang code of bangumi name must be one of ['CHS', 'CHT', 'ENG', 'JPN']"
+        required: true
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        branch: ${{ github.ref }}
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+        cache: 'pip'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8 pytest
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Install Protoc
+      uses: arduino/setup-protoc@v3
+      with:
+        version: "25.3"
+    - name: Generage Protobuf
+      run: python src/add_bangumi.py -n '${{inputs.bangumi_name}}' -l CHS
+    - name: Fetch RSS
+      env:
+        BANGUMI_NAME: ${{ inputs.bangumi_name }}
+        BANGUMI_NAME_LANG: ${{ inputs.bangumi_name_lang }}
+      run: python src/add_bangumi.py -c .env.prod
+    - name: Check updates
+      id: check_updates
+      run: |
+        if [[ -z $(git status --porcelain) ]]; then
+          echo "no updates"
+          echo "::set-output name=no_updates::true"
+          exit
+        else
+          echo "check updates successful"
+          echo "::set-output name=no_updates::false"
+        fi
+
+    - name: Commit files
+      if: steps.check_updates.outputs.no_updates == 'false'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -a -m "${{inputs.commit_message}}"
+    - name: Push changes
+      if: steps.check_updates.outputs.no_updates == 'false'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

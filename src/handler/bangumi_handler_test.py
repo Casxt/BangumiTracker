@@ -103,3 +103,5 @@ def test_create_bangumi(tmp_path):
     
     with pytest.raises(Exception):
         handler.create_bangumi(3, "test2", "CHS", 0)
+    
+    assert handler.get_bangumi_id_by_name("test2") == 2

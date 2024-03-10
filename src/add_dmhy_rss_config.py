@@ -20,7 +20,7 @@ if __name__ == '__main__':
     parser.add_argument('-c', '--config', help='config file', default='.env')
     parser.add_argument('-k', '--key', help='rss key', required=False, type=str, default=os.environ.get('RSS_KEY'))
     parser.add_argument('-i',
-                        '--bangumi_id', help='corressponding bangumi id', required=False, type=int, default=os.environ.get('BANGUMI_ID'))
+                        '--bangumi_id', help='corressponding bangumi id', required=False, type=int, default=0)
     parser.add_argument('-u',
                         '--rss_url', help='rss url', required=False, type=str, default=os.environ.get('RSS_URL'))
 
@@ -37,12 +37,15 @@ if __name__ == '__main__':
     assert parsed_url.scheme == "https"
     assert parsed_url.hostname == "share.dmhy.org"
     assert len(key) > 0
-    assert bangumi_id > 0
+
 
     dmhy_handler = ShareDMHYTrackerHandler(
         config_path=config.share_dmhy_org_tarcker_config_path)
     
     bangumi_handler = BangumiHandler(storage_path=config.bangumi_data_dir)
+
+    if bangumi_id == 0:
+        bangumi_id = bangumi_handler.get_bangumi_id_by_name(bangumi_name=key)
 
     bangumi_handler.read_bangumi_data_file(bangumi_id=bangumi_id)
 

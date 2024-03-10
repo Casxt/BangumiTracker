@@ -7,14 +7,14 @@ on:
   workflow_dispatch:
     inputs:
       rss_key:
-        description: 'rss name'
+        description: 'bangumi name'
         required: true
       rss_url:
         description: 'rss url'
         required: true
-      bangumi_id:
-        description: "corresponding bangumi id"
-        required: true
+      # bangumi_id:
+      #   description: "corresponding bangumi id"
+      #   required: true
 permissions:
   contents: write
 
@@ -47,7 +47,6 @@ jobs:
     - name: Add RSS
       env:
         RSS_KEY: ${{ inputs.rss_key }}
-        BANGUMI_ID: ${{ inputs.bangumi_id }}
         RSS_URL: ${{ inputs.rss_url }}
       run: python src/add_dmhy_rss_config.py -c '.env.prod'
     - name: Check updates

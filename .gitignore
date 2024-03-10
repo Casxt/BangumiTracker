@@ -162,3 +162,5 @@ cython_debug/
 src/proto_py
 
 .vscode
+
+junit/

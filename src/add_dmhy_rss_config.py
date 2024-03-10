@@ -36,6 +36,7 @@ if __name__ == '__main__':
     bangumi_id = args.bangumi_id
     assert parsed_url.scheme == "https"
     assert parsed_url.hostname == "share.dmhy.org"
+    assert parsed_url.path == "/topics/rss/rss.xml"
     assert len(key) > 0
 
 

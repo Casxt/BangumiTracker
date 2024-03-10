@@ -1,3 +1,4 @@
+import pytest
 from .bangumi_handler import BangumiHandler
 from proto_py.bangumi.bangumi_pb2 import Episode, BangumiData
 from proto_py.base.resources_pb2 import ExternalResource, Magnet, Website, SHARE_DMHY_ORG
@@ -88,3 +89,17 @@ def test_create_bangumi(tmp_path):
     assert len(bangumi.names) == 1
     name = bangumi.names[0]
     assert name.name == "test"
+
+    handler.create_bangumi(2, "test2", "CHS", 0)
+    handler.load_bangumi_index_file()
+    assert len(handler.bangumi_index.index) == 2
+    bangumi = handler.bangumi_index.index[1]
+    assert len(bangumi.names) == 1
+    name = bangumi.names[0]
+    assert name.name == "test2"
+
+    with pytest.raises(Exception):
+        handler.create_bangumi(2, "test2", "CHS", 0)
+    
+    with pytest.raises(Exception):
+        handler.create_bangumi(3, "test2", "CHS", 0)

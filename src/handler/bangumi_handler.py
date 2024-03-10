@@ -164,11 +164,11 @@ class BangumiHandler():
             raise BangumiAlreadyExist
 
         for exist_bangumi_id in self.list_bangumi_ids():
-            exist_bangumi = self.load_bangumi_data(exist_bangumi_id)
+            exist_bangumi, _ = self.get_bangumi_by_id(exist_bangumi_id)
             same_names = tuple(
                 filter(
-                    lambda x: x.meta.name.strip().lower() == bangumi_name.strip().lower(),
-                    exist_bangumi.meta.names
+                    lambda x: x.name.strip().lower() == bangumi_name.strip().lower(),
+                    exist_bangumi.names
                 )
             )
             if len(same_names) > 0:

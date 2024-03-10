@@ -24,6 +24,8 @@ jobs:
         python-version: ["3.12"]
     steps:
     - uses: actions/checkout@v4
+      with:
+        branch: ${{ github.ref }}
     - name: Set up Python 3.12
       uses: actions/setup-python@v4
       with:
@@ -41,7 +43,7 @@ jobs:
     - name: Generage Protobuf
       run: ./generage_proto.sh
     - name: Fetch RSS
-      run: python src/fetch_share_dmhy_org.py 
+      run: python src/fetch_share_dmhy_org.py -c .env.prod
     - name: Check updates
       run: |
         if [[ -z $(git status --porcelain) ]]; then

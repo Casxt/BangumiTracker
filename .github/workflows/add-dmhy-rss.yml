@@ -6,10 +6,6 @@ name: Add share.dmhy.org RSS
 on:
   workflow_dispatch:
     inputs:
-      commit_message:
-        description: 'commit message'
-        required: true
-        default: 'manually add bangumi'
       rss_key:
         description: 'rss name'
         required: true
@@ -71,7 +67,7 @@ jobs:
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add storage
-        git commit -a -m "${{inputs.commit_message}}"
+        git commit -a -m "manually add bangumi rss"
     - name: Push changes
       if: steps.check_updates.outputs.no_updates == 'false'
       uses: ad-m/github-push-action@master

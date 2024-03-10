@@ -22,11 +22,11 @@ async def fetch_rss_data(dmhy_handler: ShareDMHYTrackerHandler,
         # with open("response.xml", "r") as f:
         #     rss_data = f.read()
         episodes = dmhy_handler.parse_xml(xml_data=rss_data)
-        bangumi = bangumi_handler.load_bangumi(
+        bangumi = bangumi_handler.load_bangumi_data(
             bangumi_id=rss_config.bangumi_id)
         logging.info("bangumi [%d] fetch [%d] items", rss_config.bangumi_id, len(episodes))
         bangumi = bangumi_handler.merge_bangumi_episodes(bangumi, episodes)
-        bangumi_handler.write_bangumi_file(bangumi=bangumi)
+        bangumi_handler.write_bangumi_data_file(bangumi=bangumi)
     except Exception as e:
         logging.error("update bangumi [%d] failed, rss key [%s], error: [%s]", rss_config.bangumi_id, rss_config.key, str(e))
         traceback.print_exc()

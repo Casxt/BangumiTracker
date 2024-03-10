@@ -10,15 +10,22 @@ message Series {
   uint64 id = 1;
   repeated uint64 bangumi_ids = 2;
   repeated .base.ExternalMeta external_metas = 3;
-
 }
 
 message Bangumi {
   uint64 id = 1;
   uint64 series_id = 2;
   repeated Name names = 3;
-  repeated Episode episodes = 4;
-  repeated .base.ExternalMeta external_metas = 5;
+}
+
+message BangumiIndex {
+  repeated Bangumi index = 1;
+}
+
+message BangumiData {
+  uint64 bangumi_id = 1;
+  repeated Episode episodes = 2;
+  repeated .base.ExternalMeta external_metas = 3;
 }
 
 message Episode {

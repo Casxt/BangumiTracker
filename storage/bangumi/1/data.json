@@ -1,11 +1,5 @@
 {
-    "id": "1",
-    "names": [
-        {
-            "language_code": "CHS",
-            "name": "葬送的芙莉莲"
-        }
-    ],
+    "bangumi_id": "1",
     "episodes": [
         {
             "resources": [

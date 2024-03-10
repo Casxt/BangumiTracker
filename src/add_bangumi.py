@@ -39,8 +39,9 @@ if __name__ == '__main__':
     bangumi_name_lang: str = args.lang.strip().upper()
 
     bangumi_ids = bangumi_handler.list_bangumi_ids()
+    max_bangumi_id = 0 if len(bangumi_ids) == 0 else max(bangumi_ids)
 
-    bangumi_id = args.id if args.id is not None and args.id > 0 else max(bangumi_ids)+1
+    bangumi_id = args.id if args.id is not None and args.id > 0 else max_bangumi_id+1
 
     assert bangumi_name != ""
     assert bangumi_name_lang != ""

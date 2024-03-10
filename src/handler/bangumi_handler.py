@@ -49,7 +49,7 @@ class BangumiHandler():
             same_resources = None
             exists_resources = filter(lambda x: x.WhichOneof(
                 "resources") == resources_type, result.resources)
-            
+
             if resources_type == "magnet":
                 same_resources = tuple(filter(
                     lambda x: x.magnet.url == resource.magnet.url, exists_resources))
@@ -125,6 +125,17 @@ class BangumiHandler():
         if self.is_bangumi_id_exists(bangumi_id):
             raise FileExistsError("bangumi id already exists")
 
+        for exist_bangumi_id in self.list_bangumi_ids():
+            exist_bangumi = self.load_bangumi(exist_bangumi_id)
+            same_names = tuple(
+                filter(
+                    lambda x: x.name.strip().lower() == bangumi_name.strip().lower(),
+                    exist_bangumi.names
+                )
+            )
+            if len(same_names) > 0:
+                raise NameALreadyExist
+            
         bangumi = Bangumi(
             id=bangumi_id,
             series_id=series_id,
@@ -145,11 +156,19 @@ class BangumiHandler():
             name=bangumi_name
         )
 
-        assert len(tuple(filter(lambda x: x.name == new_name.name,
+        assert len(tuple(filter(lambda x: x.name.strip().lower() == new_name.name.strip().lower(),
                    bangumi.names))) == 0, NameALreadyExist
 
         bangumi.names.append(new_name)
         self.write_bangumi_file(bangumi)
+
+    def list_bangumi_ids(self):
+        bangumi_ids = []
+        for item in os.listdir(self.storage_path):
+            item_path = os.path.join(self.storage_path, item)
+            if os.path.isdir(item_path) and item.isdecimal():
+                bangumi_ids.append(int(item))
+        return bangumi_ids
 
     @staticmethod
     def format_bangumi(bangumi: Bangumi, inplace=True) -> Bangumi:

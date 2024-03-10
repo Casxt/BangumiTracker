@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  fetch:
 
     runs-on: ubuntu-latest
     strategy:
@@ -24,6 +24,8 @@ jobs:
         python-version: ["3.12"]
     steps:
     - uses: actions/checkout@v4
+      with:
+        branch: ${{ github.ref }}
     - name: Set up Python 3.12
       uses: actions/setup-python@v4
       with:
@@ -41,21 +43,27 @@ jobs:
     - name: Generage Protobuf
       run: ./generage_proto.sh
     - name: Fetch RSS
-      run: python src/fetch_share_dmhy_org.py 
+      run: python src/fetch_share_dmhy_org.py -c .env.prod
     - name: Check updates
+      id: check_updates
       run: |
         if [[ -z $(git status --porcelain) ]]; then
           echo "no updates"
+          echo "::set-output name=no_updates::true"
           exit
         else
           echo "check updates successful"
+          echo "::set-output name=no_updates::false"
         fi
+
     - name: Commit files
+      if: steps.check_updates.outputs.no_updates == 'false'
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git commit -a -m "${{inputs.commit_message}}"
     - name: Push changes
+      if: steps.check_updates.outputs.no_updates == 'false'
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}

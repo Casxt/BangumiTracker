@@ -1,7 +1,7 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
-name: Add Bangumi
+name: Add share.dmhy.org RSS
 
 on:
   workflow_dispatch:
@@ -10,17 +10,20 @@ on:
         description: 'commit message'
         required: true
         default: 'manually add bangumi'
-      bangumi_name:
-        description: 'bangumi name'
+      rss_key:
+        description: 'rss name'
         required: true
-      bangumi_name_lang:
-        description: "lang code of bangumi name must be one of ['CHS', 'CHT', 'ENG', 'JPN']"
+      rss_url:
+        description: 'rss url'
+        required: true
+      bangumi_id:
+        description: "corresponding bangumi id"
         required: true
 permissions:
   contents: write
 
 jobs:
-  add_bangumi:
+  add_rss:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -45,11 +48,12 @@ jobs:
         version: "25.3"
     - name: Generage Protobuf
       run: ./generage_proto.sh
-    - name: Add Bangumi
+    - name: Add RSS
       env:
-        BANGUMI_NAME: ${{ inputs.bangumi_name }}
-        BANGUMI_NAME_LANG: ${{ inputs.bangumi_name_lang }}
-      run: python src/add_bangumi.py -c '.env.prod'
+        RSS_KEY: ${{ inputs.rss_key }}
+        BANGUMI_ID: ${{ inputs.bangumi_id }}
+        RSS_URL: ${{ inputs.rss_url }}
+      run: python src/add_dmhy_rss_config.py -c '.env.prod'
     - name: Check updates
       id: check_updates
       run: |
@@ -61,7 +65,6 @@ jobs:
           echo "check updates successful"
           echo "::set-output name=no_updates::false"
         fi
-
     - name: Commit files
       if: steps.check_updates.outputs.no_updates == 'false'
       run: |

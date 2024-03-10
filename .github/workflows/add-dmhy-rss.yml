@@ -7,14 +7,14 @@ on:
   workflow_dispatch:
     inputs:
       rss_key:
-        description: 'rss name'
+        description: 'bangumi name'
         required: true
       rss_url:
         description: 'rss url'
         required: true
-      bangumi_id:
-        description: "corresponding bangumi id"
-        required: true
+      # bangumi_id:
+      #   description: "corresponding bangumi id"
+      #   required: true
 permissions:
   contents: write
 

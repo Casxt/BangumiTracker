@@ -199,6 +199,18 @@ class BangumiHandler():
             raise BangumiNotExist
         bangumi_data = self.load_bangumi_data(bangumi_id)
         return bangumis[0], bangumi_data
+    
+    def get_bangumi_id_by_name(self, bangumi_name: str) -> int:
+        for index in self.bangumi_index.index:
+            same_names = tuple(
+                filter(
+                    lambda x: x.name == bangumi_name,
+                    index.names,
+                )
+            )
+            if len(same_names) > 0:
+                return index.id
+        return 0
 
     def add_bangumi_name(self, bangumi_id: int, bangumi_name: str, bangumi_name_lang: str):
         bangumi, _ = self.get_bangumi_by_id(bangumi_id)

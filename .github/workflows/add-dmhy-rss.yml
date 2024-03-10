@@ -47,7 +47,6 @@ jobs:
     - name: Add RSS
       env:
         RSS_KEY: ${{ inputs.rss_key }}
-        BANGUMI_ID: ${{ inputs.bangumi_id }}
         RSS_URL: ${{ inputs.rss_url }}
       run: python src/add_dmhy_rss_config.py -c '.env.prod'
     - name: Check updates

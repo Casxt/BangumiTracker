@@ -10,6 +10,7 @@ from google.protobuf.message import Message
 
 
 NameALreadyExist = Exception("bangumi name already exist")
+UnsupportedExternalResource = Exception("unsupported external resource")
 
 
 class BangumiHandler():
@@ -48,6 +49,7 @@ class BangumiHandler():
             same_resources = None
             exists_resources = filter(lambda x: x.WhichOneof(
                 "resources") == resources_type, result.resources)
+            
             if resources_type == "magnet":
                 same_resources = tuple(filter(
                     lambda x: x.magnet.url == resource.magnet.url, exists_resources))
@@ -57,19 +59,23 @@ class BangumiHandler():
             elif resources_type == "share_dmhy_org":
                 same_resources = tuple(filter(lambda x: x.share_dmhy_org.magnet.url ==
                                               resource.share_dmhy_org.magnet.url, exists_resources))
+            else:
+                continue
 
-            if same_resources is not None:
-                if len(same_resources) == 0:
-                    result.resources.append(resource)
-                else:
-                    exist_resource: ExternalResource = same_resources[0]
-                    # using MergeFrom to keep external meta
-                    exist_resource.MergeFrom(resource)
-                    deduped_array = BangumiHandler.deduplicate(
-                        exist_resource.share_dmhy_org.tags, lambda x: x.tag)
-                    del exist_resource.share_dmhy_org.tags[:]
-                    exist_resource.share_dmhy_org.tags.extend(deduped_array)
+            if len(same_resources) == 0:
+                result.resources.append(resource)
+            else:
+                exist_resource: ExternalResource = same_resources[0]
+                # using MergeFrom to keep external meta
+                exist_resource.CopyFrom(resource)
 
+                # if resources_type == "share_dmhy_org":
+                #     deduped_array = BangumiHandler.deduplicate(
+                #         exist_resource.share_dmhy_org.tags, lambda x: x.tag)
+                #     del exist_resource.share_dmhy_org.tags[:]
+                #     exist_resource.share_dmhy_org.tags.extend(deduped_array)
+
+        print(result.resources)
         return result
 
     def load_bangumi(self, bangumi_id: int) -> Bangumi:
@@ -208,7 +214,7 @@ class BangumiHandler():
         elif resources_type == "share_dmhy_org":
             return resource.share_dmhy_org.magnet.url
         else:
-            return resource.SerializeToString()
+            raise UnsupportedExternalResource
 
     @staticmethod
     def deduplicate(inputs: Iterable[Message], compare_key: Callable[[Message], Any]) -> Iterable[Message]:

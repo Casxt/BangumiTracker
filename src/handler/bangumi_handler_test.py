@@ -57,16 +57,21 @@ def test_merge_bangumi_episodes():
         filter(lambda x: x.index == "01", new_bangum.episodes))[0]
     assert len(merged_episode.resources) == 6
     assert len(test_bangumi.episodes[0].resources) == 3
-    magnet_resources = tuple(
-        filter(lambda x: x.HasField("magnet"), merged_episode.resources))
-    assert len(magnet_resources) == 2
-    assert set([x.magnet.url for x in magnet_resources]
-               ) == set(["magnet", "magnet2"])
+
+        
     website_resources = tuple(
         filter(lambda x: x.HasField("website"), merged_episode.resources))
     assert len(website_resources) == 2
     assert set([x.website.url for x in website_resources]
                ) == set(["website", "website2"])
+    
+
+    magnet_resources = tuple(
+        filter(lambda x: x.HasField("magnet"), merged_episode.resources))
+    assert len(magnet_resources) == 2
+    assert set([x.magnet.url for x in magnet_resources]
+               ) == set(["magnet", "magnet2"])
+
     dmhy_resources = tuple(filter(lambda x: x.HasField(
         "share_dmhy_org"), merged_episode.resources))
     assert len(dmhy_resources) == 2

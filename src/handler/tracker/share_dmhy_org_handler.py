@@ -22,18 +22,20 @@ class ShareDMHYTrackerHandler():
         self.rss_config_path = config_path
         self.rss_config = self.load_config(config_path)
     
-    def add_config(self, key: str, bangumi_id: int, rss_url: str):
+    def add_config(self, key: str, bangumi_id: int, rss_url: str) -> share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER_CONFIG:
         assert key != ""
         assert rss_url != ""
         for config in self.rss_config.configs:
             if config.key == key:
                 raise RedunantConfigKeyExpection
-        self.rss_config.configs.append(share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER_CONFIG(
+        new_config = share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER_CONFIG(
             key=key,
             bangumi_id=bangumi_id,
             rss_url=rss_url,
-        ))
+        )
+        self.rss_config.configs.append(new_config)
         self.save_config()
+        return new_config
     
     def delete_config(self, key: str):
         assert key != ""

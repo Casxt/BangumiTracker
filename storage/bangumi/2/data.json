@@ -2,6 +2,139 @@
     "bangumi_id": "2",
     "episodes": [
         {
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:CP7SKUHNOD3FAZDNSNDLNFN3QSW2L637&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1696820839",
+                        "title": "[Hi-Res][231007]TVアニメ『不死不幸 アンデッドアンラック』OP主題歌「01」／女王蜂[96kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/653124_Hi-Res_231007_TV_OP_01_96kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            },
+                            {
+                                "tag": "OP主題歌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:FLG2EDLMOCAQZRLKRNZDPIMVDBEMLW2K&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1705839087",
+                        "title": "[240120][不死不幸]TVアニメ『アンデットアンラック』OP2 & ED2「ラブコール」シユイ 「この愛に敵うもんはない」OKAMOTO'S[320K]",
+                        "page_link": "http://share.dmhy.org/topics/view/661096_240120_TV_OP2_ED2_OKAMOTO_S_320K.html",
+                        "tags": [
+                            {
+                                "tag": "320K"
+                            },
+                            {
+                                "tag": "ED2"
+                            },
+                            {
+                                "tag": "OP2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:GX3GI3YEWYSEAFAYA2DHFW2YHSDNFRBG&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1700108116",
+                        "title": "[231115][不死不幸]TVアニメ『アンデッドアンラック』EDテーマ「know me...」／八木海莉[320K]",
+                        "page_link": "http://share.dmhy.org/topics/view/656421_231115_TV_ED_know_me_320K.html",
+                        "tags": [
+                            {
+                                "tag": "320K"
+                            },
+                            {
+                                "tag": "EDテーマ"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:I4CMLAOM2TO4MUYAJUOHTYDTD2PXD73I&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1705839021",
+                        "title": "[Hi-Res][240120][不死不幸]TVアニメ『アンデットアンラック』OP2 & ED2「ラブコール」シユイ 「この愛に敵うもんはない」OKAMOTO'S[96kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/661095_Hi-Res_240120_TV_OP2_ED2_OKAMOTO_S_96kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "ED2"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            },
+                            {
+                                "tag": "OP2"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:JKCEH7IM3YLOCQZPPBOPIU5EPHO6FWOT&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1697347222",
+                        "title": "[Hi-Res][231014]TVアニメ『不死不幸 アンデッドアンラック』EDテーマ「know me...」／八木海莉[96kHz/24bit][FLAC] ",
+                        "page_link": "http://share.dmhy.org/topics/view/653650_Hi-Res_231014_TV_ED_know_me_96kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "EDテーマ"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:XNGDCLU3FNKO6VVFA7TNXI4KQ3AXNQ54&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1708430016",
+                        "title": "[240221][不死不幸]TVアニメ『アンデッドアンラック』OP2主題歌「ラブコール」[期間生産限定盤]／シユイ x DECO*27[320K]",
+                        "page_link": "http://share.dmhy.org/topics/view/663182_240221_TV_OP2_x_DECO_27_320K.html",
+                        "tags": [
+                            {
+                                "tag": "320K"
+                            },
+                            {
+                                "tag": "OP2主題歌"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
             "index": "01",
             "resources": [
                 {

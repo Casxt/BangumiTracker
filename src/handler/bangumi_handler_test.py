@@ -1,13 +1,12 @@
 from .bangumi_handler import BangumiHandler
-from proto_py.bangumi.bangumi_pb2 import Episode, Bangumi
+from proto_py.bangumi.bangumi_pb2 import Episode, BangumiData
 from proto_py.base.resources_pb2 import ExternalResource, Magnet, Website, SHARE_DMHY_ORG
 
 
-def test_merge_bangumi_episodes():
-    handler = BangumiHandler("")
-    test_bangumi = Bangumi(
-        id=1,
-        series_id=2,
+def test_merge_bangumi_episodes(tmp_path):
+    handler = BangumiHandler(str(tmp_path))
+    test_bangumi = BangumiData(
+        bangumi_id=1,
         episodes=[
             Episode(
                 index="01",
@@ -79,3 +78,13 @@ def test_merge_bangumi_episodes():
                ) == set(["share_dmhy_org", "share_dmhy_org2"])
     assert set([x.share_dmhy_org.author for x in dmhy_resources]
                ) == set(["author", "author2"])
+
+def test_create_bangumi(tmp_path):
+    handler = BangumiHandler(str(tmp_path))
+    handler.create_bangumi(1, "test", "CHS", 0)
+    handler.load_bangumi_index_file()
+    assert len(handler.bangumi_index.index) == 1
+    bangumi = handler.bangumi_index.index[0]
+    assert len(bangumi.names) == 1
+    name = bangumi.names[0]
+    assert name.name == "test"

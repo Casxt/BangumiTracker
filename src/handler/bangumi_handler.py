@@ -2,25 +2,37 @@ from ast import TypeVar
 import os
 from typing import Any, Iterable, Type, Callable
 from pathlib import Path
-from proto_py.bangumi.bangumi_pb2 import Episode, Bangumi, Name
+from proto_py.bangumi.bangumi_pb2 import Episode, BangumiData, Name, Bangumi, BangumiIndex
 from proto_py.base.resources_pb2 import ExternalResource
 from proto_py.base.language_code_pb2 import LanguageCode
 from google.protobuf import json_format
 from google.protobuf.message import Message
 
 
-NameALreadyExist = Exception("bangumi name already exist")
+NameAlreadyExist = Exception("bangumi name already exist")
+BangumiNotExist = Exception("bangumi not exist")
+BangumiAlreadyExist = Exception("bangumi already exist")
 UnsupportedExternalResource = Exception("unsupported external resource")
 
 
 class BangumiHandler():
     storage_path = ""
+    bangumi_index = BangumiIndex()
 
     def __init__(self, storage_path: str) -> None:
         self.storage_path = storage_path
+        try:
+            original_umask = os.umask(0)
+            Path(storage_path).mkdir(0o755, exist_ok=True)
+        finally:
+            os.umask(original_umask)
+        if not self.get_bangumi_index_file_path().exists():
+            self.save_bangumi_index_file()
+        else:
+            self.load_bangumi_index_file()
 
-    def merge_bangumi_episodes(self, bangumi: Bangumi, episodes: Iterable[Episode]) -> Bangumi:
-        result: Bangumi = Bangumi()
+    def merge_bangumi_episodes(self, bangumi: BangumiData, episodes: Iterable[Episode]) -> BangumiData:
+        result: BangumiData = BangumiData()
         result.CopyFrom(bangumi)
         for episode in episodes:
             exists_episodes = tuple(
@@ -78,20 +90,20 @@ class BangumiHandler():
         print(result.resources)
         return result
 
-    def load_bangumi(self, bangumi_id: int) -> Bangumi:
-        raw_str = self.read_bangumi_file(bangumi_id=bangumi_id)
-        bangumi = Bangumi()
+    def load_bangumi_data(self, bangumi_id: int) -> BangumiData:
+        raw_str = self.read_bangumi_data_file(bangumi_id=bangumi_id)
+        bangumi = BangumiData()
         json_format.Parse(raw_str, bangumi)
         return bangumi
 
-    def read_bangumi_file(self, bangumi_id: int) -> str:
+    def read_bangumi_data_file(self, bangumi_id: int) -> str:
         assert bangumi_id != 0
-        with open(self.get_bangumi_file_path(bangumi_id), "r") as f:
+        with open(self.get_bangumi_data_file_path(bangumi_id), "r") as f:
             return f.read()
 
-    def write_bangumi_file(self, bangumi: Bangumi):
-        assert bangumi.id != 0
-        self.format_bangumi(bangumi)
+    def write_bangumi_data_file(self, bangumi: BangumiData):
+        assert bangumi.bangumi_id != 0
+        self.format_bangumi_data(bangumi)
         json_str = json_format.MessageToJson(
             bangumi,
             including_default_value_fields=False,
@@ -99,43 +111,68 @@ class BangumiHandler():
             indent=4,
             ensure_ascii=False,
         )
-        save_dir = self.get_bangumi_file_dir(bangumi.id)
+        save_dir = self.get_bangumi_data_file_dir(bangumi.bangumi_id)
         try:
             original_umask = os.umask(0)
             save_dir.mkdir(0o755, exist_ok=True)
         finally:
             os.umask(original_umask)
-        with open(str(self.get_bangumi_file_path(bangumi.id)), "w") as f:
+        with open(str(self.get_bangumi_data_file_path(bangumi.bangumi_id)), "w") as f:
             f.write(json_str)
 
-    def get_bangumi_file_dir(self, bangumi_id: int) -> Path:
+    def save_bangumi_index_file(self):
+        self.bangumi_index.index.sort(key=lambda x: x.id)
+        json_str = json_format.MessageToJson(
+            self.bangumi_index,
+            including_default_value_fields=False,
+            preserving_proto_field_name=True,
+            indent=4,
+            ensure_ascii=False,
+        )
+        with open(self.get_bangumi_index_file_path(), "w") as f:
+            f.write(json_str)
+
+    def load_bangumi_index_file(self) -> BangumiIndex:
+        with open(self.get_bangumi_index_file_path(), "r") as f:
+            json_str = f.read()
+        json_format.Parse(
+            json_str, self.bangumi_index
+        )
+        return self.bangumi_index
+
+    def get_bangumi_index_file_path(self) -> Path:
+        return Path(self.storage_path, "index.json")
+
+    def get_bangumi_data_file_dir(self, bangumi_id: int) -> Path:
         return Path(self.storage_path, str(bangumi_id))
 
-    def get_bangumi_file_path(self, bangumi_id: int) -> Path:
-        return Path(self.get_bangumi_file_dir(bangumi_id), "data.json")
+    def get_bangumi_data_file_path(self, bangumi_id: int) -> Path:
+        return Path(self.get_bangumi_data_file_dir(bangumi_id), "data.json")
 
     def is_bangumi_id_exists(self, bangumi_id: int) -> bool:
         try:
-            self.read_bangumi_file(bangumi_id=bangumi_id)
-        except FileNotFoundError:
-            return False
+            self.get_bangumi_by_id(bangumi_id=bangumi_id)
+        except Exception as e:
+            if e is BangumiNotExist:
+                return False
+            else:
+                raise e
         return True
 
-    def create_bangumi(self, bangumi_id: int, bangumi_name: str, bangumi_name_lang: str, series_id: int = 0) -> Bangumi:
+    def create_bangumi(self, bangumi_id: int, bangumi_name: str, bangumi_name_lang: str, series_id: int = 0) -> BangumiData:
         if self.is_bangumi_id_exists(bangumi_id):
-            raise FileExistsError("bangumi id already exists")
+            raise BangumiAlreadyExist
 
         for exist_bangumi_id in self.list_bangumi_ids():
-            exist_bangumi = self.load_bangumi(exist_bangumi_id)
+            exist_bangumi = self.load_bangumi_data(exist_bangumi_id)
             same_names = tuple(
                 filter(
-                    lambda x: x.name.strip().lower() == bangumi_name.strip().lower(),
-                    exist_bangumi.names
+                    lambda x: x.meta.name.strip().lower() == bangumi_name.strip().lower(),
+                    exist_bangumi.meta.names
                 )
             )
             if len(same_names) > 0:
-                raise NameALreadyExist
-            
+                raise NameAlreadyExist
         bangumi = Bangumi(
             id=bangumi_id,
             series_id=series_id,
@@ -146,36 +183,54 @@ class BangumiHandler():
                 )
             ]
         )
-        self.write_bangumi_file(bangumi)
+        self.bangumi_index.index.append(bangumi)
+        self.write_bangumi_data_file(BangumiData(bangumi_id=bangumi_id))
+        self.save_bangumi_index_file()
         return bangumi
 
+    def get_bangumi_by_id(self, bangumi_id: int) -> tuple[Bangumi, BangumiData]:
+        bangumis = tuple(
+            filter(
+                lambda x: x.id == bangumi_id,
+                self.bangumi_index.index,
+            )
+        )
+        if len(bangumis) == 0:
+            raise BangumiNotExist
+        bangumi_data = self.load_bangumi_data(bangumi_id)
+        return bangumis[0], bangumi_data
+
     def add_bangumi_name(self, bangumi_id: int, bangumi_name: str, bangumi_name_lang: str):
-        bangumi = self.load_bangumi(bangumi_id=bangumi_id)
+        bangumi, _ = self.get_bangumi_by_id(bangumi_id)
+
         new_name = Name(
             language_code=LanguageCode.__members__[bangumi_name_lang],
             name=bangumi_name
         )
 
-        assert len(tuple(filter(lambda x: x.name.strip().lower() == new_name.name.strip().lower(),
-                   bangumi.names))) == 0, NameALreadyExist
+        assert len(
+            tuple(
+                filter(
+                    lambda x: x.name.strip().lower() == new_name.name.strip().lower(),
+                    bangumi.names,
+                )
+            )
+        ) == 0, NameAlreadyExist
 
         bangumi.names.append(new_name)
-        self.write_bangumi_file(bangumi)
+        bangumi.names.sort(key=lambda x: x.name)
+        self.save_bangumi_index_file()
 
     def list_bangumi_ids(self):
-        bangumi_ids = []
-        for item in os.listdir(self.storage_path):
-            item_path = os.path.join(self.storage_path, item)
-            if os.path.isdir(item_path) and item.isdecimal():
-                bangumi_ids.append(int(item))
+        bangumi_ids = [item.id for item in self.bangumi_index.index]
         return bangumi_ids
 
     @staticmethod
-    def format_bangumi(bangumi: Bangumi, inplace=True) -> Bangumi:
+    def format_bangumi_data(bangumi: BangumiData, inplace=True) -> BangumiData:
         if inplace is True:
             result = bangumi
         else:
-            result = Bangumi()
+            result = BangumiData()
             result.CopyFrom(bangumi)
 
         result.episodes.sort(key=lambda x: x.index)

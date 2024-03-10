@@ -44,7 +44,7 @@ if __name__ == '__main__':
     
     bangumi_handler = BangumiHandler(storage_path=config.bangumi_data_dir)
 
-    bangumi_handler.read_bangumi_file(bangumi_id=bangumi_id)
+    bangumi_handler.read_bangumi_data_file(bangumi_id=bangumi_id)
 
     new_config = dmhy_handler.add_config(key=key, bangumi_id=bangumi_id, rss_url=parsed_url.geturl())
 

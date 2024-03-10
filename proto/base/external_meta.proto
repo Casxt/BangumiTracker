@@ -1,0 +1,28 @@
+syntax = "proto3";
+package base;
+
+message ExternalMeta {
+    oneof external_meta {
+        WhatsLink_Info whats_link = 1;
+        Bangumi_TV bangumi_tv = 2;
+    }
+}
+
+message Bangumi_TV {
+    // https://github.com/bangumi/api/wiki/Subject-API
+    string url = 1;
+}
+
+message WhatsLink_Info {
+    message WhatsLinkScreenshot {
+        int64 time = 1;
+        string screenshot = 2;
+    }
+    // https://whatslink.info/
+    string type = 1;
+    string file_type = 2;
+    string name = 3;
+    int64 size = 4;
+    int64 count = 5;
+    repeated WhatsLinkScreenshot screenshots = 6;
+}

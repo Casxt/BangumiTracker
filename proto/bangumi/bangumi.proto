@@ -1,0 +1,35 @@
+syntax = "proto3";
+package bangumi;
+
+import "base/language_code.proto";
+import "base/resources.proto";
+import "base/external_meta.proto";
+
+
+message Series {
+  uint64 id = 1;
+  repeated uint64 bangumi_ids = 2;
+  repeated .base.ExternalMeta external_metas = 3;
+
+}
+
+message Bangumi {
+  uint64 id = 1;
+  uint64 series_id = 2;
+  repeated Name names = 3;
+  repeated Episode episodes = 4;
+  repeated .base.ExternalMeta external_metas = 5;
+}
+
+message Episode {
+  string index = 1;
+  repeated Name names = 2;
+  repeated .base.ExternalResource resources = 3;
+}
+
+message Name {
+  .base.LanguageCode language_code = 1;
+  string name = 2;
+}
+
+

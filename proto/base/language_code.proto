@@ -1,0 +1,9 @@
+syntax = "proto3";
+package base;
+
+enum LanguageCode {
+    ENG = 0;
+    CHS = 1;
+    CHT = 2;
+    JPN = 3;
+}

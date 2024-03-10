@@ -1,0 +1,32 @@
+syntax = "proto3";
+package base;
+
+import "base/external_meta.proto";
+import "base/tag.proto";
+
+message ExternalResource {
+    oneof resources {
+        Magnet magnet = 1;
+        Website website = 2;
+        SHARE_DMHY_ORG share_dmhy_org = 3;
+    }
+}
+
+message SHARE_DMHY_ORG {
+    Magnet magnet = 1;
+    
+    string author = 2;
+    uint64 publish_timestamp = 3;
+    string title = 4;
+    string page_link = 5;
+    repeated .base.Tag tags = 7;
+}
+
+message Magnet {
+    string url = 1;
+    repeated .base.ExternalMeta external_metas = 2;
+}
+
+message Website {
+    string url = 1;
+}

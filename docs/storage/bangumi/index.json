@@ -1,0 +1,31 @@
+{
+    "index": [
+        {
+            "id": "1",
+            "names": [
+                {
+                    "language_code": "CHS",
+                    "name": "葬送的芙莉莲"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "names": [
+                {
+                    "language_code": "CHS",
+                    "name": "不死不幸"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "names": [
+                {
+                    "language_code": "CHS",
+                    "name": "家里蹲吸血姬的苦闷"
+                }
+            ]
+        }
+    ]
+}

@@ -203,6 +203,40 @@
                 {
                     "share_dmhy_org": {
                         "magnet": {
+                            "url": "magnet:?xt=urn:btih:CMLCED5WTQNLMCLLNOXKBW6OHXGTHJD7&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "黑暗路基艾尔",
+                        "publish_timestamp": "1710925365",
+                        "title": "[DBD-Raws][葬送的芙莉莲/Sousou no Frieren/葬送のフリーレン][09-12TV][BOX3][1080P][BDRip][HEVC-10bit][FLAC][MKV]",
+                        "page_link": "http://share.dmhy.org/topics/view/665162_DBD-Raws_Sousou_no_Frieren_09-12TV_BOX3_1080P_BDRip_HEVC-10bit_FLAC_MKV.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "DBD"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "MKV"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
                             "url": "magnet:?xt=urn:btih:COXLKUVLGDZLO5ZWDWSNYYW6F47SPA7X&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
                         },
                         "author": "我是搬运工",

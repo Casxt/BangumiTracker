@@ -15186,6 +15186,40 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:ZI6XYEWTRTWJPSOJTWMYT5HXLID3UUBW&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "B站沸羊羊都得叫我师傅",
+                        "publish_timestamp": "1711240011",
+                        "title": "[沸羊羊制作] 葬送的芙莉莲 / Sousou no Frieren - 28 [CRWebRip 1080p HEVC-10bit AAC][简日内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/665384_Sousou_no_Frieren_-_28_CRWebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "CRWEBRIP"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "沸羊羊制作"
+                            },
+                            {
+                                "tag": "简日内封字幕"
+                            }
+                        ]
+                    }
                 }
             ]
         }

@@ -1543,6 +1543,28 @@
                 {
                     "share_dmhy_org": {
                         "magnet": {
+                            "url": "magnet:?xt=urn:btih:DAXT5TVKVVWHLPNIFUNRSUZOEMGCJU6C&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "orion321",
+                        "publish_timestamp": "1711465061",
+                        "title": "[猎户不鸽压制] 不死不幸 / Undead Unluck [24] [END] [1080p] [简日内嵌] [2023年10月番] ",
+                        "page_link": "http://share.dmhy.org/topics/view/665561_Undead_Unluck_24_END_1080p_2023_10.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "猎户不鸽压制"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
                             "url": "magnet:?xt=urn:btih:OPMNI6B5XMGBCT2HIB4D6XBEAWY3265T&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
                         },
                         "author": "LoliHouse",

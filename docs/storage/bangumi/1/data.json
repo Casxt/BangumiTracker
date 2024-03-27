@@ -15169,6 +15169,62 @@
                 {
                     "share_dmhy_org": {
                         "magnet": {
+                            "url": "magnet:?xt=urn:btih:KP3AFO462VE7ZQOSFA7PZQ63YSIWKAGD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lazybee",
+                        "publish_timestamp": "1711550473",
+                        "title": "[离谱Sub] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren [28][HEVC AAC][1080p][简繁日内封][招募翻校]",
+                        "page_link": "http://share.dmhy.org/topics/view/665615_Sub_Sousou_no_Frieren_28_HEVC_AAC_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "离谱Sub"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:O3YDECIJ2TTDEY5TTMI4EGY3J6YWY7XQ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lazybee",
+                        "publish_timestamp": "1711550464",
+                        "title": "[离谱Sub] 葬送的芙莉莲 / 葬送のフリーレン / Sousou no Frieren [28][AVC AAC][1080p][简日内嵌][招募翻校]",
+                        "page_link": "http://share.dmhy.org/topics/view/665613_Sub_Sousou_no_Frieren_28_AVC_AAC_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "离谱Sub"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
                             "url": "magnet:?xt=urn:btih:R42ILPSUTWAWY3WFRJW5ZOHFAMODCTHD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
                         },
                         "author": "sakurato",
@@ -15184,6 +15240,34 @@
                             },
                             {
                                 "tag": "繁體內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:RHSJW5WPEDXLYZRSZK5W6XGIPRQJSAFE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lazybee",
+                        "publish_timestamp": "1711550468",
+                        "title": "[离谱Sub] 葬送的芙莉蓮 / 葬送のフリーレン / Sousou no Frieren [28][AVC AAC][1080p][繁日內嵌][招募翻校]",
+                        "page_link": "http://share.dmhy.org/topics/view/665614_Sub_Sousou_no_Frieren_28_AVC_AAC_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "离谱Sub"
+                            },
+                            {
+                                "tag": "繁日內嵌"
                             }
                         ]
                     }

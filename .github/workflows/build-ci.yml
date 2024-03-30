@@ -18,6 +18,8 @@ jobs:
         python-version: ["3.12"]
     steps:
     - uses: actions/checkout@v4
+      with:
+        branch: ${{ github.ref }}
     - name: Set Node.js 16.x
       uses: actions/setup-node@v3
       with:
@@ -35,6 +37,7 @@ jobs:
     - name: Build
       run: |
         cd app
+        
         yarn build
     - name: Check updates
       id: check_updates

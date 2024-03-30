@@ -12,9 +12,6 @@ on:
       rss_url:
         description: 'rss url'
         required: true
-      # bangumi_id:
-      #   description: "corresponding bangumi id"
-      #   required: true
 permissions:
   contents: write
 

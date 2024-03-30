@@ -36,7 +36,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "prebuild": "find ../docs -not -path '../docs/storage/*' -not -path '../docs/CNAME' -not -path '../docs/404.html' -delete",
+    "prebuild": "find '../docs' -not -path '../docs' -not -path '../docs/storage' -not -path '../docs/storage/*' -not -path '../docs/CNAME' -not -path '../docs/404.html' -delete",
     "build": "react-scripts build",
     "postbuild": "cp -r build/* ../docs/ && rm -rf build",
     "test": "react-scripts test",

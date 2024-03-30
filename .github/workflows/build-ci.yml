@@ -13,18 +13,20 @@ permissions:
 jobs:
   build-frontend:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ["3.12"]
     steps:
     - uses: actions/checkout@v4
-    - name: Set Node.js 16.x
-      uses: actions/setup-node@v3
       with:
-        node-version: 16.x
+        branch: ${{ github.ref }}
+    - name: Set Node.js 20.x
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+        cache: 'npm'
+        cache-dependency-path: app/yarn.lock
     - name: Run install
       uses: borales/actions-yarn@v4
       with:
+        dir: 'app'
         cmd: install # will run `yarn install` command
     - name: Install Protoc
       uses: arduino/setup-protoc@v3

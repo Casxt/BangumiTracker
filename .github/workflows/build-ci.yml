@@ -27,6 +27,7 @@ jobs:
     - name: Run install
       uses: borales/actions-yarn@v4
       with:
+        dir: 'app'
         cmd: install # will run `yarn install` command
     - name: Install Protoc
       uses: arduino/setup-protoc@v3
@@ -37,7 +38,6 @@ jobs:
     - name: Build
       run: |
         cd app
-        
         yarn build
     - name: Check updates
       id: check_updates

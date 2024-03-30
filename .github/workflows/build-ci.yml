@@ -1,0 +1,63 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Build CI
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  build-frontend:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set Node.js 16.x
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x
+    - name: Run install
+      uses: borales/actions-yarn@v4
+      with:
+        cmd: install # will run `yarn install` command
+    - name: Install Protoc
+      uses: arduino/setup-protoc@v3
+      with:
+        version: "25.3"
+    - name: Generage Protobuf
+      run: ./generage_proto_ts.sh
+    - name: Build
+      run: |
+        cd app
+        yarn build
+    - name: Check updates
+      id: check_updates
+      run: |
+        if [[ -z $(git status --porcelain) ]]; then
+          echo "no updates"
+          echo "::set-output name=no_updates::true"
+          exit
+        else
+          echo "check updates successful"
+          echo "::set-output name=no_updates::false"
+        fi
+
+    - name: Commit files
+      if: steps.check_updates.outputs.no_updates == 'false'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add storage
+        git commit -a -m "manually add bangumi"
+    - name: Push changes
+      if: steps.check_updates.outputs.no_updates == 'false'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

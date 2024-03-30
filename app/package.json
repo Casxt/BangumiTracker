@@ -1,0 +1,58 @@
+{
+  "name": "material-ui-cra-tailwind-ts",
+  "version": "5.0.0",
+  "private": true,
+  "proxy": "https://bangumi.maple.link",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.14",
+    "@mui/material": "^5.15.14",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@testing-library/user-event": "latest",
+    "@types/google-protobuf": "^3.15.12",
+    "@types/jest": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "axios": "^1.6.8",
+    "axios-cache-interceptor": "^1.5.1",
+    "google-protobuf": "^3.21.2",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.4",
+    "npm": "^10.5.0",
+    "postcss": "latest",
+    "protoc-gen-ts": "^0.8.7",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "latest",
+    "sort-by": "^1.2.0",
+    "tailwindcss": "latest",
+    "typescript": "latest",
+    "web-vitals": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "prebuild": "find ../docs -not -path '../docs/storage/*' -not -path '../docs/CNAME' -not -path '../docs/404.html' -delete",
+    "build": "react-scripts build",
+    "postbuild": "cp -r build/* ../docs/ && rm -rf build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+   
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

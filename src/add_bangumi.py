@@ -1,14 +1,10 @@
-import os
-import re
 import argparse
-import asyncio
 import logging
-from functools import partial
+import os
+
 from config.config import Settings
-from handler.tracker.share_dmhy_org_handler import ShareDMHYTrackerHandler
 from handler.bangumi_handler import BangumiHandler
 from proto_py.base.language_code_pb2 import LanguageCode
-
 
 # 配置日志输出格式和级别
 logging.basicConfig(level=logging.DEBUG,

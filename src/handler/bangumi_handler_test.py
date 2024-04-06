@@ -1,7 +1,10 @@
 import pytest
+
+from proto_py.bangumi.bangumi_pb2 import BangumiData, Episode
+from proto_py.base.resources_pb2 import (SHARE_DMHY_ORG, ExternalResource,
+                                         Magnet, Website)
+
 from .bangumi_handler import BangumiHandler
-from proto_py.bangumi.bangumi_pb2 import Episode, BangumiData
-from proto_py.base.resources_pb2 import ExternalResource, Magnet, Website, SHARE_DMHY_ORG
 
 
 def test_merge_bangumi_episodes(tmp_path):
@@ -58,13 +61,11 @@ def test_merge_bangumi_episodes(tmp_path):
     assert len(merged_episode.resources) == 6
     assert len(test_bangumi.episodes[0].resources) == 3
 
-        
     website_resources = tuple(
         filter(lambda x: x.HasField("website"), merged_episode.resources))
     assert len(website_resources) == 2
     assert set([x.website.url for x in website_resources]
                ) == set(["website", "website2"])
-    
 
     magnet_resources = tuple(
         filter(lambda x: x.HasField("magnet"), merged_episode.resources))
@@ -79,6 +80,7 @@ def test_merge_bangumi_episodes(tmp_path):
                ) == set(["share_dmhy_org", "share_dmhy_org2"])
     assert set([x.share_dmhy_org.author for x in dmhy_resources]
                ) == set(["author", "author2"])
+
 
 def test_create_bangumi(tmp_path):
     handler = BangumiHandler(str(tmp_path))
@@ -100,8 +102,8 @@ def test_create_bangumi(tmp_path):
 
     with pytest.raises(Exception):
         handler.create_bangumi(2, "test2", "CHS", 0)
-    
+
     with pytest.raises(Exception):
         handler.create_bangumi(3, "test2", "CHS", 0)
-    
+
     assert handler.get_bangumi_id_by_name("test2") == 2

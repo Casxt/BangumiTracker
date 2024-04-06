@@ -1,16 +1,19 @@
 import argparse
 import asyncio
+import datetime
 import hashlib
 import logging
-from functools import partial
 import traceback
-import datetime
-from config.config import Settings
-from handler.tracker.share_dmhy_org_handler import ShareDMHYTrackerHandler
-from handler.bangumi_handler import BangumiHandler
-from proto_py.tracker.share_dmhy_org_pb2 import SHARE_DMHY_ORG_TRACKER_CONFIG
-from proto_py.base import hash_pb2
+from functools import partial
+
 from google.protobuf.timestamp_pb2 import Timestamp
+
+from config.config import Settings
+from handler.bangumi_handler import BangumiHandler
+from handler.tracker.share_dmhy_org_handler import ShareDMHYTrackerHandler
+from proto_py.base import hash_pb2
+from proto_py.tracker.share_dmhy_org_pb2 import SHARE_DMHY_ORG_TRACKER_CONFIG
+
 
 def now_timestamp():
     now = datetime.datetime.now()

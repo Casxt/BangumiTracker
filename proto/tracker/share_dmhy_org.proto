@@ -11,6 +11,6 @@ message SHARE_DMHY_ORG_TRACKER_CONFIG {
     string key = 1;
     uint64 bangumi_id = 2;
     string rss_url = 3;
-    HASH latest_resp_hash = 4;
+    .base.HASH latest_resp_hash = 4;
     google.protobuf.Timestamp latest_update_time = 5;
 }

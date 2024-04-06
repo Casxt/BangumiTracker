@@ -2,6 +2,7 @@ import argparse
 import logging
 import os
 from urllib.parse import urlparse
+
 from config.config import Settings
 from handler.bangumi_handler import BangumiHandler
 from handler.tracker.share_dmhy_org_handler import ShareDMHYTrackerHandler

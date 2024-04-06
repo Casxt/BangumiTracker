@@ -1,13 +1,14 @@
-from ast import TypeVar
 import os
-from typing import Any, Iterable, Type, Callable
 from pathlib import Path
-from proto_py.bangumi.bangumi_pb2 import Episode, BangumiData, Name, Bangumi, BangumiIndex
-from proto_py.base.resources_pb2 import ExternalResource
-from proto_py.base.language_code_pb2 import LanguageCode
+from typing import Any, Callable, Iterable
+
 from google.protobuf import json_format
 from google.protobuf.message import Message
 
+from proto_py.bangumi.bangumi_pb2 import (Bangumi, BangumiData, BangumiIndex,
+                                          Episode, Name)
+from proto_py.base.language_code_pb2 import LanguageCode
+from proto_py.base.resources_pb2 import ExternalResource
 
 NameAlreadyExist = Exception("bangumi name already exist")
 BangumiNotExist = Exception("bangumi not exist")
@@ -86,7 +87,6 @@ class BangumiHandler():
                 #         exist_resource.share_dmhy_org.tags, lambda x: x.tag)
                 #     del exist_resource.share_dmhy_org.tags[:]
                 #     exist_resource.share_dmhy_org.tags.extend(deduped_array)
-
 
         return result
 
@@ -199,7 +199,7 @@ class BangumiHandler():
             raise BangumiNotExist
         bangumi_data = self.load_bangumi_data(bangumi_id)
         return bangumis[0], bangumi_data
-    
+
     def get_bangumi_id_by_name(self, bangumi_name: str) -> int:
         for index in self.bangumi_index.index:
             same_names = tuple(

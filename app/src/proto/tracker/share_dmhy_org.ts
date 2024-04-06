@@ -3,6 +3,8 @@
  * compiler version: 4.25.3
  * source: tracker/share_dmhy_org.proto
  * git: https://github.com/thesayyn/protoc-gen-ts */
+import * as dependency_1 from "./../google/protobuf/timestamp";
+import * as dependency_2 from "./../base/hash";
 import * as pb_1 from "google-protobuf";
 export class SHARE_DMHY_ORG_TRACKER extends pb_1.Message {
     #one_of_decls: number[][] = [];
@@ -77,6 +79,8 @@ export class SHARE_DMHY_ORG_TRACKER_CONFIG extends pb_1.Message {
         key?: string;
         bangumi_id?: number;
         rss_url?: string;
+        latest_resp_hash?: dependency_2.HASH;
+        latest_update_time?: dependency_1.Timestamp;
     }) {
         super();
         pb_1.Message.initialize(this, Array.isArray(data) ? data : [], 0, -1, [], this.#one_of_decls);
@@ -89,6 +93,12 @@ export class SHARE_DMHY_ORG_TRACKER_CONFIG extends pb_1.Message {
             }
             if ("rss_url" in data && data.rss_url != undefined) {
                 this.rss_url = data.rss_url;
+            }
+            if ("latest_resp_hash" in data && data.latest_resp_hash != undefined) {
+                this.latest_resp_hash = data.latest_resp_hash;
+            }
+            if ("latest_update_time" in data && data.latest_update_time != undefined) {
+                this.latest_update_time = data.latest_update_time;
             }
         }
     }
@@ -110,10 +120,30 @@ export class SHARE_DMHY_ORG_TRACKER_CONFIG extends pb_1.Message {
     set rss_url(value: string) {
         pb_1.Message.setField(this, 3, value);
     }
+    get latest_resp_hash() {
+        return pb_1.Message.getWrapperField(this, dependency_2.HASH, 4) as dependency_2.HASH;
+    }
+    set latest_resp_hash(value: dependency_2.HASH) {
+        pb_1.Message.setWrapperField(this, 4, value);
+    }
+    get has_latest_resp_hash() {
+        return pb_1.Message.getField(this, 4) != null;
+    }
+    get latest_update_time() {
+        return pb_1.Message.getWrapperField(this, dependency_1.Timestamp, 5) as dependency_1.Timestamp;
+    }
+    set latest_update_time(value: dependency_1.Timestamp) {
+        pb_1.Message.setWrapperField(this, 5, value);
+    }
+    get has_latest_update_time() {
+        return pb_1.Message.getField(this, 5) != null;
+    }
     static fromObject(data: {
         key?: string;
         bangumi_id?: number;
         rss_url?: string;
+        latest_resp_hash?: ReturnType<typeof dependency_2.HASH.prototype.toObject>;
+        latest_update_time?: ReturnType<typeof dependency_1.Timestamp.prototype.toObject>;
     }): SHARE_DMHY_ORG_TRACKER_CONFIG {
         const message = new SHARE_DMHY_ORG_TRACKER_CONFIG({});
         if (data.key != null) {
@@ -125,6 +155,12 @@ export class SHARE_DMHY_ORG_TRACKER_CONFIG extends pb_1.Message {
         if (data.rss_url != null) {
             message.rss_url = data.rss_url;
         }
+        if (data.latest_resp_hash != null) {
+            message.latest_resp_hash = dependency_2.HASH.fromObject(data.latest_resp_hash);
+        }
+        if (data.latest_update_time != null) {
+            message.latest_update_time = dependency_1.Timestamp.fromObject(data.latest_update_time);
+        }
         return message;
     }
     toObject() {
@@ -132,6 +168,8 @@ export class SHARE_DMHY_ORG_TRACKER_CONFIG extends pb_1.Message {
             key?: string;
             bangumi_id?: number;
             rss_url?: string;
+            latest_resp_hash?: ReturnType<typeof dependency_2.HASH.prototype.toObject>;
+            latest_update_time?: ReturnType<typeof dependency_1.Timestamp.prototype.toObject>;
         } = {};
         if (this.key != null) {
             data.key = this.key;
@@ -141,6 +179,12 @@ export class SHARE_DMHY_ORG_TRACKER_CONFIG extends pb_1.Message {
         }
         if (this.rss_url != null) {
             data.rss_url = this.rss_url;
+        }
+        if (this.latest_resp_hash != null) {
+            data.latest_resp_hash = this.latest_resp_hash.toObject();
+        }
+        if (this.latest_update_time != null) {
+            data.latest_update_time = this.latest_update_time.toObject();
         }
         return data;
     }
@@ -154,6 +198,10 @@ export class SHARE_DMHY_ORG_TRACKER_CONFIG extends pb_1.Message {
             writer.writeUint64(2, this.bangumi_id);
         if (this.rss_url.length)
             writer.writeString(3, this.rss_url);
+        if (this.has_latest_resp_hash)
+            writer.writeMessage(4, this.latest_resp_hash, () => this.latest_resp_hash.serialize(writer));
+        if (this.has_latest_update_time)
+            writer.writeMessage(5, this.latest_update_time, () => this.latest_update_time.serialize(writer));
         if (!w)
             return writer.getResultBuffer();
     }
@@ -171,6 +219,12 @@ export class SHARE_DMHY_ORG_TRACKER_CONFIG extends pb_1.Message {
                     break;
                 case 3:
                     message.rss_url = reader.readString();
+                    break;
+                case 4:
+                    reader.readMessage(message.latest_resp_hash, () => message.latest_resp_hash = dependency_2.HASH.deserialize(reader));
+                    break;
+                case 5:
+                    reader.readMessage(message.latest_update_time, () => message.latest_update_time = dependency_1.Timestamp.deserialize(reader));
                     break;
                 default: reader.skipField();
             }

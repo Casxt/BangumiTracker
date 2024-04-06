@@ -1,0 +1,11 @@
+syntax = "proto3";
+package base;
+
+enum HashType {
+    SHA256 = 0;
+}
+
+message HASH {
+    HashType type = 1;
+    bytes value = 2;
+}

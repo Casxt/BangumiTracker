@@ -87,7 +87,7 @@ class BangumiHandler():
                 #     del exist_resource.share_dmhy_org.tags[:]
                 #     exist_resource.share_dmhy_org.tags.extend(deduped_array)
 
-        print(result.resources)
+
         return result
 
     def load_bangumi_data(self, bangumi_id: int) -> BangumiData:
@@ -103,7 +103,7 @@ class BangumiHandler():
 
     def write_bangumi_data_file(self, bangumi: BangumiData):
         assert bangumi.bangumi_id != 0
-        self.format_bangumi_data(bangumi)
+        bangumi = self.format_bangumi_data(bangumi)
         json_str = json_format.MessageToJson(
             bangumi,
             including_default_value_fields=False,
@@ -252,7 +252,6 @@ class BangumiHandler():
         result.episodes.extend(deduped_array)
         for episode in result.episodes:
             BangumiHandler.format_episode(episode, inplace=inplace)
-
         return bangumi
 
     @staticmethod
@@ -298,7 +297,7 @@ class BangumiHandler():
         elif resources_type == "website":
             return resource.website.url
         elif resources_type == "share_dmhy_org":
-            return resource.share_dmhy_org.magnet.url
+            return resource.share_dmhy_org.page_link
         else:
             raise UnsupportedExternalResource
 

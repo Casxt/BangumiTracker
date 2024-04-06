@@ -7,21 +7,22 @@ from google.protobuf import json_format
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from urllib.parse import urlparse, parse_qs, urlunparse, urlencode
-
+import hashlib
 import re
-
 
 
 RedunantConfigKeyExpection = Exception("config key already exists")
 HTTPNot200Expection = Exception("http status code is not 200")
 
+
 class ShareDMHYTrackerHandler():
     rss_config = share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER()
     rss_config_path = ""
+
     def __init__(self, config_path: str) -> None:
         self.rss_config_path = config_path
         self.rss_config = self.load_config(config_path)
-    
+
     def add_config(self, key: str, bangumi_id: int, rss_url: str) -> share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER_CONFIG:
         assert key != ""
         assert rss_url != ""
@@ -36,20 +37,21 @@ class ShareDMHYTrackerHandler():
         self.rss_config.configs.append(new_config)
         self.save_config()
         return new_config
-    
+
     def delete_config(self, key: str):
         assert key != ""
-        self.rss_config.configs[:] = [x for x in self.rss_config.configs if x.key != key]
+        self.rss_config.configs[:] = [
+            x for x in self.rss_config.configs if x.key != key]
 
     def config_to_json(self) -> str:
         return json_format.MessageToJson(
-            self.rss_config, 
-            preserving_proto_field_name=True, 
-            including_default_value_fields=False, 
+            self.rss_config,
+            preserving_proto_field_name=True,
+            including_default_value_fields=False,
             indent=4,
             ensure_ascii=False,
-            )
-        
+        )
+
     def save_config(self):
         assert self.rss_config_path != ""
         json_str = self.config_to_json()
@@ -62,7 +64,13 @@ class ShareDMHYTrackerHandler():
         with open(config_path, "r") as f:
             json_format.Parse(f.read(), config, ignore_unknown_fields=True)
         return config
-    
+
+    def update_config(self, rss_config: share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER_CONFIG):
+        for _, rss in enumerate(self.rss_config.configs):
+            if rss.key == rss_config.key:
+                rss.CopyFrom(rss_config)
+        self.save_config()
+
     @staticmethod
     async def get_rss(url: str) -> str:
         async with aiohttp.ClientSession() as session:
@@ -71,7 +79,6 @@ class ShareDMHYTrackerHandler():
                     raise HTTPNot200Expection
                 return await response.text()
     
-
     def parse_xml(self, xml_data: str) -> Iterable[bangumi_pb2.Episode]:
         result_map = {}
         root = ET.fromstring(xml_data)
@@ -83,10 +90,11 @@ class ShareDMHYTrackerHandler():
             author = item.find('author').text
             enclosure = item.find('enclosure').get("url")
             enclosure = self._format_magnet(enclosure)
-            
+
             edisode_idx = self._extra_episode_index(title)
             tags = self._collecting_tag(self._split_title(title))
-            edisode: bangumi_pb2.Episode = result_map.get(edisode_idx, bangumi_pb2.Episode(index=edisode_idx))
+            edisode: bangumi_pb2.Episode = result_map.get(
+                edisode_idx, bangumi_pb2.Episode(index=edisode_idx))
             edisode.resources.append(
                 resources_pb2.ExternalResource(
                     share_dmhy_org=resources_pb2.SHARE_DMHY_ORG(
@@ -116,13 +124,12 @@ class ShareDMHYTrackerHandler():
 
     @staticmethod
     def _extra_episode_index(string: str) -> str:
-        pattern_1 = r"第(\d{1,3})[集话話]" # 第1集 第1话 第1話
-        pattern_2 = r"-\s(\d{2,3})\s" # - 02
-        pattern_3 = r"\[(\d{2,3})\]" # [03]
-        pattern_4 = r"\[(\d{2,3})[vV]?\d{1}]" # [04v2]
-        pattern_5 = r"【(\d{2,3})\】" # 【05】
-        pattern_6 = r"【(\d{2,3})[vV]?\d{1}】" # 【06】
-
+        pattern_1 = r"第(\d{1,3})[集话話]"  # 第1集 第1话 第1話
+        pattern_2 = r"-\s(\d{2,3})\s"  # - 02
+        pattern_3 = r"\[(\d{2,3})\]"  # [03]
+        pattern_4 = r"\[(\d{2,3})[vV]?\d{1}]"  # [04v2]
+        pattern_5 = r"【(\d{2,3})\】"  # 【05】
+        pattern_6 = r"【(\d{2,3})[vV]?\d{1}】"  # 【06】
 
         for pattern in (pattern_1, pattern_2, pattern_3, pattern_4, pattern_5, pattern_6):
             match = re.search(pattern, string)
@@ -131,7 +138,7 @@ class ShareDMHYTrackerHandler():
                 if episode_number.isdecimal():
                     return episode_number
         return ""
-    
+
     @staticmethod
     def _split_title(string: str) -> Iterable[str]:
         # 使用_、空格、【】、[]、『』、「」、- 、&和 \ 作为分隔符
@@ -139,7 +146,7 @@ class ShareDMHYTrackerHandler():
         result = re.split(pattern, string)
         result = [x for x in result if len(x) > 0]
         return result
-    
+
     @staticmethod
     def _collecting_tag(strings:  Iterable[str]) -> Iterable[tag_pb2.Tag]:
         result = []
@@ -149,7 +156,7 @@ class ShareDMHYTrackerHandler():
             ShareDMHYTrackerHandler._collecting_subtitle_tag,
             ShareDMHYTrackerHandler._collecting_audio_video_fromat_tag,
             ShareDMHYTrackerHandler._collecting_bundle_tag,
-            ]
+        ]
         for i, s in enumerate(strings):
             # 第一个分片一般是字幕组
             if i == 0 and not s.isdigit():
@@ -163,7 +170,7 @@ class ShareDMHYTrackerHandler():
                         result.append(tag)
                     break
         return result
-    
+
     @staticmethod
     def _collecting_resolution_tag(string:  str) -> tuple[tag_pb2.Tag, bool]:
         # 提取分辨率
@@ -185,7 +192,8 @@ class ShareDMHYTrackerHandler():
     @staticmethod
     def _collecting_subtitle_tag(string:  str) -> tuple[tag_pb2.Tag, bool]:
         string = string.upper()
-        white_list = ["字幕","内嵌", "内封", "双语", "雙語", "简", "繁", "CHT", "CHS", "BIG5","GB"]
+        white_list = ["字幕", "内嵌", "内封", "双语", "雙語",
+                      "简", "繁", "CHT", "CHS", "BIG5", "GB"]
         for s in white_list:
             if s in string:
                 return tag_pb2.Tag(tag=string), True
@@ -194,21 +202,21 @@ class ShareDMHYTrackerHandler():
     @staticmethod
     def _collecting_audio_video_fromat_tag(string:  str) -> tuple[tag_pb2.Tag, bool]:
         string = string.upper()
-        white_list = ["MP4","MKV", "10BIT", "8BIT", "X264", "HEVC", "X265", "AAC", "AVC", "FLAC", "320K"]
+        white_list = ["MP4", "MKV", "10BIT", "8BIT", "X264",
+                      "HEVC", "X265", "AAC", "AVC", "FLAC", "320K"]
         for s in white_list:
             if s in string:
                 return tag_pb2.Tag(tag=string), True
         return tag_pb2.Tag(), False
-    
+
     @staticmethod
     def _collecting_bundle_tag(string:  str) -> tuple[tag_pb2.Tag, bool]:
         string = string.upper()
-        white_list = ["WEB","BD", "OP", "ED"]
+        white_list = ["WEB", "BD", "OP", "ED"]
         for s in white_list:
             if s in string:
                 return tag_pb2.Tag(tag=string), True
         return tag_pb2.Tag(), False
-    
 
     @staticmethod
     def _format_magnet(url_str: str) -> str:
@@ -220,5 +228,6 @@ class ShareDMHYTrackerHandler():
         trs = trs[:min(5, len(trs))]
         query_map["tr"] = trs
         filtered_query_string = urlencode(query_map, doseq=True)
-        filtered_url = urlunparse(parsed_url._replace(query=filtered_query_string))
+        filtered_url = urlunparse(
+            parsed_url._replace(query=filtered_query_string))
         return filtered_url.replace("?", "&").replace("magnet://", "magnet:?xt=urn:btih:")

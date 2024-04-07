@@ -38,6 +38,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "postbuild": "ln -s ../storage build/storage && ln -s ../CNAME build/CNAME &&  ln -s build/index.html build/404.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

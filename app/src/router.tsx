@@ -5,6 +5,7 @@ import {
 
 import { FullBangumiPage } from "./pages/FullBangumiPage"
 import { BangumiDataPage } from "./pages/BangumiDataPage";
+import { RecentUpdatesPage } from "./pages/RecentUpdatesPage";
 
 export const router = createBrowserRouter([
   {
@@ -14,6 +15,10 @@ export const router = createBrowserRouter([
   {
     path: "/list",
     element: <FullBangumiPage />,
+  },
+  {
+    path: "/updates",
+    element: <RecentUpdatesPage />,
   },
   {
     path: "/bangumi/:bangumiID",

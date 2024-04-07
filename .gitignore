@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 src/proto_py
+app/src/proto
 
 .vscode
 

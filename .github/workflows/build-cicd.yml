@@ -4,9 +4,15 @@
 name: Build CI/CD
 
 on:
+  workflow_dispatch:
+    inputs:
+      source_branch:
+        description: 'source code branch'
+        required: true
+        default: 'main'
   push:
     branches: [ "main" ]
-  workflow_dispatch:
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
@@ -27,7 +33,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        branch: ${{ github.ref }}
+        ref: ${{ inputs.source_branch }}
     - name: Set Node.js 20.x
       uses: actions/setup-node@v4
       with:

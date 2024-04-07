@@ -18,17 +18,14 @@ permissions:
 jobs:
   add_bangumi:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ["3.12"]
     steps:
     - uses: actions/checkout@v4
       with:
-        branch: ${{ github.ref }}
+        ref: ${{ github.ref }}
     - name: Set up Python 3.12
       uses: actions/setup-python@v4
       with:
-        python-version: ${{ matrix.python-version }}
+        python-version: "3.12"
         cache: 'pip'
     - name: Install dependencies
       run: |
@@ -39,8 +36,8 @@ jobs:
       uses: arduino/setup-protoc@v3
       with:
         version: "25.3"
-    - name: Generage Protobuf
-      run: ./generage_proto.sh
+    - name: Generate Protobuf
+      run: ./generate_proto.sh
     - name: Add Bangumi
       env:
         BANGUMI_NAME: ${{ inputs.bangumi_name }}

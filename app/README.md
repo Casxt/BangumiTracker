@@ -7,7 +7,7 @@ Install dependencies and generate proto:
 ```bash
 yarn install
 cd ..
-./generage_proto_ts.sh
+./generate_proto_ts.sh
 ```
 
 Start Project:

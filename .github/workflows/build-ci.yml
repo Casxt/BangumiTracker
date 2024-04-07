@@ -43,11 +43,11 @@ jobs:
       run: |
         if [[ -z $(git status --porcelain) ]]; then
           echo "no updates"
-          echo "::set-output name=no_updates::true"
+          echo "no_updates=true" >> $GITHUB_OUTPUT
           exit
         else
-          echo "check updates successful"
-          echo "::set-output name=no_updates::false"
+          echo "changes detected"
+          echo "no_updates=false" >> $GITHUB_OUTPUT
         fi
 
     - name: Commit files
@@ -55,7 +55,7 @@ jobs:
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add storage
+        git add docs
         git commit -a -m "manually add bangumi"
     - name: Push changes
       if: steps.check_updates.outputs.no_updates == 'false'

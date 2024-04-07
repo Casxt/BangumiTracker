@@ -44,11 +44,11 @@ jobs:
       run: |
         if [[ -z $(git status --porcelain) ]]; then
           echo "no updates"
-          echo "::set-output name=no_updates::true"
+          echo "no_updates=true" >> $GITHUB_OUTPUT
           exit
         else
-          echo "check updates successful"
-          echo "::set-output name=no_updates::false"
+          echo "changes detected"
+          echo "no_updates=false" >> $GITHUB_OUTPUT
         fi
 
     - name: Commit files

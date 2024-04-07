@@ -29,6 +29,13 @@ declare module '@mui/material/Switch' {
     }
 }
 
+declare module '@mui/lab/TimelineDot' {
+    interface TimelineDotPropsColorOverrides {
+        pink: true;
+    }
+}
+
+
 
 const rootElement = document.getElementById('root');
 

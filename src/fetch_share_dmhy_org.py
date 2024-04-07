@@ -12,9 +12,9 @@ from proto_py.tracker.share_dmhy_org_pb2 import SHARE_DMHY_ORG_TRACKER_CONFIG
 from proto_py.base import hash_pb2
 from google.protobuf.timestamp_pb2 import Timestamp
 
-def now_timestamp():
-    now = datetime.datetime.now()
-    return Timestamp(seconds=int(now.timestamp()), nanos=now.microsecond * 1000)
+def now_timestring():
+    now = datetime.datetime.now(tz=datetime.timezone.utc)
+    return now.strftime("%Y-%m-%dT%H:%M:%S.%fZ")
 
 
 # 配置日志输出格式和级别
@@ -43,8 +43,7 @@ async def fetch_rss_data(dmhy_handler: ShareDMHYTrackerHandler,
         rss_data_hash = get_hash(bangumi.SerializeToString(deterministic=True))
         if rss_config.latest_resp_hash.value != rss_data_hash:
             rss_config.latest_resp_hash.CopyFrom(hash_pb2.HASH(type=hash_pb2.SHA256, value=rss_data_hash))
-            rss_config.latest_update_time.CopyFrom(now_timestamp())
-        else:
+            rss_config.latest_update_time = now_timestring()
             logging.info("bangumi [%d: %s] do not have any updates, skipped", rss_config.bangumi_id, rss_config.key)
             return
         bangumi_handler.write_bangumi_data_file(bangumi=bangumi)

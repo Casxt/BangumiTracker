@@ -44,7 +44,7 @@ const App = () => {
 
           <Box sx={{ flexGrow: 1 }} />
 
-          <Link href="/" underline="hover" color="inherit" mx={1}>
+          <Link href="/updates" underline="hover" color="inherit" mx={1}>
             Updates
           </Link>
           <Link href="/" underline="hover" color="inherit" mx={1}>

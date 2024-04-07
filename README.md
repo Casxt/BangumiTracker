@@ -3,7 +3,7 @@
 ## running locally
 
 1. install protoc
-2. execute generage_proto.sh
+2. execute generate_proto.sh
 3. change the code
 4. execute ut.sh
 

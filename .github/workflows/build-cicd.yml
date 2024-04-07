@@ -49,38 +49,12 @@ jobs:
       uses: arduino/setup-protoc@v3
       with:
         version: "25.3"
-    - name: Generage Protobuf
-      run: ./generage_proto_ts.sh
+    - name: Generate Protobuf
+      run: ./generate_proto_ts.sh
     - name: Build
       run: |
         cd app
         yarn build
-    - name: Check updates
-      id: check_updates
-      run: |
-        if [[ -z $(git status --porcelain) ]]; then
-          echo "no updates"
-          echo "no_updates=true" >> $GITHUB_OUTPUT
-          exit
-        else
-          echo "changes detected"
-          echo "no_updates=false" >> $GITHUB_OUTPUT
-        fi
-
-    # - name: Commit files
-    #   if: steps.check_updates.outputs.no_updates == 'false'
-    #   run: |
-    #     git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-    #     git config --local user.name "github-actions[bot]"
-    #     git add docs
-    #     git commit -a -m "manually add bangumi"
-    # - name: Push changes
-    #   if: steps.check_updates.outputs.no_updates == 'false'
-    #   uses: ad-m/github-push-action@master
-    #   with:
-    #     github_token: ${{ secrets.GITHUB_TOKEN }}
-    #     branch: ${{ github.ref }}
-
     - name: Archive artifact
       shell: sh
       if: runner.os == 'Linux'

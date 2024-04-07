@@ -36,8 +36,8 @@ jobs:
       uses: arduino/setup-protoc@v3
       with:
         version: "25.3"
-    - name: Generage Protobuf
-      run: ./generage_proto.sh
+    - name: Generate Protobuf
+      run: ./generate_proto.sh
     - name: Add RSS
       env:
         RSS_KEY: ${{ inputs.rss_key }}

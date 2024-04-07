@@ -39,7 +39,6 @@
     "start": "react-scripts start",
     "prebuild": "cd .. && ./generate_proto_ts.sh",
     "build": "react-scripts build",
-    "postbuild": "ln -s build/index.html build/404.html && ln -s ../CNAME build/CNAME ",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

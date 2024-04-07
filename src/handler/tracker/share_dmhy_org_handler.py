@@ -1,15 +1,15 @@
-from typing import Iterable
-import aiohttp
-from proto_py.tracker import share_dmhy_org_pb2
-from proto_py.bangumi import bangumi_pb2
-from proto_py.base import language_code_pb2, resources_pb2, tag_pb2
-from google.protobuf import json_format
+import re
 import xml.etree.ElementTree as ET
 from datetime import datetime
-from urllib.parse import urlparse, parse_qs, urlunparse, urlencode
-import hashlib
-import re
+from typing import Iterable
+from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 
+import aiohttp
+from google.protobuf import json_format
+
+from proto_py.bangumi import bangumi_pb2
+from proto_py.base import resources_pb2, tag_pb2
+from proto_py.tracker import share_dmhy_org_pb2
 
 RedunantConfigKeyExpection = Exception("config key already exists")
 HTTPNot200Expection = Exception("http status code is not 200")
@@ -40,8 +40,9 @@ class ShareDMHYTrackerHandler():
 
     def delete_config(self, key: str):
         assert key != ""
-        self.rss_config.configs[:] = [
-            x for x in self.rss_config.configs if x.key != key]
+        new_list = [x for x in self.rss_config.configs if x.key != key]
+        del self.rss_config.configs[:]
+        self.rss_config.configs.extend(new_list)
 
     def config_to_json(self) -> str:
         return json_format.MessageToJson(
@@ -78,7 +79,7 @@ class ShareDMHYTrackerHandler():
                 if response.status != 200:
                     raise HTTPNot200Expection
                 return await response.text()
-    
+
     def parse_xml(self, xml_data: str) -> Iterable[bangumi_pb2.Episode]:
         result_map = {}
         root = ET.fromstring(xml_data)

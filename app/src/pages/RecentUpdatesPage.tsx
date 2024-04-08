@@ -17,6 +17,9 @@ import TimelineDot from '@mui/lab/TimelineDot';
 import TimelineOppositeContent, {
     timelineOppositeContentClasses,
 } from '@mui/lab/TimelineOppositeContent';
+
+const WeekDayNames = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
+
 function getWeekDay(date: Date): number {
     const day = date.getDay();
     if (day === 0) {
@@ -70,7 +73,7 @@ function getDateString(isotime: string): string {
     }
     // last week
     if (days_between <= (today_week_day - 1 + 7)) {
-        return `Last week ${date_week_day} ` + date.toLocaleTimeString('en-US', {
+        return `Last week ${WeekDayNames[date_week_day - 1]} ` + date.toLocaleTimeString('en-US', {
             hour12: false,
             hour: '2-digit',
             minute: '2-digit',
@@ -120,9 +123,11 @@ export function RecentUpdatesPage() {
                     {updatedBangumi.map((anime: Bangumi, index: number) => (
                         <TimelineItem key={index}>
                             <TimelineOppositeContent color="textSecondary">
-                                <Typography variant="overline" component="span" sx={{ lineHeight: '1rem' }}>
-                                    {getDateString(trackerData.get(anime.id)?.latest_update_time || "")}
-                                </Typography>
+                                <Box width={'5rem'}>
+                                    <Typography variant="overline" component="span" sx={{ lineHeight: '1rem' }}>
+                                        {getDateString(trackerData.get(anime.id)?.latest_update_time || "")}
+                                    </Typography>
+                                </Box>
                             </TimelineOppositeContent>
                             <TimelineSeparator sx={{ height: '6em' }}>
                                 <TimelineDot color="pink">

@@ -10,6 +10,13 @@ on:
         description: 'source code branch'
         required: true
         default: 'main'
+  workflow_call:
+    inputs:
+      source_branch:
+        description: 'source code branch'
+        required: true
+        default: 'main'
+        type: string
   push:
     branches: [ "main" ]
 

@@ -64,6 +64,7 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
     - name: ci/cd
+      if: steps.check_updates.outputs.no_updates == 'false'
       uses: ./.github/workflows/build-cicd.yml
       with:
         source_branch: main

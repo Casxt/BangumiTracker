@@ -2,6 +2,66 @@
     "bangumi_id": "6",
     "episodes": [
         {
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OMIBEFIWF7MBAP7PMBHUDBO5S5JKUYOJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "jiaoloveKT",
+                        "publish_timestamp": "1712560717",
+                        "title": "【极影字幕社】★4月新番 狼与香辛料 行商邂逅贤狼/Ookami to Koushinryou: Merchant Meets the Wise Wolf 第01v2话 GB 720P MP4（字幕社招人内详）",
+                        "page_link": "http://share.dmhy.org/topics/view/666558_4_Ookami_to_Koushinryou_Merchant_Meets_the_Wise_Wolf_01v2_GB_720P_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "字幕社招人内详"
+                            },
+                            {
+                                "tag": "极影字幕社"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:M7XBNYFMTR47YQ3LF35LQDCZXSI22ABX&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "jiaoloveKT",
+                        "publish_timestamp": "1712560742",
+                        "title": "【极影字幕社】★4月新番 狼与香辛料 行商邂逅贤狼/Ookami to Koushinryou: Merchant Meets the Wise Wolf 第01v2话 GB 1080P MP4（字幕社招人内详）",
+                        "page_link": "http://share.dmhy.org/topics/view/666559_4_Ookami_to_Koushinryou_Merchant_Meets_the_Wise_Wolf_01v2_GB_1080P_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "字幕社招人内详"
+                            },
+                            {
+                                "tag": "极影字幕社"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
             "index": "01",
             "resources": [
                 {

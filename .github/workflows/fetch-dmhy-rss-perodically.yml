@@ -72,6 +72,9 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
+    - uses: actions/checkout@v4
+      with:
+        ref: ${{ github.ref }}
     - name: ci/cd
       if: steps.check_updates.outputs.no_updates == 'false' || inputs.force_deploy
       uses: ./.github/workflows/build-cicd.yml

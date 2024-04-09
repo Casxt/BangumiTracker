@@ -57,7 +57,11 @@
         {
             "key": "转生为第七王子，随心所欲的魔法学习之路",
             "bangumi_id": "7",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%BD%AC%E7%94%9F%E4%B8%BA%E7%AC%AC%E4%B8%83%E7%8E%8B%E5%AD%90%7C%E8%BD%89%E7%94%9F%E7%82%BA%E7%AC%AC%E4%B8%83%E7%8E%8B%E5%AD%90"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%BD%AC%E7%94%9F%E4%B8%BA%E7%AC%AC%E4%B8%83%E7%8E%8B%E5%AD%90%7C%E8%BD%89%E7%94%9F%E7%82%BA%E7%AC%AC%E4%B8%83%E7%8E%8B%E5%AD%90",
+            "latest_resp_hash": {
+                "value": "+wHZbGmJtw71hRnfpOMP8u6jxvHnV2AdWlK24S0CRiM="
+            },
+            "latest_update_time": "2024-04-09T10:07:25.541551Z"
         }
     ]
 }

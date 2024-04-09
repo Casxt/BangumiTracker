@@ -72,9 +72,9 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
   deploy:
-    needs: [fetch]
-    if: ${{ needs.fetch.outputs.git_updated || inputs.force_deploy }}
-    runs-on: ubuntu-latest
     uses: ./.github/workflows/build-cicd.yml
     with:
       source_branch: ${{ github.ref }}
+    needs: [fetch]
+    if: ${{ needs.fetch.outputs.git_updated || inputs.force_deploy }}
+

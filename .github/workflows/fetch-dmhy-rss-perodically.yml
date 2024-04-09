@@ -43,6 +43,8 @@ jobs:
       run: |
         python src/fetch_share_dmhy_org.py -c .env.prod
         python src/cleanup_dmhy_rss_config.py -c .env.prod
+        tree ./
+        
     - name: Check updates
       id: check_updates
       run: |
@@ -54,7 +56,6 @@ jobs:
           echo "changes detected"
           echo "no_updates=false" >> $GITHUB_OUTPUT
         fi
-        tree .
 
     - name: Commit files
       if: steps.check_updates.outputs.no_updates == 'false'

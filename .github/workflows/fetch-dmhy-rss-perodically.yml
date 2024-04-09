@@ -77,4 +77,9 @@ jobs:
       source_branch: ${{ github.ref }}
     needs: [fetch]
     if: ${{ needs.fetch.outputs.git_updated || inputs.force_deploy }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
 

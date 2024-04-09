@@ -45,9 +45,6 @@ jobs:
       run: |
         python src/fetch_share_dmhy_org.py -c .env.prod
         python src/cleanup_dmhy_rss_config.py -c .env.prod
-        tree ./.github
-        pwd
-        ls -l
 
     - name: Check updates
       id: check_updates

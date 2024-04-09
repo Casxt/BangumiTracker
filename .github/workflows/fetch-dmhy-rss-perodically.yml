@@ -54,6 +54,7 @@ jobs:
           echo "changes detected"
           echo "no_updates=false" >> $GITHUB_OUTPUT
         fi
+        tree .
 
     - name: Commit files
       if: steps.check_updates.outputs.no_updates == 'false'
@@ -62,7 +63,6 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add storage
         git commit -a -m "manually fetch rss"
-        tree .
     - name: Push changes
       if: steps.check_updates.outputs.no_updates == 'false'
       uses: ad-m/github-push-action@master

@@ -19,6 +19,8 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    outputs:
+      git_updated: ${{ steps.check_updates.outputs.no_updates == 'false' }}
     steps:
     - uses: actions/checkout@v4
       with:
@@ -72,11 +74,10 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
-    - uses: actions/checkout@v4
-      with:
-        ref: ${{ github.ref }}
-    - name: ci/cd
-      if: steps.check_updates.outputs.no_updates == 'false' || inputs.force_deploy
-      uses: ./.github/workflows/build-cicd.yml
-      with:
-        source_branch: main
+  deploy:
+    needs: [fetch]
+    if: ${{ needs.fetch.outputs.git_updated || inputs.force_deploy }}
+    runs-on: ubuntu-latest
+    uses: ./.github/workflows/build-cicd.yml
+    with:
+      source_branch: ${{ github.ref }}

@@ -2,13 +2,12 @@ import * as React from 'react';
 import { Episode } from "../proto/bangumi/bangumi";
 import { Tag } from "../proto/base/tag";
 import { ExternalResource } from "../proto/base/resources";
-import { Avatar, Box, Divider, IconButton, Link, Snackbar, Stack, ThemeProvider, Tooltip, Typography } from '@mui/material';
+import { Box, Divider, IconButton, Link, Snackbar, Stack, Tooltip, Typography } from '@mui/material';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
-import { BorderColor } from '@mui/icons-material';
 import { EpisodeResourcesTagsTray } from './EpisodeResourcesTagsTray';
 import { filterResourcesByTags } from './filterResourcesByTags';
 import { copyTextToClipboard } from './copyTextToClipboard';
-import { theme } from '../theme';
+
 interface EpisodeResourcesTrayParam {
     episode: Episode;
     onTagClick?: (tag: Tag) => void;
@@ -56,18 +55,18 @@ export function EpisodeResourcesTray(param: EpisodeResourcesTrayParam) {
                         <EpisodeResourcesTagsTray tags={dmhy_data.tags} selectedTags={selectedTags} onClick={onTagClick} />
                     </Stack>
                     <Divider className='my-2' />
-                    <Snackbar
-                        open={openSnackbar}
-                        autoHideDuration={6000}
-                        onClose={handleSnackbarClose}
-                        message="magnet link are copied to your clipboard"
-                    />
                 </Box>;
             }
         })
     }, [episode, onTagClick, selectedTags]);
     return <Box>
         {elems}
+        <Snackbar
+            open={openSnackbar}
+            autoHideDuration={6000}
+            onClose={handleSnackbarClose}
+            message="magnet link are copied to your clipboard"
+        />
     </Box>;
 }
 

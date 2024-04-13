@@ -32,20 +32,20 @@ export function BangumiDataPage() {
 
     const [loadingBangumi, setLoadingBangumi] = useState(true);
 
-
-    useEffect(() => {
-        getBangumiData(Number(bangumiID)).then(resp => {
-
-            setBangumiData(resp.data);
-        }).finally(() => { setLoadingBangumi(false) });
-    }, [bangumiID])
-
     const [bangumiData, setBangumiData] = useState(new BangumiData);
     const [episodeArray, setEpisodeArray] = useState(new Array<Episode>());
     const [selectedTags, setSelectedTags] = useState(new Set<string>());
 
     const [openSnackbar, setOpenSnackbar] = React.useState(false);
     const [descendingOrder, setDescendingOrder] = React.useState(true);
+
+    useEffect(() => {
+        getBangumiData(Number(bangumiID)).then(resp => {
+            if (resp.data?.episodes?.length) {
+                setBangumiData(resp.data);
+            }
+        }).finally(() => { setLoadingBangumi(false) });
+    }, [bangumiID])
 
     const handleSnackbarClose = (event: React.SyntheticEvent | Event, reason?: string) => {
         setOpenSnackbar(false);
@@ -67,7 +67,7 @@ export function BangumiDataPage() {
                 setOpenSnackbar(r);
             }
         )
-    }, [])
+    }, [episodeArray, selectedTags])
 
     useEffect(() => {
         const data = bangumiData.episodes.filter(episode => episode.index);
@@ -96,6 +96,12 @@ export function BangumiDataPage() {
 
 
     const episodeElems = useMemo(() => {
+        if (!episodeArray?.length) {
+            return <Typography variant="h4" color='inherit' >
+                This bangumi does not have any episodes ...
+            </Typography>
+
+        }
         return episodeArray.map((episode) => (
             <Box my={2} key={episode.index}>
                 <Typography variant="h4" className="py-2 px-2 underline underline-offset-8" sx={{ color: 'rgb(138, 54, 49)' }}>

@@ -45,10 +45,10 @@ const App = () => {
           <Box sx={{ flexGrow: 1 }} />
 
           <Link href="/updates" underline="hover" color="inherit" mx={1}>
-            Updates
+            UPDATES
           </Link>
-          <Link href="/" underline="hover" color="inherit" mx={1}>
-            Home
+          <Link href="/archieve" underline="hover" color="inherit" mx={1}>
+            ARCHIEVE
           </Link>
         </Toolbar>
       </StyledAppBar>

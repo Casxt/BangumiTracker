@@ -67,7 +67,7 @@ export function BangumiDataPage() {
                 setOpenSnackbar(r);
             }
         )
-    }, [])
+    }, [episodeArray, selectedTags])
 
     useEffect(() => {
         const data = bangumiData.episodes.filter(episode => episode.index);

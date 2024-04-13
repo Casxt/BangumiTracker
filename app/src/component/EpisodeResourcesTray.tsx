@@ -56,18 +56,18 @@ export function EpisodeResourcesTray(param: EpisodeResourcesTrayParam) {
                         <EpisodeResourcesTagsTray tags={dmhy_data.tags} selectedTags={selectedTags} onClick={onTagClick} />
                     </Stack>
                     <Divider className='my-2' />
-                    <Snackbar
-                        open={openSnackbar}
-                        autoHideDuration={6000}
-                        onClose={handleSnackbarClose}
-                        message="magnet link are copied to your clipboard"
-                    />
                 </Box>;
             }
         })
     }, [episode, onTagClick, selectedTags]);
     return <Box>
         {elems}
+        <Snackbar
+            open={openSnackbar}
+            autoHideDuration={6000}
+            onClose={handleSnackbarClose}
+            message="magnet link are copied to your clipboard"
+        />
     </Box>;
 }
 

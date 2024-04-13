@@ -1063,6 +1063,31 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:SKNTCQT4KL3X2VVOLG2YRDOSEOHCAYR5&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我是搬运工",
+                        "publish_timestamp": "1712989539",
+                        "title": "[Beatrice-Raws] 葬送的芙莉莲/Sousou no Frieren (Vol 01-03) [BDRip 1920x1080 HEVC TrueHD]",
+                        "page_link": "http://share.dmhy.org/topics/view/667062_Beatrice-Raws_Sousou_no_Frieren_Vol_01-03_BDRip_1920x1080_HEVC_TrueHD.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "Beatrice"
+                            },
+                            {
+                                "tag": "HEVC"
+                            }
+                        ]
+                    }
                 }
             ]
         },

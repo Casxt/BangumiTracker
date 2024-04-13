@@ -2,13 +2,12 @@ import * as React from 'react';
 import { Episode } from "../proto/bangumi/bangumi";
 import { Tag } from "../proto/base/tag";
 import { ExternalResource } from "../proto/base/resources";
-import { Avatar, Box, Divider, IconButton, Link, Snackbar, Stack, ThemeProvider, Tooltip, Typography } from '@mui/material';
+import { Box, Divider, IconButton, Link, Snackbar, Stack, Tooltip, Typography } from '@mui/material';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
-import { BorderColor } from '@mui/icons-material';
 import { EpisodeResourcesTagsTray } from './EpisodeResourcesTagsTray';
 import { filterResourcesByTags } from './filterResourcesByTags';
 import { copyTextToClipboard } from './copyTextToClipboard';
-import { theme } from '../theme';
+
 interface EpisodeResourcesTrayParam {
     episode: Episode;
     onTagClick?: (tag: Tag) => void;

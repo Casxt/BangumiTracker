@@ -10,10 +10,10 @@ import { RecentUpdatesPage } from "./pages/RecentUpdatesPage";
 export const router = createBrowserRouter([
   {
     path: "/",
-    element: <FullBangumiPage />,
+    element: <RecentUpdatesPage />,
   },
   {
-    path: "/list",
+    path: "/archieve",
     element: <FullBangumiPage />,
   },
   {

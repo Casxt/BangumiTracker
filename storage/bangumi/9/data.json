@@ -1,3 +1,1722 @@
 {
-    "bangumi_id": "9"
+    "bangumi_id": "9",
+    "episodes": [
+        {
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:3SRBY2TPUVFEPIWFJMI5B3PUP5WV7OOU&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1705370776",
+                        "title": "[Hi-Res][240114][我独自升级]TVアニメ『俺だけレベルアップな件』OP & ED「LEveL」SawanoHiroyuki[nZk] 「request」krage[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/660656_Hi-Res_240114_TV_OP_ED_LEveL_SawanoHiroyuki_nZk_request_krage_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "ED"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            },
+                            {
+                                "tag": "OP"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:BS7FKPRCB6G3O3FIO2SRIQ2X6QH4VWB4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1705378170",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][1][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/660660_1_Solo_Leveling_1_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OQGZ6HWEUUJQUHFVHGLVIEOD3H22ZUMQ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1705378337",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][1][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/660661_1_Solo_Leveling_1_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:4E4IKMYH7Y7A3MMCAJXXCM4QKKIY3MFO&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1705664767",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][2][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/660907_1_Solo_Leveling_2_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:KRGU7DBAJCOHD2CKSNP7RMBXV5TPRH6S&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1705664772",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][2][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/660908_1_Solo_Leveling_2_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:2UDKE4KAS74AJTFCM4TBNXXC2LRZPULA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1708792317",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 07.5 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/663467_ANi_Ore_Dake_Level_Up_na_Ken_-_07_5_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:6N7URQ22WLMPMOM26HU3AWUOJ6JDQNMA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1711533330",
+                        "title": "[240327][我独自升级OST原声集]俺だけレベルアップな件 Original Soundtrack／音楽：澤野弘之[320K]",
+                        "page_link": "http://share.dmhy.org/topics/view/665590_240327_OST_Original_Soundtrack_320K.html",
+                        "tags": [
+                            {
+                                "tag": "320K"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:H3FZQDIB3SJSDUHONWWCWPFBSA43IPFJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lleeopen",
+                        "publish_timestamp": "1712125459",
+                        "title": "[c.c動漫][1月新番][我獨自升級][01-12][合集][BIG5][720P][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/666022_c_c_1_01-12_BIG5_720P_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "c.c動漫"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "01",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:CRUW7GUIX75VNIPKBTCR7FD55QLMEJD3&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1704558755",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/659985_ANi_Ore_Dake_Level_Up_na_Ken_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:LTZLPFJTOPTHPZARYPKH4HCUXHS5ELRF&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "SkyMoonAnime",
+                        "publish_timestamp": "1704831826",
+                        "title": "[Skymoon-Raws] 我獨自升級 / Ore Dake Level Up na Ken - 01 [ViuTV][WEB-RIP][1080p][AVC AAC][CHT][SRT][MKV](先行版本)",
+                        "page_link": "http://share.dmhy.org/topics/view/660179_Skymoon-Raws_Ore_Dake_Level_Up_na_Ken_-_01_ViuTV_WEB-RIP_1080p_AVC_AAC_CHT_SRT_MKV.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MKV"
+                            },
+                            {
+                                "tag": "Skymoon"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:5B667AWZ7XVTTGTMJIJMKEFJVXUY34TM&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "SkyMoonAnime",
+                        "publish_timestamp": "1704845980",
+                        "title": "[Skymoon-Raws] 我獨自升級 / Ore Dake Level Up na Ken - 01 [ViuTV][WEB-DL][1080p][AVC AAC][繁體外掛][TS+SRT](正式版本)",
+                        "page_link": "http://share.dmhy.org/topics/view/660182_Skymoon-Raws_Ore_Dake_Level_Up_na_Ken_-_01_ViuTV_WEB-DL_1080p_AVC_AAC_TS_SRT.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "Skymoon"
+                            },
+                            {
+                                "tag": "WEB"
+                            },
+                            {
+                                "tag": "繁體外掛"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:66BZJN4AY4CT53OJMODMYBOA5E4DGXEL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1705245460",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/660550_LoliHouse_Ore_dake_Level_Up_na_Ken_-_01_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "02",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:E6NLZ62DOQPVSKFMZAFFJRNGEOFXGPEB&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1705163532",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/660447_ANi_Ore_Dake_Level_Up_na_Ken_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VEZO4NCA4VZBRQXSBUIXB473IQHR5T4O&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1705245517",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/660551_LoliHouse_Ore_dake_Level_Up_na_Ken_-_02_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "03",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:CQ5YR55TRU4WZVP4NB53CPRNJWPJYOLP&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1705768339",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 03 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/661022_ANi_Ore_Dake_Level_Up_na_Ken_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:EZMEC5HCTLBFEVXVRY66B47APPYEWW4L&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1705830016",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 03 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/661084_LoliHouse_Ore_dake_Level_Up_na_Ken_-_03_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:YETFDZYYZGHX5DV6U2HXEFKQB5IANH36&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1706335939",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][03][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/661561_1_Solo_Leveling_03_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:PFID5GXJZN5MAPMR2HMN2IWRM7XIG5R7&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1706335947",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][03][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/661562_1_Solo_Leveling_03_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "04",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:7OCZHTSRNLOKT6RWVCQXRTONJJW4WRDD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1706373153",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 04 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/661608_ANi_Ore_Dake_Level_Up_na_Ken_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:KPBQV3MNUXFAXKMI64VOJNROAMGQTKSL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1706419061",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 04 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/661644_LoliHouse_Ore_dake_Level_Up_na_Ken_-_04_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VUT7QRLOEEAFSOCUPC2CIMI4OCK43AOO&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1707021514",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][04][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/662084_1_Solo_Leveling_04_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:Q2RUWHWVQO57JEK5ZYTAAUO7CAXDQI7A&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1707021519",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][04][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/662085_1_Solo_Leveling_04_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "05",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OCRMPYDOENVK76YT63XS5Y6UYW23ZOV4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1706977943",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/662049_ANi_Ore_Dake_Level_Up_na_Ken_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:MBWG5BP77P55YDJ2FHP3DANTFVRA27ZH&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1707046165",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 05 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/662112_LoliHouse_Ore_dake_Level_Up_na_Ken_-_05_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:W5VKVX5LZ2WZZPJPWSCZJVH26EY6NOGA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1709211350",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][05][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/663825_1_Solo_Leveling_05_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:NG56UFP32WB2F5ZEQFQSISZUHKM4NXE5&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1709212037",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][05][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/663827_1_Solo_Leveling_05_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "06",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:JT2LHBUXM7FPRITVFAGTC7YUXVNO3BNT&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1707582709",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 06 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/662526_ANi_Ore_Dake_Level_Up_na_Ken_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:X7BHETVTRQMMHYFZ7GEZXFATKCVARFI6&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1707660830",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/662610_LoliHouse_Ore_dake_Level_Up_na_Ken_-_06_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:E7HEQI4TGVUB7NTITX5U65Q4XRJ36DHY&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1709401328",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][06][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/664025_1_Solo_Leveling_06_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:6FBR6XAOJNTIA5YWSVHRKK2NJXQKJ5PG&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1709401336",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][06][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/664026_1_Solo_Leveling_06_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "07",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:GCTBRDFZ2VFA3RBLBQVYK4GBPDCIKAAM&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1708187509",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/662969_ANi_Ore_Dake_Level_Up_na_Ken_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:EF5GWTBEFLXKPVTP6HH6PELWDRRGMQYJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1708224292",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 07 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/663038_LoliHouse_Ore_dake_Level_Up_na_Ken_-_07_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:ZTMY4REIHWPPZXXR3VOT6KXBSDA2QP2B&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1710078651",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][07][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/664639_1_Solo_Leveling_07_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:3ODLOID464P5JGKYGDCUKNKTU5KIQTRU&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1710078661",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][07][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/664640_1_Solo_Leveling_07_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "08",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:WTZ6YLJACXES7553DYIZ4ECG2POWUW45&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1709397082",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 08 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/664018_ANi_Ore_Dake_Level_Up_na_Ken_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:2KW24V7YUG7PHN3CCKGEW6HVQOFMLIFA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1709432664",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 08 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/664034_LoliHouse_Ore_dake_Level_Up_na_Ken_-_08_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:EO5PCF6H227JEA4XEOR6YQ6PJ3UPWMWE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1710682498",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][08][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/665020_1_Solo_Leveling_08_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:DCV3ZQ5MBDMOJPKV33K6AJTEGS7Y6DOC&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1710682506",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][08][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/665021_1_Solo_Leveling_08_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "09",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:I76UGP7GQXPF5GYDIC3XP2D4RMAPPEQA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1710001880",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 09 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/664557_ANi_Ore_Dake_Level_Up_na_Ken_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:R2YJQKY2MDPRJO3SBZKFTYT62B6BD3IV&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1710037001",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 09 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/664576_LoliHouse_Ore_dake_Level_Up_na_Ken_-_09_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:WAQNACNVAL5H3ZGCBVETDBJLBIRISLD3&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1711279281",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][09][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/665431_1_Solo_Leveling_09_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:NU2BK46YSIGDBFTCR6NSTUHM7QRO4AAT&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1711279287",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][09][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/665432_1_Solo_Leveling_09_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "10",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:52R4RNTWUIO7EH2F65NXEJ4BR3IQK3UI&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1710606703",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/664950_ANi_Ore_Dake_Level_Up_na_Ken_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:KRABXVXR6DDXYLUGWWRKDZ5H37PVZUMG&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1710648142",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 10 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/664979_LoliHouse_Ore_dake_Level_Up_na_Ken_-_10_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:6UFFUX7WY6N7PZKVKG5TYM7I6QHEGBTJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1711880899",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][10][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/665851_1_Solo_Leveling_10_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:5A4YNJF7UPJQ2WLTXTMW7725TOG3UA6X&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1711880911",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][10][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/665852_1_Solo_Leveling_10_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "11",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:X26BDHWM4QUYZGYFXNUNXS45E5Y6FRJ3&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1711211515",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 11 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/665363_ANi_Ore_Dake_Level_Up_na_Ken_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:KMLTSI2VMTFUFKZLGZYZWZHCTZGXDLMI&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1711283035",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 11 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/665441_LoliHouse_Ore_dake_Level_Up_na_Ken_-_11_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:4BXZ54RE5GEMLCML5CM5ZVQ43UAAHBRV&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1712317682",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][11][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/666183_1_Solo_Leveling_11_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:BVZCJHUASGOTJGTADJRCIZA4FFWE7MQ4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1712317696",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][11][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/666184_1_Solo_Leveling_11_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "12",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:2WJ5SF5POLYZJTEEOWRSWNHWEJIHUGUL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1711816322",
+                        "title": "[ANi] Ore Dake Level Up na Ken /  我獨自升級 - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/665782_ANi_Ore_Dake_Level_Up_na_Ken_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:7J3SWI5JNQTHD2TCG7SEMXX65WBWWM3V&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1711852864",
+                        "title": "[LoliHouse] 我独自升级 / Ore dake Level Up na Ken - 12 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕][END]",
+                        "page_link": "http://share.dmhy.org/topics/view/665804_LoliHouse_Ore_dake_Level_Up_na_Ken_-_12_WebRip_1080p_HEVC-10bit_AAC_END.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:YHYM7SYPEKDMLTZHQK7XHNVCYUMFEN7M&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1712580966",
+                        "title": "[漫貓字幕社&貓戀漢化組][1月新番][我獨自升級][Solo Leveling][12][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/666572_1_Solo_Leveling_12_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:LXUJHNYUM4FUUOHMZ6D73LIQLDERFASV&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1712580974",
+                        "title": "[漫猫字幕社&猫恋汉化组][1月新番][我独自升级][Solo Leveling][12][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/666573_1_Solo_Leveling_12_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
 }

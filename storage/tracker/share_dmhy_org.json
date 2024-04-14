@@ -75,7 +75,11 @@
         {
             "key": "我独自升级",
             "bangumi_id": "9",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7",
+            "latest_resp_hash": {
+                "value": "tnuPsWpPqKgzp/Sto6oM2gcZ++qa0YYuQUV2DBrYzSg="
+            },
+            "latest_update_time": "2024-04-14T11:28:09.768326Z"
         }
     ]
 }

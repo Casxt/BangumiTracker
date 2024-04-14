@@ -44,6 +44,7 @@ async def fetch_rss_data(dmhy_handler: ShareDMHYTrackerHandler,
         if rss_config.latest_resp_hash.value != rss_data_hash:
             rss_config.latest_resp_hash.CopyFrom(hash_pb2.HASH(type=hash_pb2.SHA256, value=rss_data_hash))
             rss_config.latest_update_time = now_timestring()
+        else:
             logging.info("bangumi [%d: %s] do not have any updates, skipped", rss_config.bangumi_id, rss_config.key)
             return
         bangumi_handler.write_bangumi_data_file(bangumi=bangumi)

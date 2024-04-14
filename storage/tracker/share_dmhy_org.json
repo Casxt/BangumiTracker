@@ -50,9 +50,9 @@
             "bangumi_id": "6",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%A1%8C%E5%95%86%E9%82%82%E9%80%85%E8%B3%A2%E7%8B%BC%7C%E8%A1%8C%E5%95%86%E9%82%82%E9%80%85%E8%B4%A4%E7%8B%BC",
             "latest_resp_hash": {
-                "value": "3Y2xVYzgNv8M3ILiEN290gbTmy3V99CsGyRS1uRw7a8="
+                "value": "7nnF7xScpbDETWOAxpI8wUht6huZkO0Pc6fy3CArttU="
             },
-            "latest_update_time": "2024-04-13T10:04:39.692765Z"
+            "latest_update_time": "2024-04-14T03:12:26.114544Z"
         },
         {
             "key": "转生为第七王子，随心所欲的魔法学习之路",
@@ -68,9 +68,18 @@
             "bangumi_id": "8",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E5%90%8D%E8%AE%B0%E5%BF%86%7C%E7%84%A1%E5%90%8D%E8%A8%98%E6%86%B6&sort_id=2&team_id=0&order=date-desc",
             "latest_resp_hash": {
-                "value": "lfIV6RY5XrZ7U1gJl8IoxNd31+Exl4qzkK59zbxwuuA="
+                "value": "EojvSnqGdc2BR8TdyfucUD7TZ5uKXKViPauuqte8HJU="
             },
-            "latest_update_time": "2024-04-12T04:07:30.700638Z"
+            "latest_update_time": "2024-04-14T07:48:12.906131Z"
+        },
+        {
+            "key": "我独自升级",
+            "bangumi_id": "9",
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%88%91%E7%8B%AC%E8%87%AA%E5%8D%87%E7%BA%A7",
+            "latest_resp_hash": {
+                "value": "tnuPsWpPqKgzp/Sto6oM2gcZ++qa0YYuQUV2DBrYzSg="
+            },
+            "latest_update_time": "2024-04-14T11:28:09.768326Z"
         }
     ]
 }

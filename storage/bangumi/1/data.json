@@ -1088,6 +1088,22 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OPUY7RVCC6XKL3A3KHZRXVFYJFVWKDYM&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1713245914",
+                        "title": "[240417][葬送的芙莉莲OST原声集2CD完全版]TVアニメ『葬送のフリーレン』Original Soundtrack／音楽：Evan Call[320K]",
+                        "page_link": "http://share.dmhy.org/topics/view/667409_240417_OST_2CD_TV_Original_Soundtrack_Evan_Call_320K.html",
+                        "tags": [
+                            {
+                                "tag": "320K"
+                            }
+                        ]
+                    }
                 }
             ]
         },

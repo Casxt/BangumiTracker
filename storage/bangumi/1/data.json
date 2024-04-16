@@ -1104,6 +1104,25 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:DQB2KAGAU66THCMJNOQDNCSVPFSJ44VC&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "qa121212",
+                        "publish_timestamp": "1713290602",
+                        "title": "[2024.04.17]TVアニメ『葬送のフリーレン』Original Soundtrack／Evan Call[FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/667472_2024_04_17_TV_Original_Soundtrack_Evan_Call_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "2024.04.17"
+                            },
+                            {
+                                "tag": "FLAC"
+                            }
+                        ]
+                    }
                 }
             ]
         },

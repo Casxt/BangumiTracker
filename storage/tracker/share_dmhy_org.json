@@ -84,7 +84,11 @@
         {
             "key": "夜樱家的大作战",
             "bangumi_id": "10",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E5%A4%9C%E6%AB%BB%E5%AE%B6%7C%E5%A4%9C%E6%A8%B1%E5%AE%B6"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E5%A4%9C%E6%AB%BB%E5%AE%B6%7C%E5%A4%9C%E6%A8%B1%E5%AE%B6",
+            "latest_resp_hash": {
+                "value": "IFmh3Oty67qlOcItKXulHXx9w1TmhhzH7Oih1qFdlCs="
+            },
+            "latest_update_time": "2024-04-18T10:06:33.083153Z"
         }
     ]
 }

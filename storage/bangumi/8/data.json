@@ -210,6 +210,61 @@
                     }
                 }
             ]
+        },
+        {
+            "index": "02",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:SPFPVQG4FMVO65EN3B5LC5CN5N7C43TW&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "orion321",
+                        "publish_timestamp": "1713415340",
+                        "title": "[猎户手抄部] 无名记忆 / Unnamed Memory [02] [1080p] [简日内嵌] [2024年4月番]",
+                        "page_link": "http://share.dmhy.org/topics/view/667548_Unnamed_Memory_02_1080p_2024_4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "UNNAMED"
+                            },
+                            {
+                                "tag": "猎户手抄部"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:5XCGBHTMRU3MRPSWPAPLBLDJJ6DW2N36&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "orion321",
+                        "publish_timestamp": "1713415361",
+                        "title": "[猎户手抄部] 无名记忆 / Unnamed Memory [02] [1080p] [繁日内嵌] [2024年4月番]",
+                        "page_link": "http://share.dmhy.org/topics/view/667549_Unnamed_Memory_02_1080p_2024_4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "UNNAMED"
+                            },
+                            {
+                                "tag": "猎户手抄部"
+                            },
+                            {
+                                "tag": "繁日内嵌"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }

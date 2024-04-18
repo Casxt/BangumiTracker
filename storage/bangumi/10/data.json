@@ -1,3 +1,291 @@
 {
-    "bangumi_id": "10"
+    "bangumi_id": "10",
+    "episodes": [
+        {
+            "index": "01",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:E3OBTP5DYUXVLMKIINOUDF6NJVIJX6OP&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1712478690",
+                        "title": "[ANi] Yozakurasan Chi no Daisakusen /  夜櫻家大作戰 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/666329_ANi_Yozakurasan_Chi_no_Daisakusen_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:HJ4T6WF6BYHZWQHVKPBYG3QWBIOUZXGD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lilithraws",
+                        "publish_timestamp": "1712501787",
+                        "title": "[Lilith-Raws] 夜櫻家大作戰 / Yozakura-san Chi no Daisakusen - 01 [Baha][WebDL 1080p AVC AAC][CHT]",
+                        "page_link": "http://share.dmhy.org/topics/view/666351_Lilith-Raws_Yozakura-san_Chi_no_Daisakusen_-_01_Baha_WebDL_1080p_AVC_AAC_CHT.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "Lilith"
+                            },
+                            {
+                                "tag": "WEBDL"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:SXR4WYOBEUSM46XZIO2J4QT2P5NXGCU4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1713064814",
+                        "title": "[LoliHouse] 夜樱家的大作战 / Yozakura-san Chi no Daisakusen - 01 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/667175_LoliHouse_Yozakura-san_Chi_no_Daisakusen_-_01_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:J7SV643H5AO3KQ3HG235US7IXCQDPSKA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "orion321",
+                        "publish_timestamp": "1713105638",
+                        "title": "[猎户压制部] 夜樱家的大作战 / 夜樱家大作战 / Yozakura-san Chi no Daisakusen [01] [1080p] [简繁内封] [2024年4月番]",
+                        "page_link": "http://share.dmhy.org/topics/view/667270_Yozakura-san_Chi_no_Daisakusen_01_1080p_2024_4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "猎户压制部"
+                            },
+                            {
+                                "tag": "简繁内封"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:A3ALOL4V5IWTSAC5A4XXSQZQMPOETGWH&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1713136428",
+                        "title": "[爱恋字幕社&猫恋汉化组][4月新番][夜樱家的大作战/夜樱家大作战][Yozakura-san Chi no Daisakusen][01][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/667291_4_Yozakura-san_Chi_no_Daisakusen_01_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "爱恋字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:N3GUJLSPYFSGQNVVGCJNLFPNXQKJDUV2&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1713136490",
+                        "title": "[愛戀字幕社&貓戀漢化組][4月新番][夜櫻家的大作戰/夜櫻家大作戰][Yozakura-san Chi no Daisakusen][01][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/667292_4_Yozakura-san_Chi_no_Daisakusen_01_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "愛戀字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "02",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:BA5WBM4ZI37TLLW2FIMB4NQ6DH7SIIXD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1713083506",
+                        "title": "[ANi] Yozakurasan Chi no Daisakusen /  夜櫻家大作戰 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/667203_ANi_Yozakurasan_Chi_no_Daisakusen_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:65MTFR7ZZW6DO5LYQP4WYJHWNSDVWUTJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1713088037",
+                        "title": "[LoliHouse] 夜樱家的大作战 / Yozakura-san Chi no Daisakusen - 02 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/667225_LoliHouse_Yozakura-san_Chi_no_Daisakusen_-_02_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "LoliHouse"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:W3TPEQDKIEUJW7CTUR52B7Q3KVRIH4E4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lilithraws",
+                        "publish_timestamp": "1713098376",
+                        "title": "[Lilith-Raws] 夜櫻家大作戰 / Yozakura-san Chi no Daisakusen - 02 [Baha][WebDL 1080p AVC AAC][CHT]",
+                        "page_link": "http://share.dmhy.org/topics/view/667251_Lilith-Raws_Yozakura-san_Chi_no_Daisakusen_-_02_Baha_WebDL_1080p_AVC_AAC_CHT.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "Lilith"
+                            },
+                            {
+                                "tag": "WEBDL"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
 }

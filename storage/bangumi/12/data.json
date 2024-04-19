@@ -766,37 +766,6 @@
                 {
                     "share_dmhy_org": {
                         "magnet": {
-                            "url": "magnet:?xt=urn:btih:3VMDGWL2VYAPJRRWNUOLFUS6VFOKSMB7&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1695029289",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 00v2 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/651411_Lilith-Raws_Mushoku_Tensei_S02_-_00v2_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
                             "url": "magnet:?xt=urn:btih:KG3UFY2SODVXMSXLQPTGOZ4AZIKJF4OB&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
                         },
                         "author": "我是搬运工",
@@ -825,436 +794,40 @@
             ]
         },
         {
-            "index": "00",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:NLR73IUTB6KFD6WYQNSW6UI53M7FGOAP&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1688329486",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 00 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/644573_Lilith-Raws_Mushoku_Tensei_S02_-_00_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "00"
         },
         {
-            "index": "01",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:HNHPOHCV6NZEBCG6BUFB4E4RR7MPKM3Z&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1688964614",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 01 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/645095_Lilith-Raws_Mushoku_Tensei_S02_-_01_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "01"
         },
         {
-            "index": "02",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:WOALRTNOTUEZBTISBSP2B6RAKH47DGY7&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1689520421",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 02 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/645838_Lilith-Raws_Mushoku_Tensei_S02_-_02_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "02"
         },
         {
-            "index": "03",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:5MJ4YLIBBTPLCVT6H4PKCTPDM46CYY4W&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1690214478",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 03 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/646640_Lilith-Raws_Mushoku_Tensei_S02_-_03_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "03"
         },
         {
-            "index": "04",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:K4CIXRJIUFHTTYM2B3V2PYEWPJ7YJ6KX&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1690805208",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 04 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/647226_Lilith-Raws_Mushoku_Tensei_S02_-_04_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "04"
         },
         {
-            "index": "05",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:JKWAYOU3ATN4ZHIMLXEDYSOWE6MHGUW6&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1691335202",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 05 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/647787_Lilith-Raws_Mushoku_Tensei_S02_-_05_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "05"
         },
         {
-            "index": "06",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:7CISPNT7H4I26U7AIKN4I6RD7RDQQMWJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1691940287",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 06 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/648372_Lilith-Raws_Mushoku_Tensei_S02_-_06_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "06"
         },
         {
-            "index": "07",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:VBEE5AK7EJADCAGG3NFEQRE2LCHYNFFF&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1692543965",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 07 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/648947_Lilith-Raws_Mushoku_Tensei_S02_-_07_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "07"
         },
         {
-            "index": "08",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:XWAYEGZUE645EYRQDGWKZK6JWCKFHMV2&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1693148788",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 08 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/649607_Lilith-Raws_Mushoku_Tensei_S02_-_08_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "08"
         },
         {
-            "index": "09",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:GIJ7GGIS5HGDAH4ARPHUCJGZ5PARRTY5&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1693781643",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 09 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/650239_Lilith-Raws_Mushoku_Tensei_S02_-_09_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "09"
         },
         {
-            "index": "10",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:4L5GDENDIJOZBORLXBB7NJHQUIV65E4D&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1694358394",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 10 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/650801_Lilith-Raws_Mushoku_Tensei_S02_-_10_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "10"
         },
         {
-            "index": "11",
-            "resources": [
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:DDXNIFNBSAUCBWJFUJ3ONJUXCK3BKQPS&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1694963250",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 11 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/651384_Lilith-Raws_Mushoku_Tensei_S02_-_11_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "index": "11"
         },
         {
             "index": "12",
@@ -1277,37 +850,6 @@
                             },
                             {
                                 "tag": "简繁日内封"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:CJNHUV5R4QV7KYGE6CBEGZYKHLJK5RDO&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1695567965",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 12 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/651947_Lilith-Raws_Mushoku_Tensei_S02_-_12_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
                             }
                         ]
                     }
@@ -1697,37 +1239,6 @@
                             }
                         ]
                     }
-                },
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:6MC5244ZZGD5A4EYIAGMQJCWRPI6ZH6N&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1712502154",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 13 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/666355_Lilith-Raws_Mushoku_Tensei_S02_-_13_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -2111,37 +1622,6 @@
                             },
                             {
                                 "tag": "简繁日内封"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "share_dmhy_org": {
-                        "magnet": {
-                            "url": "magnet:?xt=urn:btih:YI2MGVA6QDV4DSIA5SCVLFLVMSIMMGL3&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
-                        },
-                        "author": "lilithraws",
-                        "publish_timestamp": "1713108153",
-                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 14 [Baha][WebDL 1080p AVC AAC][CHT]",
-                        "page_link": "http://share.dmhy.org/topics/view/667278_Lilith-Raws_Mushoku_Tensei_S02_-_14_Baha_WebDL_1080p_AVC_AAC_CHT.html",
-                        "tags": [
-                            {
-                                "tag": "1080P"
-                            },
-                            {
-                                "tag": "AAC"
-                            },
-                            {
-                                "tag": "AVC"
-                            },
-                            {
-                                "tag": "CHT"
-                            },
-                            {
-                                "tag": "Lilith"
-                            },
-                            {
-                                "tag": "WEBDL"
                             }
                         ]
                     }

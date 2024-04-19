@@ -12,6 +12,16 @@ on:
       rss_url:
         description: 'rss url'
         required: true
+      title_include_regex:
+        description: 'include. .e.g: "Ⅱ|第2季|第二季|S2|s2|2期"'
+        type: string
+        required: true
+        default: ""
+      title_exclude_regex:
+        description: 'include. .e.g: "Ⅱ|第2季|第二季|S2|s2|2期"'
+        type: string
+        required: true
+        default: ""
 permissions:
   contents: write
 
@@ -42,6 +52,8 @@ jobs:
       env:
         RSS_KEY: ${{ inputs.rss_key }}
         RSS_URL: ${{ inputs.rss_url }}
+        TITLE_INCLUDE_REGEX: ${{ inputs.title_include_regex }}
+        TITLE_EXCLUDE_REGEX: ${{ inputs.title_exclude_regex }}
       run: python src/add_dmhy_rss_config.py -c '.env.prod'
     - name: Check updates
       id: check_updates

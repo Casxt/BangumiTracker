@@ -23,16 +23,26 @@ class ShareDMHYTrackerHandler():
         self.rss_config_path = config_path
         self.rss_config = self.load_config(config_path)
 
-    def add_config(self, key: str, bangumi_id: int, rss_url: str) -> share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER_CONFIG:
+    def add_config(self, key: str, bangumi_id: int, rss_url: str, title_include_regex:str, title_exclude_regex:str) -> share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER_CONFIG:
         assert key != ""
         assert rss_url != ""
         for config in self.rss_config.configs:
             if config.key == key:
                 raise RedunantConfigKeyExpection
+        if title_include_regex is None:
+            title_include_regex = ""
+        if title_exclude_regex is None:
+            title_exclude_regex = ""
+        if len(title_include_regex) > 0:
+            re.compile(title_include_regex)
+        if len(title_exclude_regex) > 0:
+            re.compile(title_exclude_regex)
         new_config = share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER_CONFIG(
             key=key,
             bangumi_id=bangumi_id,
             rss_url=rss_url,
+            title_exclude_regex=title_exclude_regex,
+            title_include_regex=title_include_regex
         )
         self.rss_config.configs.append(new_config)
         self.save_config()
@@ -73,6 +83,18 @@ class ShareDMHYTrackerHandler():
         self.save_config()
 
     @staticmethod
+    def filter_resources(resources: Iterable[resources_pb2.ExternalResource], include_regex: str = "", exclude_regex: str = "") -> Iterable[resources_pb2.ExternalResource]:
+        if include_regex is not None and len(include_regex) > 0:
+            include_regex = re.compile(include_regex)
+            resources = filter(lambda x: bool(
+                include_regex.search(x.share_dmhy_org.title)), resources)
+        if exclude_regex is not None and len(exclude_regex) > 0:
+            exclude_regex = re.compile(exclude_regex)
+            resources = filter(lambda x: not bool(
+                exclude_regex.search(x.share_dmhy_org.title)), resources)
+        return resources
+
+    @staticmethod
     async def get_rss(url: str) -> str:
         async with aiohttp.ClientSession() as session:
             async with session.get(url) as response:
@@ -80,7 +102,7 @@ class ShareDMHYTrackerHandler():
                     raise HTTPNot200Expection
                 return await response.text()
 
-    def parse_xml(self, xml_data: str) -> Iterable[bangumi_pb2.Episode]:
+    def parse_xml(self, xml_data: str, rss_config: share_dmhy_org_pb2.SHARE_DMHY_ORG_TRACKER_CONFIG) -> Iterable[bangumi_pb2.Episode]:
         result_map = {}
         root = ET.fromstring(xml_data)
         # 遍历所有的item
@@ -91,7 +113,6 @@ class ShareDMHYTrackerHandler():
             author = item.find('author').text
             enclosure = item.find('enclosure').get("url")
             enclosure = self._format_magnet(enclosure)
-
             edisode_idx = self._extra_episode_index(title)
             tags = self._collecting_tag(self._split_title(title))
             edisode: bangumi_pb2.Episode = result_map.get(
@@ -111,6 +132,15 @@ class ShareDMHYTrackerHandler():
                 )
             )
             result_map[edisode_idx] = edisode
+
+        for edisode_idx, edisode in result_map.items():
+            filtered_resources = tuple(self.filter_resources(edisode.resources,
+                                                              include_regex=rss_config.title_include_regex,
+                                                              exclude_regex=rss_config.title_exclude_regex))
+            del edisode.resources[:]
+            edisode.resources.extend(filtered_resources)
+            result_map[edisode_idx] = edisode
+
         return result_map.values()
 
     def _parse_time(self, time_string: str) -> int:

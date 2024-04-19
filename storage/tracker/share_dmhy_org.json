@@ -34,7 +34,7 @@
             "latest_resp_hash": {
                 "value": "+32g6WYJupyC0HyqZj9yy0pNLsoaUe78BZu73s+Iagg="
             },
-            "latest_update_time": "2024-04-18T18:08:11.201537Z"
+            "latest_update_time": "2024-04-19T12:11:51.621405Z"
         },
         {
             "key": "秒杀外挂太强了， 异世界的家伙们根本就不是对手。",
@@ -70,7 +70,7 @@
             "latest_resp_hash": {
                 "value": "/179CkLxXkIexevZVRCf8yJvF+K4RuGmxwCx2TFrT+Q="
             },
-            "latest_update_time": "2024-04-18T22:03:28.392205Z"
+            "latest_update_time": "2024-04-19T12:11:52.009458Z"
         },
         {
             "key": "我独自升级",
@@ -89,6 +89,26 @@
                 "value": "IFmh3Oty67qlOcItKXulHXx9w1TmhhzH7Oih1qFdlCs="
             },
             "latest_update_time": "2024-04-18T10:06:33.083153Z"
+        },
+        {
+            "key": "无职转生～到了异世界就拿出真本事～ S2",
+            "bangumi_id": "11",
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F",
+            "latest_resp_hash": {
+                "value": "5RtKZqPcW4xC4Nn/jbKYLv/LfvnLMZE0E6PJtzut3dY="
+            },
+            "latest_update_time": "2024-04-19T12:34:29.017847Z",
+            "title_include_regex": "Ⅱ|第2季|第二季|S2|s2|2期"
+        },
+        {
+            "key": "无职转生～到了异世界就拿出真本事～",
+            "bangumi_id": "12",
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F",
+            "latest_resp_hash": {
+                "value": "+MsnqxzAylUfx9bSrdOYwaShBgmR7Ur57cNpnelcUwA="
+            },
+            "latest_update_time": "2024-04-19T12:34:29.238296Z",
+            "title_exclude_regex": "Ⅱ|第2季|第二季|S2|s2|2期"
         }
     ]
 }

@@ -1,6 +1,8 @@
 import argparse
 import logging
 import os
+import re
+
 from urllib.parse import urlparse
 from config.config import Settings
 from handler.bangumi_handler import BangumiHandler
@@ -18,11 +20,17 @@ if __name__ == '__main__':
         description='fetch data from share.dmhy.org and merge into databse')
 
     parser.add_argument('-c', '--config', help='config file', default='.env')
-    parser.add_argument('-k', '--key', help='rss key', required=False, type=str, default=os.environ.get('RSS_KEY'))
+    parser.add_argument('-k', '--key', help='rss key', required=False,
+                        type=str, default=os.environ.get('RSS_KEY'))
     parser.add_argument('-i',
                         '--bangumi_id', help='corressponding bangumi id', required=False, type=int, default=0)
     parser.add_argument('-u',
                         '--rss_url', help='rss url', required=False, type=str, default=os.environ.get('RSS_URL'))
+
+    parser.add_argument('--title_include_regex', help='title include regex',
+                        required=False, type=str, default=os.environ.get('TITLE_INCLUDE_REGEX'))
+    parser.add_argument('--title_exclude_regex', help='title exclude regex',
+                        required=False, type=str, default=os.environ.get('TITLE_EXCLUDE_REGEX'))
 
     args = parser.parse_args()
 
@@ -39,10 +47,18 @@ if __name__ == '__main__':
     assert parsed_url.path == "/topics/rss/rss.xml"
     assert len(key) > 0
 
+    include_regex = args.title_include_regex
+
+    if include_regex is not None and len(include_regex) > 0:
+        re.compile(include_regex)
+
+    exclude_regex = args.title_exclude_regex
+    if exclude_regex is not None and len(exclude_regex) > 0:
+        re.compile(exclude_regex)
 
     dmhy_handler = ShareDMHYTrackerHandler(
         config_path=config.share_dmhy_org_tarcker_config_path)
-    
+
     bangumi_handler = BangumiHandler(storage_path=config.bangumi_data_dir)
 
     if bangumi_id == 0:
@@ -50,6 +66,12 @@ if __name__ == '__main__':
 
     bangumi_handler.read_bangumi_data_file(bangumi_id=bangumi_id)
 
-    new_config = dmhy_handler.add_config(key=key, bangumi_id=bangumi_id, rss_url=parsed_url.geturl())
+    new_config = dmhy_handler.add_config(
+        key=key,
+        bangumi_id=bangumi_id,
+        rss_url=parsed_url.geturl(),
+        title_include_regex=include_regex,
+        title_exclude_regex=exclude_regex,
+    )
 
     logging.info(new_config)

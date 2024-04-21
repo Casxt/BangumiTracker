@@ -8632,6 +8632,50 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:PRFNWHL4UYL2QXIBRCRWG5ZGTY5JSOIR&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1713679181",
+                        "title": "【喵萌奶茶屋】★04月新番★[無職轉生 2期 / Mushoku Tensei S2][14][720p][繁日雙語][招募翻譯]",
+                        "page_link": "http://share.dmhy.org/topics/view/667822_04_2_Mushoku_Tensei_S2_14_720p.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:NHLXPA4FVUICCIMLGPJCHSJOCNPUCWR3&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1713679191",
+                        "title": "【喵萌奶茶屋】★04月新番★[無職轉生 2期 / Mushoku Tensei S2][14][1080p][繁日雙語][招募翻譯]",
+                        "page_link": "http://share.dmhy.org/topics/view/667823_04_2_Mushoku_Tensei_S2_14_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
                 }
             ]
         },

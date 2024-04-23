@@ -619,6 +619,28 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:CBVBAZL3W5ODF35PM37JAMTFXJTLV3Q2&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1713841705",
+                        "title": "[Hi-Res][240423][无职转生]TVアニメ『無職転生Ⅱ ～異世界行ったら本気だす～』第十五話特別ED「ツバサ」ナナホシ(CV.若山詩音)[48kHz/24bit][FLAC] ",
+                        "page_link": "http://share.dmhy.org/topics/view/667955_Hi-Res_240423_TV_ED_CV_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            },
+                            {
+                                "tag": "第十五話特別ED"
+                            }
+                        ]
+                    }
                 }
             ]
         },

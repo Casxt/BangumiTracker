@@ -191,6 +191,40 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:N44UMJPH6CB4TIPRT6DCCPJZZDSR4TOJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "黑暗路基艾尔",
+                        "publish_timestamp": "1714027537",
+                        "title": "[DBD-Raws][家里蹲吸血姬的苦闷/Hikikomari Kyuuketsuki no Monmon/ひきこまり吸血姫の悶々][01-12TV全集][1080P][BDRip][HEVC-10bit][FLAC][MKV]",
+                        "page_link": "http://share.dmhy.org/topics/view/668113_DBD-Raws_Hikikomari_Kyuuketsuki_no_Monmon_01-12TV_1080P_BDRip_HEVC-10bit_FLAC_MKV.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "DBD"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "MKV"
+                            }
+                        ]
+                    }
                 }
             ]
         },

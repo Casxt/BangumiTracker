@@ -9388,6 +9388,34 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:UCEOKNQ3L3W5V5EB2FIKDDPIEOFYNJTM&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1715184788",
+                        "title": "[北宇治字幕组] 无职转生Ⅱ ～到了异世界就拿出真本事～/ Mushoku Tensei - Season 2 [16][WebRip][HEVC_AAC][简繁内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/669134_Mushoku_Tensei_-_Season_2_16_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "简繁内封"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -9458,6 +9486,116 @@
                             },
                             {
                                 "tag": "简日内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:QZPVDME3JJTAXD3I5RNCUK6QGOOJZYMH&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1715182666",
+                        "title": "[桜都字幕组] 无职转生～到了异世界就拿出真本事～ S2 / Mushoku Tensei S2 [17][1080p][简体内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/669128_S2_Mushoku_Tensei_S2_17_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕组"
+                            },
+                            {
+                                "tag": "简体内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VH3GJWXK65PZJBHUPIIJDPU7QAVY2DKR&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1715182677",
+                        "title": "[桜都字幕组] 无职转生～到了异世界就拿出真本事～ S2 / Mushoku Tensei S2 [17][1080p@60FPS][简体内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/669129_S2_Mushoku_Tensei_S2_17_1080p_60FPS.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕组"
+                            },
+                            {
+                                "tag": "简体内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:RF7QWHKPLNTAIJMEOSSLMIMTBXCIGGIV&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1715182730",
+                        "title": "[桜都字幕組] 無職轉生～到了異世界就拿出真本事～ S2 / Mushoku Tensei S2  [17][1080p][繁體內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/669130_S2_Mushoku_Tensei_S2_17_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕組"
+                            },
+                            {
+                                "tag": "繁體內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:CY3O3HEK3IT7F4QBPL467CYRBM4NPQUZ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1715182998",
+                        "title": "[桜都字幕組] 無職轉生～到了異世界就拿出真本事～ S2 / Mushoku Tensei S2  [17][1080p@60FPS][繁體內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/669131_S2_Mushoku_Tensei_S2_17_1080p_60FPS.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕組"
+                            },
+                            {
+                                "tag": "繁體內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:K5KBF3SODVJ4QLXVRYE3AHY36OPANGNJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1715183040",
+                        "title": "[桜都字幕组] 无职转生～到了异世界就拿出真本事～ S2 / Mushoku Tensei S2 [17][1080p][简繁内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/669132_S2_Mushoku_Tensei_S2_17_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕组"
+                            },
+                            {
+                                "tag": "简繁内封"
                             }
                         ]
                     }

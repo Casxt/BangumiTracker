@@ -14490,6 +14490,56 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:QVPCE5JMVAFAW5HSDX2FWLPEHZSSVD6V&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "悠哈C9字幕社",
+                        "publish_timestamp": "1715221014",
+                        "title": "【悠哈璃羽字幕社】[葬送的芙莉莲_Sousou no Frieren][25v2][x264 1080p][CHS]",
+                        "page_link": "http://share.dmhy.org/topics/view/669153_Sousou_no_Frieren_25v2_x264_1080p_CHS.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "CHS"
+                            },
+                            {
+                                "tag": "X264"
+                            },
+                            {
+                                "tag": "悠哈璃羽字幕社"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:N3GATIM4TPTVWYEFZ2BSEZUGEOAGRHRF&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "悠哈C9字幕社",
+                        "publish_timestamp": "1715221072",
+                        "title": "【悠哈璃羽字幕社】[葬送的芙莉莲_Sousou no Frieren][25v2][x264 1080p][CHT]",
+                        "page_link": "http://share.dmhy.org/topics/view/669154_Sousou_no_Frieren_25v2_x264_1080p_CHT.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "X264"
+                            },
+                            {
+                                "tag": "悠哈璃羽字幕社"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -15040,6 +15090,56 @@
                             },
                             {
                                 "tag": "粵日雙語+內封繁體中文字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:FIDLHWSLW5UYGTACLGGIUOBPHDSKUBKD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "悠哈C9字幕社",
+                        "publish_timestamp": "1715221083",
+                        "title": "【悠哈璃羽字幕社】[葬送的芙莉莲_Sousou no Frieren][26v2][x264 1080p][CHS]",
+                        "page_link": "http://share.dmhy.org/topics/view/669155_Sousou_no_Frieren_26v2_x264_1080p_CHS.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "CHS"
+                            },
+                            {
+                                "tag": "X264"
+                            },
+                            {
+                                "tag": "悠哈璃羽字幕社"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:3C7WOIO236BPNL5N5AC5VUALSTW3KAYZ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "悠哈C9字幕社",
+                        "publish_timestamp": "1715221094",
+                        "title": "【悠哈璃羽字幕社】[葬送的芙莉莲_Sousou no Frieren][26v2][x264 1080p][CHT]",
+                        "page_link": "http://share.dmhy.org/topics/view/669156_Sousou_no_Frieren_26v2_x264_1080p_CHT.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "X264"
+                            },
+                            {
+                                "tag": "悠哈璃羽字幕社"
                             }
                         ]
                     }
@@ -15596,6 +15696,56 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:2HQHWYZO2XLLXVGCSZU4B6SBSE2BFTQC&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "悠哈C9字幕社",
+                        "publish_timestamp": "1715221102",
+                        "title": "【悠哈璃羽字幕社】[葬送的芙莉莲_Sousou no Frieren][27v2][x264 1080p][CHS]",
+                        "page_link": "http://share.dmhy.org/topics/view/669157_Sousou_no_Frieren_27v2_x264_1080p_CHS.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "CHS"
+                            },
+                            {
+                                "tag": "X264"
+                            },
+                            {
+                                "tag": "悠哈璃羽字幕社"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:7VTERVTGG5YFWE6FJ7ZCOYIXE66YNVFZ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "悠哈C9字幕社",
+                        "publish_timestamp": "1715221110",
+                        "title": "【悠哈璃羽字幕社】[葬送的芙莉莲_Sousou no Frieren][27v2][x264 1080p][CHT]",
+                        "page_link": "http://share.dmhy.org/topics/view/669158_Sousou_no_Frieren_27v2_x264_1080p_CHT.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "X264"
+                            },
+                            {
+                                "tag": "悠哈璃羽字幕社"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -16146,6 +16296,56 @@
                             },
                             {
                                 "tag": "粵日雙語+內封繁體中文字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:O7UTM5IXIEALTLK3XH74HVH5TLDD7RQE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "悠哈C9字幕社",
+                        "publish_timestamp": "1715221117",
+                        "title": "【悠哈璃羽字幕社】[葬送的芙莉莲_Sousou no Frieren][28v2][x264 1080p][CHS]",
+                        "page_link": "http://share.dmhy.org/topics/view/669159_Sousou_no_Frieren_28v2_x264_1080p_CHS.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "CHS"
+                            },
+                            {
+                                "tag": "X264"
+                            },
+                            {
+                                "tag": "悠哈璃羽字幕社"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:L3EHG6OBOVVK7OXNYMKYYT54Q7HQP4YB&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "悠哈C9字幕社",
+                        "publish_timestamp": "1715221125",
+                        "title": "【悠哈璃羽字幕社】[葬送的芙莉莲_Sousou no Frieren][28v2][x264 1080p][CHT]",
+                        "page_link": "http://share.dmhy.org/topics/view/669160_Sousou_no_Frieren_28v2_x264_1080p_CHT.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "X264"
+                            },
+                            {
+                                "tag": "悠哈璃羽字幕社"
                             }
                         ]
                     }

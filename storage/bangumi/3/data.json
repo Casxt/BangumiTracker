@@ -284,6 +284,56 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:UP3FFB7X4FB7T3ATDSWP7CV7PWBYWSSE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1715309238",
+                        "title": "[漫猫字幕社][家里蹲吸血姬的苦闷][Hikikomari Kyuuketsu Hime no Monmon][01-12][720P][MP4][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/669204_Hikikomari_Kyuuketsu_Hime_no_Monmon_01-12_720P_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:37J6Q4CBTL2HRQP6BM3Q6LBATS3H4F3K&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1715309358",
+                        "title": "[漫猫字幕社][家里蹲吸血姬的苦闷][Hikikomari Kyuuketsu Hime no Monmon][01-12][1080P][MP4][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/669206_Hikikomari_Kyuuketsu_Hime_no_Monmon_01-12_1080P_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
                 }
             ]
         },

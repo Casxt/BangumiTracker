@@ -1362,6 +1362,36 @@
                     }
                 }
             ]
+        },
+        {
+            "index": "08",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:GMIHDWD7IMS4M4QECMKNTL23ARGPNHZL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "zhufeng",
+                        "publish_timestamp": "1716239889",
+                        "title": "【幻之字幕组】狼与香辛料 行商邂逅贤狼 08/狼と香辛料 MERCHANT MEETS THE WISE WOLF - 08 [简中][1080p][HEVC]",
+                        "page_link": "http://share.dmhy.org/topics/view/670289_08_MERCHANT_MEETS_THE_WISE_WOLF_-_08_1080p_HEVC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "幻之字幕组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }

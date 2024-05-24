@@ -1201,6 +1201,34 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VSODGCANTWUECMWVSIYZB2A3DWCFU7UE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我是搬运工",
+                        "publish_timestamp": "1716525113",
+                        "title": "[ReinForce]葬送的芙莉莲/ Sousou no Frieren Vol 5 (BDRip 1920x1080 x264 FLAC)",
+                        "page_link": "http://share.dmhy.org/topics/view/670490_ReinForce_Sousou_no_Frieren_Vol_5_BDRip_1920x1080_x264_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "ReinForce"
+                            },
+                            {
+                                "tag": "X264"
+                            }
+                        ]
+                    }
                 }
             ]
         },

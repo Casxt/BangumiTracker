@@ -59,18 +59,18 @@
             "bangumi_id": "10",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E5%A4%9C%E6%AB%BB%E5%AE%B6%7C%E5%A4%9C%E6%A8%B1%E5%AE%B6",
             "latest_resp_hash": {
-                "value": "LBWPmXMhrhrKpG+F9WrZaZbkJHAqSoSApgJjNtNAj1M="
+                "value": "QgpBDuwKdNjeK7RhWh/NPt2UCOVyLW3RSKGhbQb3aks="
             },
-            "latest_update_time": "2024-05-19T18:07:45.607002Z"
+            "latest_update_time": "2024-05-26T18:07:54.266664Z"
         },
         {
             "key": "无职转生～到了异世界就拿出真本事～ S2",
             "bangumi_id": "11",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F",
             "latest_resp_hash": {
-                "value": "VV5gsrr0F4eSI8aoZvnw6aWa7HB3UPOoYxli8gJzO8o="
+                "value": "MfVjT1oK2Ij6RIVeve9P8l/STPZ/eS99GvNOeKGzOpo="
             },
-            "latest_update_time": "2024-05-24T06:09:19.693003Z",
+            "latest_update_time": "2024-05-26T18:07:54.214611Z",
             "title_include_regex": "Ⅱ|第2季|第二季|S02|S2|s2|2期"
         }
     ]

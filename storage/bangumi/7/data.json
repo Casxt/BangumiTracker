@@ -2,6 +2,29 @@
     "bangumi_id": "7",
     "episodes": [
         {
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:XDLGDHSRCTH3DRFGJ4YMTW37YB3XEO7G&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1716970479",
+                        "title": "[240529]TVアニメ『转生为第七王子，随心所欲的魔法学习之路』EDテーマ「ハッピーの秘訣」／熊田茜音[320K]",
+                        "page_link": "http://share.dmhy.org/topics/view/670894_240529_TV_ED_320K.html",
+                        "tags": [
+                            {
+                                "tag": "320K"
+                            },
+                            {
+                                "tag": "EDテーマ"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
             "index": "01",
             "resources": [
                 {

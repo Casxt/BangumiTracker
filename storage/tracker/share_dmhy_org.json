@@ -41,9 +41,9 @@
             "bangumi_id": "7",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%BD%AC%E7%94%9F%E4%B8%BA%E7%AC%AC%E4%B8%83%E7%8E%8B%E5%AD%90%7C%E8%BD%89%E7%94%9F%E7%82%BA%E7%AC%AC%E4%B8%83%E7%8E%8B%E5%AD%90",
             "latest_resp_hash": {
-                "value": "K0dI9WV4E8o2KyxQ+PBEmKPbmL0fz3a/nMsXhRtbuZw="
+                "value": "y8mdfjAs1bStDWP0LRCuV2mckiW2jtFpM8IMc4dt80k="
             },
-            "latest_update_time": "2024-05-29T18:08:21.800554Z"
+            "latest_update_time": "2024-05-30T08:10:00.337838Z"
         },
         {
             "key": "无名记忆",
@@ -59,18 +59,18 @@
             "bangumi_id": "10",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E5%A4%9C%E6%AB%BB%E5%AE%B6%7C%E5%A4%9C%E6%A8%B1%E5%AE%B6",
             "latest_resp_hash": {
-                "value": "o8kxxTR3b+A2Jhep8+sR7vVKWL6nFmO/bIJ2rZiC6Ys="
+                "value": "hFXTTvT5cUe1n5eRueYo7CRfs09198RYTDlyHh2T7TY="
             },
-            "latest_update_time": "2024-05-30T06:09:42.741492Z"
+            "latest_update_time": "2024-05-30T08:10:00.544342Z"
         },
         {
             "key": "无职转生～到了异世界就拿出真本事～ S2",
             "bangumi_id": "11",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F",
             "latest_resp_hash": {
-                "value": "n5dy0L+MogP/OmTwluhm7Ok1jCeUI9npk4U+Gh+pe4k="
+                "value": "a7M2yAymDh2KU95eqrjCEk84BxIOFr2/ks+mJYZXUe8="
             },
-            "latest_update_time": "2024-05-29T18:08:22.256411Z",
+            "latest_update_time": "2024-05-30T08:10:02.113497Z",
             "title_include_regex": "Ⅱ|第2季|第二季|S02|S2|s2|2期"
         }
     ]

@@ -2,6 +2,51 @@
     "bangumi_id": "10",
     "episodes": [
         {
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:FXMBRGLIOXOPKB5Z34TTK2PVAPFDRP4H&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1717037003",
+                        "title": "[240522][夜樱家的大作战]TVアニメ『夜桜さんちの大作戦』OP主題歌「運命ちゃん」／いきものがかり[320K]",
+                        "page_link": "http://share.dmhy.org/topics/view/670956_240522_TV_OP_320K.html",
+                        "tags": [
+                            {
+                                "tag": "320K"
+                            },
+                            {
+                                "tag": "OP主題歌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:JMWR5U5PSOLTD2QUO3MTKYJ3AUYVABJ4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1717039044",
+                        "title": "[Hi-Res][240522][夜樱家的大作战]TVアニメ『夜桜さんちの大作戦』OP主題歌「運命ちゃん」／いきものがかり[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/670957_Hi-Res_240522_TV_OP_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            },
+                            {
+                                "tag": "OP主題歌"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
             "index": "01",
             "resources": [
                 {

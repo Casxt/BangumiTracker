@@ -41,18 +41,18 @@
             "bangumi_id": "7",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%BD%AC%E7%94%9F%E4%B8%BA%E7%AC%AC%E4%B8%83%E7%8E%8B%E5%AD%90%7C%E8%BD%89%E7%94%9F%E7%82%BA%E7%AC%AC%E4%B8%83%E7%8E%8B%E5%AD%90",
             "latest_resp_hash": {
-                "value": "y8mdfjAs1bStDWP0LRCuV2mckiW2jtFpM8IMc4dt80k="
+                "value": "TVHA7CaVu/aNyEK2ScYBnWGoYADK8NCmP5FzKZkf748="
             },
-            "latest_update_time": "2024-05-30T08:10:00.337838Z"
+            "latest_update_time": "2024-06-03T18:09:30.031300Z"
         },
         {
             "key": "无名记忆",
             "bangumi_id": "8",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E5%90%8D%E8%AE%B0%E5%BF%86%7C%E7%84%A1%E5%90%8D%E8%A8%98%E6%86%B6&sort_id=2&team_id=0&order=date-desc",
             "latest_resp_hash": {
-                "value": "QJSkdsv8Vg47KtxQ/UcQ4GmofZgLodqHk8s4KN2Jdfs="
+                "value": "JpkSoNuFZJzWuyBv2sdIC+atG7AOdYOcMbriqQRp9SQ="
             },
-            "latest_update_time": "2024-06-01T18:07:54.390020Z"
+            "latest_update_time": "2024-06-03T18:09:30.252966Z"
         },
         {
             "key": "夜樱家的大作战",
@@ -68,9 +68,9 @@
             "bangumi_id": "11",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F",
             "latest_resp_hash": {
-                "value": "KQ9AaSOX0yiROl43I/f01bzF904ncD29rc4S6B/RP0Q="
+                "value": "8aygNRiV7ctI9J6AUa0PdddigQZY2cBUls79AZB0WAw="
             },
-            "latest_update_time": "2024-06-02T18:08:43.922789Z",
+            "latest_update_time": "2024-06-03T18:09:32.502911Z",
             "title_include_regex": "Ⅱ|第2季|第二季|S02|S2|s2|2期"
         }
     ]

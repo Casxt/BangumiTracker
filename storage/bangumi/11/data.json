@@ -675,6 +675,47 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:SK6EWYPGX7WW63IQQRK2IB27OQWPNU4D&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1717560839",
+                        "title": "[Hi-Res][240605][无职转生]TVアニメ『無職転生Ⅱ ～異世界行ったら本気だす～』OP2主題歌「オン・ザ・フロントライン」／ヒトリエ[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/671395_Hi-Res_240605_TV_OP2_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            },
+                            {
+                                "tag": "OP2主題歌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:L3NUZXDG2UROHTM2DYXJP3VBW75V7YOE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1717560909",
+                        "title": "[240605][无职转生]TVアニメ『無職転生Ⅱ ～異世界行ったら本気だす～』OP2主題歌「オン・ザ・フロントライン」／ヒトリエ[320K]",
+                        "page_link": "http://share.dmhy.org/topics/view/671396_240605_TV_OP2_320K.html",
+                        "tags": [
+                            {
+                                "tag": "320K"
+                            },
+                            {
+                                "tag": "OP2主題歌"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -10884,6 +10925,90 @@
                             },
                             {
                                 "tag": "桜都字幕组"
+                            },
+                            {
+                                "tag": "简繁内封"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:RXG7IMF44QIGYNVGR5LNGW6LH4YURDQU&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1717560219",
+                        "title": "[北宇治字幕组] 無職轉生Ⅱ ～到了異世界就拿出真本事～/ Mushoku Tensei - Season 2 [20][WebRip][HEVC_AAC][繁體內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/671392_Mushoku_Tensei_-_Season_2_20_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "繁體內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:BVSZ5BVUTVWCM5IKCSS4HO2XSB45Y2KI&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1717560227",
+                        "title": "[北宇治字幕组] 无职转生Ⅱ ～到了异世界就拿出真本事～/ Mushoku Tensei - Season 2 [20][WebRip][HEVC_AAC][简体内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/671393_Mushoku_Tensei_-_Season_2_20_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "简体内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VLB5JKWFZAKCC467L3NA6FFCRCVQJ5K2&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1717560237",
+                        "title": "[北宇治字幕组] 无职转生Ⅱ ～到了异世界就拿出真本事～/ Mushoku Tensei - Season 2 [20][WebRip][HEVC_AAC][简繁内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/671394_Mushoku_Tensei_-_Season_2_20_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
                             },
                             {
                                 "tag": "简繁内封"

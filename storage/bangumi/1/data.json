@@ -1295,6 +1295,31 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:7DBVEQNBOGT3PZVFGWRKDTXHLO2WZVRK&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我是搬运工",
+                        "publish_timestamp": "1717791468",
+                        "title": "[Beatrice-Raws] 葬送的芙莉莲/Sousou no Frieren (Vol 01-05) [BDRip 1920x1080 HEVC TrueHD]",
+                        "page_link": "http://share.dmhy.org/topics/view/671548_Beatrice-Raws_Sousou_no_Frieren_Vol_01-05_BDRip_1920x1080_HEVC_TrueHD.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "Beatrice"
+                            },
+                            {
+                                "tag": "HEVC"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -1583,6 +1608,25 @@
                             },
                             {
                                 "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:YMQNSNHCOAIODLN366VFJE4GOIIBBZG4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我是搬运工",
+                        "publish_timestamp": "1717791942",
+                        "title": "[Erai-raws] 葬送的芙莉莲/Sousou no Frieren - 01 ~ 28 [1080p][BATCH][Multiple Subtitle] [ENG][POR-BR][SPA-LA][SPA][ARA][FRE][GER][ITA][RUS]",
+                        "page_link": "http://share.dmhy.org/topics/view/671550_Erai-raws_Sousou_no_Frieren_-_01_28_1080p_BATCH_Multiple_Subtitle_ENG_POR-BR_SPA-LA_SPA_ARA_FRE_GER_ITA_RUS.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "Erai"
                             }
                         ]
                     }

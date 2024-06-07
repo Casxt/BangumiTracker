@@ -11015,6 +11015,56 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:BZUB6MT54ZFD7LKV6GB3L3T7SJ5YZHME&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1717722811",
+                        "title": "[愛戀字幕社&漫貓字幕社][4月新番][無職轉生Ⅱ ～到了異世界就拿出真本事～][Mushoku Tensei II][20][1080p][MP4][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/671505_4_Mushoku_Tensei_II_20_1080p_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "愛戀字幕社&漫貓字幕社"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:JTGMLDSF33DLJAN5EYK6ADYNQM3DFBAL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1717722815",
+                        "title": "[爱恋字幕社&漫猫字幕社][4月新番][无职转生Ⅱ ～到了异世界就拿出真本事～][Mushoku Tensei II][20][1080p][MP4][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/671506_4_Mushoku_Tensei_II_20_1080p_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "爱恋字幕社&漫猫字幕社"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
                 }
             ]
         },

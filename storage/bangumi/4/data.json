@@ -1364,6 +1364,50 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:IS4KAQJ2CH5IHKPVVFGAWIWKQTRRAJN4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1717842101",
+                        "title": "【喵萌奶茶屋】★04月新番★[身为魔王的我娶了奴隶精灵为妻、该如何爱她才好？ / Madome][09][1080p][简体][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/671594_04_Madome_09_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "简体"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:FWIJRJWSNXSTP44P5SDXI2F2HPW77JCA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1717842126",
+                        "title": "【喵萌奶茶屋】★04月新番★[身為魔王的我娶了奴隸精靈為妻、該如何愛她才好？ / Madome][09][1080p][繁體][招募翻譯]",
+                        "page_link": "http://share.dmhy.org/topics/view/671595_04_Madome_09_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁體"
+                            }
+                        ]
+                    }
                 }
             ]
         },

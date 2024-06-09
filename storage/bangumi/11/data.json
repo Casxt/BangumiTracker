@@ -11103,7 +11103,74 @@
             ]
         },
         {
-            "index": "21"
+            "index": "21",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VOKXYR4SIYZXZFGG4G7ATOI2LUKE3Q7Z&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1717945322",
+                        "title": "[ANi]  無職轉生～到了異世界就拿出真本事 第二季 - 21 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/671714_ANi_-_21_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:5ZALAMLF4FROJMH7WFAM3J226UAB3RUK&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lilithraws",
+                        "publish_timestamp": "1717946603",
+                        "title": "[Lilith-Raws] 無職轉生～到了異世界就拿出真本事 / Mushoku Tensei S02 - 21 [Baha][WebDL 1080p AVC AAC][CHT]",
+                        "page_link": "http://share.dmhy.org/topics/view/671747_Lilith-Raws_Mushoku_Tensei_S02_-_21_Baha_WebDL_1080p_AVC_AAC_CHT.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "Lilith"
+                            },
+                            {
+                                "tag": "WEBDL"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "index": "22"

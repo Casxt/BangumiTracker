@@ -11451,7 +11451,43 @@
             ]
         },
         {
-            "index": "22"
+            "index": "22",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:PVDZL5HVQMTGXDGWIZPEHI6JJCS2O4QT&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1718550136",
+                        "title": "[ANi]  無職轉生～到了異世界就拿出真本事 第二季 - 22 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/672249_ANi_-_22_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         {
             "index": "23"

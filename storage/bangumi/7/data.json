@@ -1274,6 +1274,34 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:GKWHLVBEXRDXSZOISF7XLCVZY53Z3JRP&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "op200",
+                        "publish_timestamp": "1719028033",
+                        "title": "[芝士动物朋友]转生为第七王子，随心所欲的魔法学习之路 / Dainanaoji[11][CR-WebRip][1080p][HEVC+AAC][简繁日内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/672559_Dainanaoji_11_CR-WebRip_1080p_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "HEVC+AAC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            },
+                            {
+                                "tag": "芝士动物朋友"
+                            }
+                        ]
+                    }
                 }
             ]
         },

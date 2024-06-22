@@ -1922,6 +1922,40 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:IHG4TXAZFM7INB2YEDJGTGX4W52H6NIJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "清风夏沐",
+                        "publish_timestamp": "1719031853",
+                        "title": "[云歌字幕组&萌樱字幕组][4月新番][无名记忆 Unnamed Memory][11][HEVC][x265 10bit][1080p][简日双语][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/672564_4_Unnamed_Memory_11_HEVC_x265_10bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "UNNAMED"
+                            },
+                            {
+                                "tag": "X265"
+                            },
+                            {
+                                "tag": "云歌字幕组&萌樱字幕组"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
                 }
             ]
         }

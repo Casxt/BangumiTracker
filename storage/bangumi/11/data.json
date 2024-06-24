@@ -11658,6 +11658,62 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:766JE3YCCVJW3OS7K455MUKNS755A3HX&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1719236133",
+                        "title": "[北宇治字幕组] 無職轉生Ⅱ ～到了異世界就拿出真本事～/ Mushoku Tensei - Season 2 [22][WebRip][HEVC_AAC][繁體內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/672747_Mushoku_Tensei_-_Season_2_22_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "繁體內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:SUPIM5XYHHWCYX3OSIUTQ2R5L2H5E26H&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1719236134",
+                        "title": "[北宇治字幕组] 无职转生Ⅱ ～到了异世界就拿出真本事～/ Mushoku Tensei - Season 2 [22][WebRip][HEVC_AAC][简体内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/672748_Mushoku_Tensei_-_Season_2_22_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "简体内嵌"
+                            }
+                        ]
+                    }
                 }
             ]
         },

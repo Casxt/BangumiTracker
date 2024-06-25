@@ -14,18 +14,18 @@
             "bangumi_id": "4",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%BA%AB%E4%B8%BA%E9%AD%94%E7%8E%8B%E7%9A%84%E6%88%91%7C%E8%BA%AB%E4%B8%BA%E9%AD%94%E7%8E%8B%E7%9A%84%E6%88%91&sort_id=2&team_id=0&order=date-desc",
             "latest_resp_hash": {
-                "value": "56y7ZB0MtyNXo42hOU3djOVNbIVdRfpsvXEaerqFM6w="
+                "value": "EE2eneE2O6UtAyLZWmzKfmHqophH2tXB4WOF2Mq/xec="
             },
-            "latest_update_time": "2024-06-13T18:08:39.827963Z"
+            "latest_update_time": "2024-06-25T18:09:55.516643Z"
         },
         {
             "key": "狼与香辛料 行商邂逅贤狼",
             "bangumi_id": "6",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%A1%8C%E5%95%86%E9%82%82%E9%80%85%E8%B3%A2%E7%8B%BC%7C%E8%A1%8C%E5%95%86%E9%82%82%E9%80%85%E8%B4%A4%E7%8B%BC",
             "latest_resp_hash": {
-                "value": "/yU9ClEEHvbm7m7gikUbYhuHy1GwDolbfUq3lOSnp1U="
+                "value": "wyKR128r7tnyGQN3Go2zPMkRgYsfUsw6xMS/IFne8EA="
             },
-            "latest_update_time": "2024-06-25T00:31:48.056501Z"
+            "latest_update_time": "2024-06-25T18:09:55.834900Z"
         },
         {
             "key": "转生为第七王子，随心所欲的魔法学习之路",
@@ -59,9 +59,9 @@
             "bangumi_id": "11",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F",
             "latest_resp_hash": {
-                "value": "l0JUrfMnTuWvCmQeN2zWNmMde+cxXHuTFjji55HtbZo="
+                "value": "yiLRDaqi1xjLRCeykmPHrLUmPgZZ3cDT6X6tRCQzZm0="
             },
-            "latest_update_time": "2024-06-24T18:09:18.879936Z",
+            "latest_update_time": "2024-06-25T18:09:58.073553Z",
             "title_include_regex": "Ⅱ|第2季|第二季|S02|S2|s2|2期"
         }
     ]

@@ -2011,6 +2011,93 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:JIWMKVENJHO6ZT6CR55KII4AVIPIQ75D&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1719518983",
+                        "title": "【喵萌奶茶屋】★04月新番★[无名记忆 / Unnamed Memory][12][1080p][简日双语][招募翻译时轴]",
+                        "page_link": "http://share.dmhy.org/topics/view/672996_04_Unnamed_Memory_12_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "UNNAMED"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:R5SKC7KMWBYTMS4XEI3EZFGQ5FOGVXMW&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1719607822",
+                        "title": "【喵萌奶茶屋】★04月新番★[無名記憶 / Unnamed Memory][12][1080p][繁日雙語][招募翻譯時軸]",
+                        "page_link": "http://share.dmhy.org/topics/view/673029_04_Unnamed_Memory_12_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "UNNAMED"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:PC4IZQSPUNOD3BNE36MEOCBTPNBDFDMV&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1719634717",
+                        "title": "[喵萌奶茶屋&LoliHouse] Unnamed Memory / 无名记忆 / 無名記憶 - 12 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕][END]",
+                        "page_link": "http://share.dmhy.org/topics/view/673032_LoliHouse_Unnamed_Memory_-_12_WebRip_1080p_HEVC-10bit_AAC_END.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "UNNAMED"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋&LoliHouse"
+                            },
+                            {
+                                "tag": "简繁日内封字幕"
+                            }
+                        ]
+                    }
                 }
             ]
         }

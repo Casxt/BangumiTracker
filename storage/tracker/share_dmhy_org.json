@@ -41,9 +41,9 @@
             "bangumi_id": "8",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E5%90%8D%E8%AE%B0%E5%BF%86%7C%E7%84%A1%E5%90%8D%E8%A8%98%E6%86%B6&sort_id=2&team_id=0&order=date-desc",
             "latest_resp_hash": {
-                "value": "Q6VAxKXa7ys45Z+/7KMvH6BqIPfHDw12pbinNZPB5EM="
+                "value": "wG5c4DiWAgGqZ/E+GcU/DjXeRoNmo24OfZ/CMzxXy10="
             },
-            "latest_update_time": "2024-06-26T18:08:54.011622Z"
+            "latest_update_time": "2024-06-30T20:07:08.749216Z"
         },
         {
             "key": "夜樱家的大作战",
@@ -59,9 +59,9 @@
             "bangumi_id": "11",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F",
             "latest_resp_hash": {
-                "value": "z1oOEWol9OVX0zqbhU/UYyUORDkqxsrzHiSJEhU9qtU="
+                "value": "F7Y5LeFdNSUqyNN+4EvannJYG+II7CJIf2sXVuKWiEs="
             },
-            "latest_update_time": "2024-06-26T18:08:53.677950Z",
+            "latest_update_time": "2024-06-30T20:07:11.010344Z",
             "title_include_regex": "Ⅱ|第2季|第二季|S02|S2|s2|2期"
         }
     ]

@@ -14,9 +14,9 @@
             "bangumi_id": "4",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%BA%AB%E4%B8%BA%E9%AD%94%E7%8E%8B%E7%9A%84%E6%88%91%7C%E8%BA%AB%E4%B8%BA%E9%AD%94%E7%8E%8B%E7%9A%84%E6%88%91&sort_id=2&team_id=0&order=date-desc",
             "latest_resp_hash": {
-                "value": "Hsy49LEJED0gB7P96mqOgOqfv83EqG+HcrFp/SBmXaA="
+                "value": "6lhEC51z9YgBb11fsticBfa8Bk/jBDOrkpz8yMzG2t8="
             },
-            "latest_update_time": "2024-06-26T18:08:53.254473Z"
+            "latest_update_time": "2024-07-03T18:08:52.798561Z"
         },
         {
             "key": "狼与香辛料 行商邂逅贤狼",
@@ -59,9 +59,9 @@
             "bangumi_id": "11",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%97%A0%E8%81%8C%E8%BD%AC%E7%94%9F",
             "latest_resp_hash": {
-                "value": "rIUq0ymTWKW8NHx8LMiyOS5Rv8CJUeKDxiAPpr+whzg="
+                "value": "9W4+5Pzk8RNg8t8CDUhulNwvZy2FZ6UXZvGtDHfbJPE="
             },
-            "latest_update_time": "2024-07-02T06:11:22.551055Z",
+            "latest_update_time": "2024-07-03T18:08:53.448295Z",
             "title_include_regex": "Ⅱ|第2季|第二季|S02|S2|s2|2期"
         }
     ]

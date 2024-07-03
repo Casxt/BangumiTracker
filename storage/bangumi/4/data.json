@@ -1660,6 +1660,50 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:S5KATU32DTFNV37VGKAF5PHYIBCITU2H&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1720022195",
+                        "title": "【喵萌奶茶屋】★04月新番★[身为魔王的我娶了奴隶精灵为妻、该如何爱她才好？ / Madome][11][1080p][简体][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/673314_04_Madome_11_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "简体"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:GU5EHMGD6L2BJU4QUEVQZ5T447Q5NKZL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1720022261",
+                        "title": "【喵萌奶茶屋】★04月新番★[身為魔王的我娶了奴隸精靈為妻、該如何愛她才好？ / Madome][11][1080p][繁體][招募翻譯]",
+                        "page_link": "http://share.dmhy.org/topics/view/673315_04_Madome_11_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁體"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -1696,6 +1740,50 @@
                             },
                             {
                                 "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:ZUQE423MGK66TH33TOB4NTUQ74LBBMT5&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1720022281",
+                        "title": "【喵萌奶茶屋】★04月新番★[身为魔王的我娶了奴隶精灵为妻、该如何爱她才好？ / Madome][12][1080p][简体][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/673316_04_Madome_12_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "简体"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:FSU4QVDINARKUVVV245JVRDK27DZRT2O&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1720022291",
+                        "title": "【喵萌奶茶屋】★04月新番★[身為魔王的我娶了奴隸精靈為妻、該如何愛她才好？ / Madome][12][1080p][繁體][招募翻譯]",
+                        "page_link": "http://share.dmhy.org/topics/view/673317_04_Madome_12_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁體"
                             }
                         ]
                     }

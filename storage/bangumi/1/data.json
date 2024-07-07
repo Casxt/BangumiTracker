@@ -1426,6 +1426,74 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OWVGPANOTZJ6LX34ZOFKL5MZ4KZVGDVC&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "黑暗路基艾尔",
+                        "publish_timestamp": "1720358119",
+                        "title": "[DBD-Raws][葬送的芙莉莲/Sousou no Frieren/葬送のフリーレン][17-20TV][BOX5][1080P][BDRip][HEVC-10bit][FLAC][MKV]",
+                        "page_link": "http://share.dmhy.org/topics/view/673661_DBD-Raws_Sousou_no_Frieren_17-20TV_BOX5_1080P_BDRip_HEVC-10bit_FLAC_MKV.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "DBD"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "MKV"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:N2MDQY5WWDE4YTLT6PV7AGKRFBBM7TR7&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "黑暗路基艾尔",
+                        "publish_timestamp": "1720361422",
+                        "title": "[DBD-Raws][葬送的芙莉莲/Sousou no Frieren/葬送のフリーレン][21-24TV][BOX6][1080P][BDRip][HEVC-10bit][FLAC][MKV]",
+                        "page_link": "http://share.dmhy.org/topics/view/673662_DBD-Raws_Sousou_no_Frieren_21-24TV_BOX6_1080P_BDRip_HEVC-10bit_FLAC_MKV.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "DBD"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "MKV"
+                            }
+                        ]
+                    }
                 }
             ]
         },

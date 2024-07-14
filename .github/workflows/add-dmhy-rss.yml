@@ -13,14 +13,14 @@ on:
         description: 'rss url'
         required: true
       title_include_regex:
-        description: 'include. .e.g: "Ⅱ|第2季|第二季|S2|s2|2期"'
+        description: 'include keyword .e.g: "Ⅱ|第2季|第二季|S2|s2|2期"'
         type: string
-        required: true
+        required: false
         default: ""
       title_exclude_regex:
-        description: 'include. .e.g: "Ⅱ|第2季|第二季|S2|s2|2期"'
+        description: 'exclude keyword .e.g: "Ⅱ|第2季|第二季|S2|s2|2期"'
         type: string
-        required: true
+        required: false
         default: ""
 permissions:
   contents: write

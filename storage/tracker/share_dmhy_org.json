@@ -99,6 +99,11 @@
             "bangumi_id": "19",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%A5%9E%E4%B9%8B%E5%A1%94",
             "title_include_regex": "Ⅱ|第2季|第二季|S2|s2|2期|二期"
+        },
+        {
+            "key": "败犬女主太多了",
+            "bangumi_id": "20",
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%95%97%E5%8C%97%E5%A5%B3%7C%E8%B4%A5%E7%8A%AC%E5%A5%B3"
         }
     ]
 }

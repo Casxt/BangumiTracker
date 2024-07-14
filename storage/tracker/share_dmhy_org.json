@@ -76,7 +76,11 @@
         {
             "key": "物语系列 外传季&怪物季",
             "bangumi_id": "14",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E5%A4%96%E4%BC%A0%E5%AD%A3%7C%E6%80%AA%E7%89%A9%E5%AD%A3"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E5%A4%96%E4%BC%A0%E5%AD%A3%7C%E6%80%AA%E7%89%A9%E5%AD%A3",
+            "latest_resp_hash": {
+                "value": "vYQ6pj2dKLsBN3QVQ4FUWFXYvv1G4De9mDqFo3ndFrc="
+            },
+            "latest_update_time": "2024-07-14T16:05:38.628825Z"
         },
         {
             "key": "曾经、魔法少女和邪恶相互为敌。",

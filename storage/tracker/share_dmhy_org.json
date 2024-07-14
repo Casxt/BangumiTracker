@@ -83,6 +83,11 @@
             "key": "义妹生活",
             "bangumi_id": "16",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%BE%A9%E5%A6%B9%E7%94%9F%E6%B4%BB%7C%E4%B9%89%E5%A6%B9%E7%94%9F%E6%B4%BB+"
+        },
+        {
+            "key": "身为VTuber的我因为忘记关台而成了传说",
+            "bangumi_id": "17",
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%BA%AB%E7%82%BAVTuber%7C%E8%BA%AB%E4%B8%BAVTuber"
         }
     ]
 }

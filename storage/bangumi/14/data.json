@@ -284,6 +284,28 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:T3IEXCVQ7L5J5SXW6XC5VX4O6CU5OUTE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "orion321",
+                        "publish_timestamp": "1720964221",
+                        "title": "[猎户手抄部] 物语系列 外传季&怪物季 / Monogatari Series Off & Monster Season [02] [1080p] [简繁内封] [2024年7月番]",
+                        "page_link": "http://share.dmhy.org/topics/view/674208_Monogatari_Series_Off_Monster_Season_02_1080p_2024_7.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "猎户手抄部"
+                            },
+                            {
+                                "tag": "简繁内封"
+                            }
+                        ]
+                    }
                 }
             ]
         }

@@ -78,6 +78,11 @@
             "key": "曾经、魔法少女和邪恶相互为敌。",
             "bangumi_id": "15",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E4%B8%8E%E9%82%AA%E6%81%B6%7C%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%92%8C%E9%82%AA%E6%81%B6&sort_id=0&team_id=0&order=date-desc"
+        },
+        {
+            "key": "义妹生活",
+            "bangumi_id": "16",
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%BE%A9%E5%A6%B9%E7%94%9F%E6%B4%BB%7C%E4%B9%89%E5%A6%B9%E7%94%9F%E6%B4%BB+"
         }
     ]
 }

@@ -93,6 +93,12 @@
             "key": "我的妻子没有感情",
             "bangumi_id": "18",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E4%B8%8D%E5%85%B7%E6%84%9F%E6%83%85%7C%E6%B2%A1%E6%9C%89%E6%84%9F%E6%83%85"
+        },
+        {
+            "key": "神之塔 第二季",
+            "bangumi_id": "19",
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%A5%9E%E4%B9%8B%E5%A1%94",
+            "title_include_regex": "Ⅱ|第2季|第二季|S2|s2|2期|二期"
         }
     ]
 }

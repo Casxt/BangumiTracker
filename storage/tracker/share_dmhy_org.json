@@ -67,7 +67,11 @@
         {
             "key": "不时轻声地以俄语遮羞的邻座艾琳同学",
             "bangumi_id": "13",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%94%A8%E4%BF%84%E8%AF%AD%E5%90%91%E6%88%91%E6%92%92%E5%A8%87%7C%E4%BB%A5%E4%BF%84%E8%AF%AD%E9%81%AE%E7%BE%9E"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%94%A8%E4%BF%84%E8%AF%AD%E5%90%91%E6%88%91%E6%92%92%E5%A8%87%7C%E4%BB%A5%E4%BF%84%E8%AF%AD%E9%81%AE%E7%BE%9E",
+            "latest_resp_hash": {
+                "value": "V9fGH5S8dkK7PBsqvMhuMtbTPl5toiyp7ze+p/jtPB0="
+            },
+            "latest_update_time": "2024-07-14T14:46:15.348140Z"
         },
         {
             "key": "物语系列 外传季&怪物季",
@@ -77,43 +81,75 @@
         {
             "key": "曾经、魔法少女和邪恶相互为敌。",
             "bangumi_id": "15",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E4%B8%8E%E9%82%AA%E6%81%B6%7C%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%92%8C%E9%82%AA%E6%81%B6&sort_id=0&team_id=0&order=date-desc"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E4%B8%8E%E9%82%AA%E6%81%B6%7C%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%92%8C%E9%82%AA%E6%81%B6&sort_id=0&team_id=0&order=date-desc",
+            "latest_resp_hash": {
+                "value": "uzWT6ZT95gON/+Pi0oqY39XXeesQ/wo9+mpF710NYl8="
+            },
+            "latest_update_time": "2024-07-14T14:46:13.697149Z"
         },
         {
             "key": "义妹生活",
             "bangumi_id": "16",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%BE%A9%E5%A6%B9%E7%94%9F%E6%B4%BB%7C%E4%B9%89%E5%A6%B9%E7%94%9F%E6%B4%BB+"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%BE%A9%E5%A6%B9%E7%94%9F%E6%B4%BB%7C%E4%B9%89%E5%A6%B9%E7%94%9F%E6%B4%BB+",
+            "latest_resp_hash": {
+                "value": "/JysdiGV6LDBNqugiVbIbSeJy5291hHyKDuMSHFR12M="
+            },
+            "latest_update_time": "2024-07-14T14:46:28.220577Z"
         },
         {
             "key": "身为VTuber的我因为忘记关台而成了传说",
             "bangumi_id": "17",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%BA%AB%E7%82%BAVTuber%7C%E8%BA%AB%E4%B8%BAVTuber"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%BA%AB%E7%82%BAVTuber%7C%E8%BA%AB%E4%B8%BAVTuber",
+            "latest_resp_hash": {
+                "value": "Zcq+Bpj7mN0Zi6A9U99eldIVFz1f1YqptdqDdNCLFaY="
+            },
+            "latest_update_time": "2024-07-14T14:46:27.461047Z"
         },
         {
             "key": "我的妻子没有感情",
             "bangumi_id": "18",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E4%B8%8D%E5%85%B7%E6%84%9F%E6%83%85%7C%E6%B2%A1%E6%9C%89%E6%84%9F%E6%83%85"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E4%B8%8D%E5%85%B7%E6%84%9F%E6%83%85%7C%E6%B2%A1%E6%9C%89%E6%84%9F%E6%83%85",
+            "latest_resp_hash": {
+                "value": "hgJ5gseUPwQfPUxWWmTzPORpOMvG5bxtFXnxeU61o7w="
+            },
+            "latest_update_time": "2024-07-14T14:46:40.023753Z"
         },
         {
             "key": "神之塔 第二季",
             "bangumi_id": "19",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%A5%9E%E4%B9%8B%E5%A1%94",
+            "latest_resp_hash": {
+                "value": "HxOuM+lu7VTmuMFGmJ50EmJ7ug/ehJKLy5e4052ferk="
+            },
+            "latest_update_time": "2024-07-14T14:46:29.437100Z",
             "title_include_regex": "Ⅱ|第2季|第二季|S2|s2|2期|二期"
         },
         {
             "key": "败犬女主太多了",
             "bangumi_id": "20",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%95%97%E5%8C%97%E5%A5%B3%7C%E8%B4%A5%E7%8A%AC%E5%A5%B3"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%95%97%E5%8C%97%E5%A5%B3%7C%E8%B4%A5%E7%8A%AC%E5%A5%B3",
+            "latest_resp_hash": {
+                "value": "d31c6q0N6lsbGIlFzCd1g4mCz7soVYMiEwP+ddpmgqM="
+            },
+            "latest_update_time": "2024-07-14T14:46:36.895525Z"
         },
         {
             "key": "鹿乃子乃子乃子虎视眈眈",
             "bangumi_id": "21",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E9%B9%BF%E4%B9%83%E5%AD%90"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E9%B9%BF%E4%B9%83%E5%AD%90",
+            "latest_resp_hash": {
+                "value": "BpUeeW2Z4fo2m734ySe1B5AAA8460oMHzkqR/RoXAFc="
+            },
+            "latest_update_time": "2024-07-14T14:46:27.790544Z"
         },
         {
             "key": "百变的七仓同学",
             "bangumi_id": "22",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%99%BE%E8%AE%8A%E7%9A%84%E4%B8%83%E5%80%89%E5%90%8C%E5%AD%B8%7C%E6%A8%A1%E6%93%AC%E5%BE%8C%E5%AE%AE%E9%AB%94%E9%A9%97%7C%E7%96%91%E4%BC%BC%E5%90%8E%E5%AE%AB"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%99%BE%E8%AE%8A%E7%9A%84%E4%B8%83%E5%80%89%E5%90%8C%E5%AD%B8%7C%E6%A8%A1%E6%93%AC%E5%BE%8C%E5%AE%AE%E9%AB%94%E9%A9%97%7C%E7%96%91%E4%BC%BC%E5%90%8E%E5%AE%AB",
+            "latest_resp_hash": {
+                "value": "lnROnroEXm7+U4H02v7jJ4EXanzZLNUVyRc664qyDoM="
+            },
+            "latest_update_time": "2024-07-14T14:46:27.493644Z"
         }
     ]
 }

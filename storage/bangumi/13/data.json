@@ -1,3 +1,429 @@
 {
-    "bangumi_id": "13"
+    "bangumi_id": "13",
+    "episodes": [
+        {
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:UIAMOZOYUDLQUNE5AR7NL7BWG7X7AWQB&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1720780285",
+                        "title": "[Hi-Res][240711]TVアニメ『不时轻声地以俄语遮羞的邻座艾莉同学』ED「可愛くてごめん」アーリャ(CV.上坂すみれ)[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/674027_Hi-Res_240711_TV_ED_CV_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "ED"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:2EFZ5OGFHYQ4WJN2ZEXMR6ANC2RGBEET&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "霜庭云花Sub",
+                        "publish_timestamp": "1720807999",
+                        "title": "[霜庭云花Sub][不时轻声地以俄语遮羞的邻座艾琳同学 / ロシデレ / Roshidere][02-V2][1080P][AVC AAC][简日双语][WebRip]（检索：艾莉同学 Alya-san）",
+                        "page_link": "http://share.dmhy.org/topics/view/674064_Sub_Roshidere_02-V2_1080P_AVC_AAC_WebRip_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简日双语"
+                            },
+                            {
+                                "tag": "霜庭云花Sub"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "01",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:HC5VSVV7KXAGVSC4ZAQCKYD3JCQCEKVL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1720017153",
+                        "title": "[ANi]  不時輕聲地以俄語遮羞的鄰座艾莉同學 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/673298_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:7MMYKRVQPTQZXQEMM4Y2PGM6AUGOCBRU&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我为新代盐",
+                        "publish_timestamp": "1720174890",
+                        "title": "[新Sub][7月新番][不时轻声地以俄语遮羞的邻座艾莉同学_Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san][01][HEVC][10Bit][1080P][简日双语][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/673438_Sub_7_Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san_01_HEVC_10Bit_1080P.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "新Sub"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:HLXJAZXJAMEDG4KL3IADG7E4DTZRM4O3&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "霜庭云花Sub",
+                        "publish_timestamp": "1720205471",
+                        "title": "[霜庭云花Sub][不时轻声地以俄语遮羞的邻座艾琳同学 / ロシデレ / Roshidere][01][1080P][AVC AAC][简日双语][WebRip]（检索：艾莉同学 Alya-san）",
+                        "page_link": "http://share.dmhy.org/topics/view/673474_Sub_Roshidere_01_1080P_AVC_AAC_WebRip_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简日双语"
+                            },
+                            {
+                                "tag": "霜庭云花Sub"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VK7QYVJLQDBNPUP6JIC32JX3R2DQJG5J&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "芙宁娜",
+                        "publish_timestamp": "1720255778",
+                        "title": "[❀拨雪寻春❀] 不時輕聲地以俄語遮羞的鄰座艾莉同學 / 隣のアーリャさん / Tonari no Alya-san - 01 [WEBRip][AVC-8bit 1080p][繁日內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/673517_Tonari_no_Alya-san_WEBRip_AVC-8bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "8BIT"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "❀拨雪寻春❀"
+                            },
+                            {
+                                "tag": "繁日內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:PVCTXRY43JDCNAS6H5CH5SGQGQ675UWU&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我为新代盐",
+                        "publish_timestamp": "1720411348",
+                        "title": "[新Sub][7月新番][不时轻声地以俄语遮羞的邻座艾莉同学_Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san][01v2][HEVC][10Bit][1080P][简日双语][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/673710_Sub_7_Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san_01v2_HEVC_10Bit_1080P.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "新Sub"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:YVKEZQY2VKCLX753PEYE2LIYIKDMF6X4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1720435478",
+                        "title": "【喵萌奶茶屋】★07月新番★[时不时会用俄语向我撒娇的邻座阿莉娅同学 / Roshidere][01][1080p][简日双语][招募翻译时轴]",
+                        "page_link": "http://share.dmhy.org/topics/view/673738_07_Roshidere_01_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:BS2G5HBF6JYCS7ZMDZA6D25QE4GLNBXR&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1720435479",
+                        "title": "【喵萌奶茶屋】★07月新番★[不時輕聲地以俄語遮羞的鄰座艾莉同學 / Roshidere][01][1080p][繁日雙語][招募翻譯時軸]",
+                        "page_link": "http://share.dmhy.org/topics/view/673739_07_Roshidere_01_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:4YM53JJJWVHLMTCBBUXYSY6FPHMKVX36&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1720438664",
+                        "title": "[喵萌奶茶屋&LoliHouse] 时不时会用俄语向我撒娇的邻座阿莉娅同学 / 不時輕聲地以俄語遮羞的鄰座艾莉同學 / Roshidere - 01 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/673744_LoliHouse_Roshidere_-_01_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋&LoliHouse"
+                            },
+                            {
+                                "tag": "简繁日内封字幕"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:EU4JFJJ4L2FOOYTRMSL5LNUVMVIOGNK6&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "霜庭云花Sub",
+                        "publish_timestamp": "1720718827",
+                        "title": "[霜庭云花Sub] 不时轻声地以俄语遮羞的邻座艾琳同学 / ロシデレ / Roshidere - 01 [WebRip 1080P HEVC AAC][简繁日内封 ASSx3]（检索：艾莉同学 Alya-san）",
+                        "page_link": "http://share.dmhy.org/topics/view/673994_Sub_Roshidere_-_01_WebRip_1080P_HEVC_AAC_ASSx3_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            },
+                            {
+                                "tag": "霜庭云花Sub"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:R5KBXMUQM4BYUBXNUIVJJ6H2ENT4H7LW&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "霜庭云花Sub",
+                        "publish_timestamp": "1720724655",
+                        "title": "[霜庭雲花Sub][不時輕聲地以俄語遮羞的鄰座艾琳同學 / ロシデレ / Roshidere][01][1080P][AVC AAC][繁日雙語][WebRip]（檢索：艾莉同學 Alya-san）",
+                        "page_link": "http://share.dmhy.org/topics/view/673996_Sub_Roshidere_01_1080P_AVC_AAC_WebRip_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            },
+                            {
+                                "tag": "霜庭雲花Sub"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "02",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:5LG7TS7ZOBU44CGJPYON6R77PMBOSWWP&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1720621904",
+                        "title": "[ANi]  不時輕聲地以俄語遮羞的鄰座艾莉同學 - 02 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/673916_ANi_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:5RZXYMHBJSCLMEQCZYSTBZBWJQU4Z7GE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "霜庭云花Sub",
+                        "publish_timestamp": "1720808211",
+                        "title": "[霜庭云花Sub][不时轻声地以俄语遮羞的邻座艾琳同学 / ロシデレ / Roshidere][02][720P][AVC AAC][简日双语][WebRip]（检索：艾莉同学 Alya-san）",
+                        "page_link": "http://share.dmhy.org/topics/view/674065_Sub_Roshidere_02_720P_AVC_AAC_WebRip_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简日双语"
+                            },
+                            {
+                                "tag": "霜庭云花Sub"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
 }

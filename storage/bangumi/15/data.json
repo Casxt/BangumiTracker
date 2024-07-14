@@ -1,3 +1,94 @@
 {
-    "bangumi_id": "15"
+    "bangumi_id": "15",
+    "episodes": [
+        {
+            "index": "01",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:5FD6MKE4UOYXW7ISQJ2GHICU5XP6VD3R&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1720537905",
+                        "title": "[ANi]  曾經、魔法少女和邪惡相互為敵。 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/673845_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:APREEASQJVPYMZTMSH33HWWM6MKYSF3R&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "orion321",
+                        "publish_timestamp": "1720620607",
+                        "title": "[猎户手抄部] 魔法少女与邪恶曾经敌对。/ 曾经、魔法少女和邪恶相互为敌。/ Katsute Mahou Shoujo to Aku wa Tekitai Shiteita. [01] [1080p] [简繁内封] [2024年7月番]",
+                        "page_link": "http://share.dmhy.org/topics/view/673911_Katsute_Mahou_Shoujo_to_Aku_wa_Tekitai_Shiteita_01_1080p_2024_7.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "猎户手抄部"
+                            },
+                            {
+                                "tag": "简繁内封"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:55LWFXDH6M76YFDBKZNSRAHJM3XVIRFA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1720631461",
+                        "title": "[北宇治字幕组] 曾經、魔法少女和邪惡相互為敵。 / Katsute Mahou Shoujo to Aku wa Tekitai shiteita. [01][WebRip][HEVC_AAC][繁日內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/673930_Katsute_Mahou_Shoujo_to_Aku_wa_Tekitai_shiteita_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "繁日內嵌"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
 }

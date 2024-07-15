@@ -690,6 +690,62 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OMBSILDQOWYCDNMTLLIOCNTCV4PPZNHZ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1721041952",
+                        "title": "[愛戀&漫貓字幕組][7月新番][鹿乃子乃子乃子虎視眈眈][Shikanoko Nokonoko Koshitantan][02][1080p][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/674280_7_Shikanoko_Nokonoko_Koshitantan_02_1080p_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "愛戀&漫貓字幕組"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:FPBWFAXTSEKGC6IJSPCV47R46LVZ7SCS&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1721041958",
+                        "title": "[爱恋&漫猫字幕组][7月新番][鹿乃子乃子乃子虎视眈眈][Shikanoko Nokonoko Koshitantan][02][1080p][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/674281_7_Shikanoko_Nokonoko_Koshitantan_02_1080p_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "爱恋&漫猫字幕组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
                 }
             ]
         }

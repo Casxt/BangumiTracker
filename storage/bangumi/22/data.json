@@ -33,6 +33,50 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:IMRA2YQF6T4UQHQS3CGFW5GYHOBW5IVB&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1721120564",
+                        "title": "[Hi-Res][240705][疑似后宫]TVアニメ『疑似ハーレム』OP主題歌「ブラウス」／ゴホウビ[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/674347_Hi-Res_240705_TV_OP_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            },
+                            {
+                                "tag": "OP主題歌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:JSJIUF7D4EDJEJNIEIHPBYMW6PD6ITX5&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1721121007",
+                        "title": "[Hi-Res][240705][疑似后宫]TVアニメ『疑似ハーレム』EDテーマ「アドリブ」／七倉凛(CV.早見沙織)[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/674348_Hi-Res_240705_TV_ED_CV_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "EDテーマ"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            }
+                        ]
+                    }
                 }
             ]
         },

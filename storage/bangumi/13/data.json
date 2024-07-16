@@ -522,6 +522,99 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VJJGR7RQYQZOIZ23LLBE7AETL7CO3X6Z&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "霜庭云花Sub",
+                        "publish_timestamp": "1721111328",
+                        "title": "[霜庭雲花Sub][不時輕聲地以俄語遮羞的鄰座艾琳同學 / ロシデレ / Roshidere][02][1080P][AVC AAC][繁日雙語][WebRip]（檢索：艾莉同學 Alya-san）",
+                        "page_link": "http://share.dmhy.org/topics/view/674337_Sub_Roshidere_02_1080P_AVC_AAC_WebRip_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            },
+                            {
+                                "tag": "霜庭雲花Sub"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:PU75UHHJQJMOMA5UGSRK4JCCWBR7NEJO&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "霜庭云花Sub",
+                        "publish_timestamp": "1721111372",
+                        "title": "[霜庭雲花Sub][不時輕聲地以俄語遮羞的鄰座艾琳同學 / ロシデレ / Roshidere][02][720P][AVC AAC][繁日雙語][WebRip]（檢索：艾莉同學 Alya-san）",
+                        "page_link": "http://share.dmhy.org/topics/view/674338_Sub_Roshidere_02_720P_AVC_AAC_WebRip_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            },
+                            {
+                                "tag": "霜庭雲花Sub"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:NFAI23HK5GDAUFICFKMFRNTNYSHJ5HC2&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "霜庭云花Sub",
+                        "publish_timestamp": "1721115040",
+                        "title": "[霜庭云花Sub] 不时轻声地以俄语遮羞的邻座艾琳同学 / ロシデレ / Roshidere - 02 [WebRip 1080P HEVC AAC][简繁日内封 ASSx3]（检索：艾莉同学 Alya-san）",
+                        "page_link": "http://share.dmhy.org/topics/view/674340_Sub_Roshidere_-_02_WebRip_1080P_HEVC_AAC_ASSx3_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            },
+                            {
+                                "tag": "霜庭云花Sub"
+                            }
+                        ]
+                    }
                 }
             ]
         }

@@ -2,6 +2,32 @@
     "bangumi_id": "20",
     "episodes": [
         {
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:S6ILFS7XDKRFGQIUQ4T4TJNNGUZIWFQV&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1721208849",
+                        "title": "[Hi-Res][240714][败犬女主太多了!]TVアニメ『負けヒロインが多すぎる！』EDテーマ「LOVE 2000」／八奈見杏菜(CV.遠野ひかる)[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/674422_Hi-Res_240714_%21_TV_ED_LOVE_2000_CV_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "EDテーマ"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
             "index": "01",
             "resources": [
                 {

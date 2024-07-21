@@ -84,6 +84,31 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:LG666EO4DFLK32DGJIBTBENAOA4IE44Z&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1721569773",
+                        "title": "[Hi-Res][240721][夜樱家的大作战]TVアニメ『夜桜さんちの大作戦』OP2主題歌「Secret Operation」／fripSide feat.南條愛乃[96khz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/674773_Hi-Res_240721_TV_OP2_Secret_Operation_fripSide_feat_96khz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            },
+                            {
+                                "tag": "OP2主題歌"
+                            },
+                            {
+                                "tag": "OPERATION"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -1942,6 +1967,45 @@
                             },
                             {
                                 "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "16",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:6BJGAO4CFTT6LEQE2N66NQ2ZAOID65KS&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1721550720",
+                        "title": "[ANi] Yozakurasan Chi no Daisakusen /  夜櫻家大作戰 - 16 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/674744_ANi_Yozakurasan_Chi_no_Daisakusen_-_16_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
                             }
                         ]
                     }

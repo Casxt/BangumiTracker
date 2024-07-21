@@ -712,6 +712,28 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OIXI4EHGUVCG7ERS7AQZUFH7OPAJOIH7&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "D4869",
+                        "publish_timestamp": "1721539212",
+                        "title": "[云光字幕组] 不时轻声地以俄语遮羞的邻座阿莉娅同学 Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san[02][简体双语][1080p]招募翻译",
+                        "page_link": "http://share.dmhy.org/topics/view/674722_Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san_02_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "云光字幕组"
+                            },
+                            {
+                                "tag": "简体双语"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -872,6 +894,37 @@
                             },
                             {
                                 "tag": "霜庭雲花Sub"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:I77QPJ6TA7ICXF7JS2TNZJOCGZ33JE4X&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "霜庭云花Sub",
+                        "publish_timestamp": "1721543103",
+                        "title": "[霜庭云花Sub] 不时轻声地以俄语遮羞的邻座艾琳同学 / ロシデレ / Roshidere - 03 [WebRip 1080P HEVC AAC][简繁日内封 ASSx3]（检索：艾莉同学 Alya-san）",
+                        "page_link": "http://share.dmhy.org/topics/view/674737_Sub_Roshidere_-_03_WebRip_1080P_HEVC_AAC_ASSx3_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            },
+                            {
+                                "tag": "霜庭云花Sub"
                             }
                         ]
                     }

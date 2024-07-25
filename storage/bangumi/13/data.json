@@ -121,6 +121,28 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:MWU3ABA72TYV4JHB5HRRSUMWBGCKOOG2&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1721870031",
+                        "title": "[Hi-Res][240725]TVアニメ『不时轻声地以俄语遮羞的邻座艾莉同学 ​​​』ED4「ハレ晴レユカイ」／アーリャ(CV.上坂すみれ)[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/674994_Hi-Res_240725_TV_ED4_CV_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "ED4"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            }
+                        ]
+                    }
                 }
             ]
         },

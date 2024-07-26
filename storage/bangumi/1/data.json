@@ -1522,6 +1522,59 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VFSIFUPI3MVBYP7TRW5CEXDJJD6RIYFB&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我是搬运工",
+                        "publish_timestamp": "1721962923",
+                        "title": "[Moozzi2] 葬送的芙莉莲/葬送のフリーレン/Sousou no Frieren (BD 1920x1080 x265-10Bit FLACx2) - TV + SP",
+                        "page_link": "http://share.dmhy.org/topics/view/675040_Moozzi2_Sousou_no_Frieren_BD_1920x1080_x265-10Bit_FLACx2_-_TV_SP.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "BD"
+                            },
+                            {
+                                "tag": "FLACX2"
+                            },
+                            {
+                                "tag": "Moozzi2"
+                            },
+                            {
+                                "tag": "X265"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:PAA6DXTPW7CUR5QPPTQHF3PENMGKRNGF&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我是搬运工",
+                        "publish_timestamp": "1721964323",
+                        "title": "葬送的芙莉莲 / Sousou no Frieren / 葬送のフリーレン (BD REMUX EP01-28+SP Fin AVC PCM PGS)",
+                        "page_link": "http://share.dmhy.org/topics/view/675042_Sousou_no_Frieren_BD_REMUX_EP01-28_SP_Fin_AVC_PCM_PGS.html",
+                        "tags": [
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "BD"
+                            },
+                            {
+                                "tag": "葬送的芙莉莲"
+                            }
+                        ]
+                    }
                 }
             ]
         },

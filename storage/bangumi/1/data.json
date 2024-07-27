@@ -1646,6 +1646,31 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:JBILZAKMIALWLUI3VG5MNYJDMT3S6HYT&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "AIRaws",
+                        "publish_timestamp": "1722045954",
+                        "title": "[AI-Raws] 葬送のフリーレン / Frieren: Beyond Journey`s End / 葬送的芙莉莲 S1 BDRip 1080p MKV",
+                        "page_link": "http://share.dmhy.org/topics/view/675115_AI-Raws_Frieren_Beyond_Journey_s_End_S1_BDRip_1080p_MKV.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AI"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "MKV"
+                            }
+                        ]
+                    }
                 }
             ]
         },

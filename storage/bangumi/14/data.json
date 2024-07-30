@@ -56,6 +56,33 @@
             ]
         },
         {
+            "index": "003",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:ZO5GJ5OHVLOLTDYFGSWWPBMDGGMFZNGC&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "D4869",
+                        "publish_timestamp": "1722351294",
+                        "title": "[云光字幕组]物语系列 外传季 怪物季 Monogatari Series Off Monster Season[003][简体双语][1080p]招募翻译",
+                        "page_link": "http://share.dmhy.org/topics/view/675371_Monogatari_Series_Off_Monster_Season_003_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "云光字幕组"
+                            },
+                            {
+                                "tag": "简体双语"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
             "index": "01",
             "resources": [
                 {
@@ -721,6 +748,28 @@
                             },
                             {
                                 "tag": "简体内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:WTTNSXJKGBD72WIIBJCDICG7ABNDTDXJ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "orion321",
+                        "publish_timestamp": "1722346996",
+                        "title": "[猎户手抄部] 物语系列 外传季&怪物季 / Monogatari Series Off & Monster Season [04] [1080p] [简繁内封] [2024年7月番]",
+                        "page_link": "http://share.dmhy.org/topics/view/675361_Monogatari_Series_Off_Monster_Season_04_1080p_2024_7.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "猎户手抄部"
+                            },
+                            {
+                                "tag": "简繁内封"
                             }
                         ]
                     }

@@ -143,6 +143,28 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:G6ZASUVR5KHN4VK4CHRI2M73SZ5IXPXG&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1722500030",
+                        "title": " [Hi-Res][240801]TVアニメ『不时轻声地以俄语遮羞的邻座艾莉同学 ​』ED5「小さな恋のうた」アーリャ(CV.上坂すみれ)[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/675462_Hi-Res_240801_TV_ED5_CV_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "ED5"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            }
+                        ]
+                    }
                 }
             ]
         },

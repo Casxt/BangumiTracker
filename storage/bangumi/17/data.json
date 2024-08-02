@@ -97,6 +97,90 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:6G2SZICLQBUDCC37MOCOQGDIRBWLTGL4&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Lambholl",
+                        "publish_timestamp": "1722612928",
+                        "title": "[离谱Sub] 身为VTuber的我因为忘记关台而成了传说 / VTuberなんだが配信切り忘れたら伝説になってた / VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta [01][AVC AAC][1080p][简日内嵌][招募时轴]",
+                        "page_link": "http://share.dmhy.org/topics/view/675578_Sub_VTuber_VTuber_VTuber_Nandaga_Haishin_Kiri_Wasuretara_Densetsu_ni_Natteta_01_AVC_AAC_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "离谱Sub"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:NZWE6DFND5D3NHWV2F7UX5EJTHVE3PLY&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Lambholl",
+                        "publish_timestamp": "1722612959",
+                        "title": "[离谱Sub] 身為VTuber的我因為忘記關台而成了傳說 / VTuberなんだが配信切り忘れたら伝説になってた / VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta [01][AVC AAC][1080p][繁日內嵌][招募時軸]",
+                        "page_link": "http://share.dmhy.org/topics/view/675579_Sub_VTuber_VTuber_VTuber_Nandaga_Haishin_Kiri_Wasuretara_Densetsu_ni_Natteta_01_AVC_AAC_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "离谱Sub"
+                            },
+                            {
+                                "tag": "繁日內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:7YN55DQ2YZW5IUAEOZ6IL6AKBS4XLSB6&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Lambholl",
+                        "publish_timestamp": "1722612977",
+                        "title": "[离谱Sub] 身为VTuber的我因为忘记关台而成了传说 / VTuberなんだが配信切り忘れたら伝説になってた / VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta [01]HEVC AAC][1080p][简繁日内封][招募时轴]",
+                        "page_link": "http://share.dmhy.org/topics/view/675580_Sub_VTuber_VTuber_VTuber_Nandaga_Haishin_Kiri_Wasuretara_Densetsu_ni_Natteta_01_HEVC_AAC_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "离谱Sub"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            }
+                        ]
+                    }
                 }
             ]
         },

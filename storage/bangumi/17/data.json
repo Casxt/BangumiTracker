@@ -254,6 +254,90 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:MOVQHHAKSA3RFWAOMKQMUYFLGFCQKFBL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lazybee",
+                        "publish_timestamp": "1722783862",
+                        "title": "[离谱Sub] 身为VTuber的我因为忘记关台而成了传说 / VTuberなんだが配信切り忘れたら伝説になってた / VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta [02][AVC AAC][1080p][简日内嵌][招募时轴]",
+                        "page_link": "http://share.dmhy.org/topics/view/675736_Sub_VTuber_VTuber_VTuber_Nandaga_Haishin_Kiri_Wasuretara_Densetsu_ni_Natteta_02_AVC_AAC_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "离谱Sub"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:YAIT75VOSJEETTXWEUG4KOSGAEGRDFZD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lazybee",
+                        "publish_timestamp": "1722783872",
+                        "title": "[离谱Sub] 身為VTuber的我因為忘記關台而成了傳說 / VTuberなんだが配信切り忘れたら伝説になってた / VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta [02][AVC AAC][1080p][繁日內嵌][招募時軸]",
+                        "page_link": "http://share.dmhy.org/topics/view/675737_Sub_VTuber_VTuber_VTuber_Nandaga_Haishin_Kiri_Wasuretara_Densetsu_ni_Natteta_02_AVC_AAC_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "离谱Sub"
+                            },
+                            {
+                                "tag": "繁日內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:35KRQHKTIYGHPNY3QDN7TDEVEATGOXZS&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "lazybee",
+                        "publish_timestamp": "1722783882",
+                        "title": "[离谱Sub] 身为VTuber的我因为忘记关台而成了传说 / VTuberなんだが配信切り忘れたら伝説になってた / VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta [02][HEVC AAC][1080p][简繁日内封][招募时轴]",
+                        "page_link": "http://share.dmhy.org/topics/view/675738_Sub_VTuber_VTuber_VTuber_Nandaga_Haishin_Kiri_Wasuretara_Densetsu_ni_Natteta_02_HEVC_AAC_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "离谱Sub"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -363,6 +447,45 @@
                             },
                             {
                                 "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "05",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:AL3OU4DSGLPNIETQSDO3YGKBDEOVN7RP&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1722782098",
+                        "title": "[ANi]  身為 VTuber 的我因為忘記關台而成了傳說 - 05 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/675735_ANi_VTuber_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
                             }
                         ]
                     }

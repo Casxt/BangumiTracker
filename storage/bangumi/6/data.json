@@ -114,6 +114,22 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:RWI7GVZVO3J4HD2X5YZSHCHXJAIHKTYS&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1722779436",
+                        "title": "[240731]TVアニメ『狼と香辛料 狼与香辛料 行商邂逅贤狼』OST原声集 Vol.1+2+3／音楽：Kevin Penkin[320K]",
+                        "page_link": "http://share.dmhy.org/topics/view/675734_240731_TV_OST_Vol_1_2_3_Kevin_Penkin_320K.html",
+                        "tags": [
+                            {
+                                "tag": "320K"
+                            }
+                        ]
+                    }
                 }
             ]
         },

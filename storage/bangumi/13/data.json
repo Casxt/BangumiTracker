@@ -1650,6 +1650,84 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:ZE3JRXN3K3JXXARDXYFY7BNV74NDRZZG&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1722936410",
+                        "title": "【喵萌奶茶屋】★07月新番★[时不时会用俄语向我撒娇的邻座阿莉娅同学 / Roshidere][05][1080p][简日双语][招募翻译时轴]",
+                        "page_link": "http://share.dmhy.org/topics/view/675850_07_Roshidere_05_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:4E36TPCKPF7SV4WB6UFYKTIR6S662BB5&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1722936411",
+                        "title": "【喵萌奶茶屋】★07月新番★[不時輕聲地以俄語遮羞的鄰座艾莉同學 / Roshidere][05][1080p][繁日雙語][招募翻譯時軸]",
+                        "page_link": "http://share.dmhy.org/topics/view/675851_07_Roshidere_05_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:54O5GHDDNPREIUMD2IHWSR3NFERK6RXO&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1722948181",
+                        "title": "[喵萌奶茶屋&LoliHouse] 时不时会用俄语向我撒娇的邻座阿莉娅同学 / 不時輕聲地以俄語遮羞的鄰座艾莉同學 / Roshidere - 05 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/675855_LoliHouse_Roshidere_-_05_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋&LoliHouse"
+                            },
+                            {
+                                "tag": "简繁日内封字幕"
+                            }
+                        ]
+                    }
                 }
             ]
         }

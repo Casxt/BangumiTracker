@@ -140,7 +140,11 @@
         {
             "key": "杖与剑的魔剑谭",
             "bangumi_id": "23",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E9%AD%94%E5%89%91%E8%B0%AD%7Ctsue%2Btsurugi%2Bwistoria"
+            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E9%AD%94%E5%89%91%E8%B0%AD%7Ctsue%2Btsurugi%2Bwistoria",
+            "latest_resp_hash": {
+                "value": "ad08BtjQYy6LpFHi2i90bpMO+fzxY4YtRDGhFOMBUR0="
+            },
+            "latest_update_time": "2024-08-08T12:12:59.327035Z"
         }
     ]
 }

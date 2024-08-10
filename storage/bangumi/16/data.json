@@ -924,6 +924,104 @@
                     }
                 }
             ]
+        },
+        {
+            "index": "06",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:752RJP47A6XGIPSQKRBYVQNSKJNDTBYH&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Needfire",
+                        "publish_timestamp": "1723303694",
+                        "title": "[❀拨雪寻春❀] 义妹生活 / 义妹生活 / Gimai Seikatsu - 06 [WEBRip][HEVC-10bit 1080p][简繁日内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/676695_Gimai_Seikatsu_-_06_WEBRip_HEVC-10bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "❀拨雪寻春❀"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:UONR2GLHQL7QVPFTG7NMI7O2MNCES5K7&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Needfire",
+                        "publish_timestamp": "1723303709",
+                        "title": "[❀拨雪寻春❀] 义妹生活 / 义妹生活 / Gimai Seikatsu - 06 [WEBRip][AVC-8bit 1080p][简日内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/676696_Gimai_Seikatsu_-_06_WEBRip_AVC-8bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "8BIT"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "❀拨雪寻春❀"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:WIDWCQ5XC26P4EKRNCXLXNRQIGZ4RMV5&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Needfire",
+                        "publish_timestamp": "1723303751",
+                        "title": "[❀拨雪寻春❀] 義妹生活 / 義妹生活 / Gimai Seikatsu - 06 [WEBRip][AVC-8bit 1080p][繁日内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/676697_Gimai_Seikatsu_-_06_WEBRip_AVC-8bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "8BIT"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "❀拨雪寻春❀"
+                            },
+                            {
+                                "tag": "繁日内嵌"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }

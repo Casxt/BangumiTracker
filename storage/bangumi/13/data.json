@@ -1766,6 +1766,37 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:4YBZ2NKQAKFT5NRONQWZHBOUJPMA5GNL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Needfire",
+                        "publish_timestamp": "1723303120",
+                        "title": "[❀拨雪寻春❀] 不時輕聲地以俄語遮羞的鄰座艾莉同學 / 隣のアーリャさん / Tonari no Alya-san - 05 [WEBRip][AVC-8bit 1080p][繁日内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/676694_Tonari_no_Alya-san_-_05_WEBRip_AVC-8bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "8BIT"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "❀拨雪寻春❀"
+                            },
+                            {
+                                "tag": "繁日内嵌"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -1802,6 +1833,74 @@
                             },
                             {
                                 "tag": "WEB"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:FWFK26R7SSBH4K36UBKWVQQJECCNVOTL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "得翛0",
+                        "publish_timestamp": "1723299254",
+                        "title": "[霜庭云花Sub][不时轻声地以俄语遮羞的邻座艾琳同学 / ロシデレ / Roshidere][06][720P][AVC AAC][简日双语][WebRip]（检索：艾莉同学 Alya-san）招募繁化",
+                        "page_link": "http://share.dmhy.org/topics/view/676687_Sub_Roshidere_06_720P_AVC_AAC_WebRip_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "招募繁化"
+                            },
+                            {
+                                "tag": "简日双语"
+                            },
+                            {
+                                "tag": "霜庭云花Sub"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:IIMBY4O6HJHQ3NAU4KJFFNZDJKC5DESE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "得翛0",
+                        "publish_timestamp": "1723299330",
+                        "title": "[霜庭云花Sub][不时轻声地以俄语遮羞的邻座艾琳同学 / ロシデレ / Roshidere][06][1080P][AVC AAC][简日双语][WebRip]（检索：艾莉同学 Alya-san）招募繁化",
+                        "page_link": "http://share.dmhy.org/topics/view/676688_Sub_Roshidere_06_1080P_AVC_AAC_WebRip_Alya-san.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "招募繁化"
+                            },
+                            {
+                                "tag": "简日双语"
+                            },
+                            {
+                                "tag": "霜庭云花Sub"
                             }
                         ]
                     }

@@ -187,6 +187,22 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:UDSKRB7UJTOEQUWBDY7IWTEGMTMRZJLM&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1723268181",
+                        "title": "[画集][240628][不时轻声地以俄语遮羞的邻座艾莉同学]時々ボソッとロシア語でデレる隣のアーリャさん　ももこ画集 Art Book[104P][JPG]",
+                        "page_link": "http://share.dmhy.org/topics/view/676678_240628_Art_Book_104P_JPG.html",
+                        "tags": [
+                            {
+                                "tag": "画集"
+                            }
+                        ]
+                    }
                 }
             ]
         },

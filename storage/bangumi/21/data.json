@@ -1832,6 +1832,84 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:A4EIEKZGJEXHH7FRX2RA27IC2BN33VRD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1723368248",
+                        "title": "【喵萌奶茶屋】★07月新番★[鹿乃子乃子乃子虎视眈眈 / Shikanoko Nokonoko Koshitantan][06][1080p][简体][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/676754_07_Shikanoko_Nokonoko_Koshitantan_06_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "简体"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:HV4DTGFQWCWPXFUUE6QUDUWK57JIHYUZ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1723370894",
+                        "title": "【喵萌奶茶屋】★07月新番★[鹿乃子乃子乃子虎視眈眈 / Shikanoko Nokonoko Koshitantan][06][1080p][繁體][招募翻譯]",
+                        "page_link": "http://share.dmhy.org/topics/view/676757_07_Shikanoko_Nokonoko_Koshitantan_06_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁體"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:CCCLP6LBA3OUYAO6WJ7FZHT7I2DKZCOI&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "LoliHouse",
+                        "publish_timestamp": "1723385325",
+                        "title": "[喵萌奶茶屋&LoliHouse] 鹿乃子乃子乃子虎视眈眈 / Shikanoko Nokonoko Koshitantan - 06 [WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/676767_LoliHouse_Shikanoko_Nokonoko_Koshitantan_-_06_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋&LoliHouse"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
                 }
             ]
         }

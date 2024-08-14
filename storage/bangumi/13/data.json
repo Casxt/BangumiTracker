@@ -1797,6 +1797,28 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:B66CC7NPHRQ3KQOBCGVBJA24TUIZWYYO&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "D4869",
+                        "publish_timestamp": "1723645307",
+                        "title": "[云光字幕组] 不时轻声地以俄语遮羞的邻座阿莉娅同学 Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san[05][简体双语][1080p]招募翻译",
+                        "page_link": "http://share.dmhy.org/topics/view/676936_Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san_05_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "云光字幕组"
+                            },
+                            {
+                                "tag": "简体双语"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -2081,6 +2103,45 @@
                             },
                             {
                                 "tag": "简繁日内封字幕"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "07",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:DKZXL7M5J7AZ66CCIZRV5I5L2LRMS74F&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1723648524",
+                        "title": "[ANi]  不時輕聲地以俄語遮羞的鄰座艾莉同學 - 07 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/676943_ANi_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
                             }
                         ]
                     }

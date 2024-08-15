@@ -1239,6 +1239,28 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:E5GDFGWTA3HCWIBVSY43N7NKHGZF3HKR&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "轻之国度字幕组",
+                        "publish_timestamp": "1723736759",
+                        "title": "[轻之国度字幕组][败犬女主也太多了！/败北女角太多了！][05][720P][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/677011_05_720P_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "轻之国度字幕组"
+                            }
+                        ]
+                    }
                 }
             ]
         },

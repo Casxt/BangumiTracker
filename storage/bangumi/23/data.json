@@ -707,6 +707,50 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:LH2PZ4PWWW7VQJTKIE4A2C5XTD2QJUXK&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "orion321",
+                        "publish_timestamp": "1724248716",
+                        "title": "[猎户压制部] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria [06] [1080p] [简日内嵌] [2024年7月番]",
+                        "page_link": "http://share.dmhy.org/topics/view/677401_Tsue_to_Tsurugi_no_Wistoria_06_1080p_2024_7.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "猎户压制部"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:FMUIILJ6AWAHRTUFBMF4622T37MJJPFR&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "orion321",
+                        "publish_timestamp": "1724248742",
+                        "title": "[猎户压制部] 杖与剑的魔剑谭 / Tsue to Tsurugi no Wistoria [06] [1080p] [繁日内嵌] [2024年7月番]",
+                        "page_link": "http://share.dmhy.org/topics/view/677402_Tsue_to_Tsurugi_no_Wistoria_06_1080p_2024_7.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "猎户压制部"
+                            },
+                            {
+                                "tag": "繁日内嵌"
+                            }
+                        ]
+                    }
                 }
             ]
         }

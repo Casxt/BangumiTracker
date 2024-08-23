@@ -864,6 +864,62 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:W6VFUUSOC4SSA754ASNZDICP6GJYKCJA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1724377635",
+                        "title": "[漫貓字幕社][7月新番][疑似後宮/百變的七倉同學][Giji Harem][07][1080P][MP4][BIG5][繁中]",
+                        "page_link": "http://share.dmhy.org/topics/view/677483_7_Giji_Harem_07_1080P_MP4_BIG5.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "BIG5"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社"
+                            },
+                            {
+                                "tag": "繁中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:AXC7EJ6UZD6MQDBNTFZLV54CJWCC3XIX&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1724377641",
+                        "title": "[漫猫字幕社][7月新番][疑似后宫/百变的七仓同学][Giji Harem][07][1080P][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/677484_7_Giji_Harem_07_1080P_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
                 }
             ]
         },

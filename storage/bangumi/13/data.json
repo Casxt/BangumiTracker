@@ -2481,6 +2481,37 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:U7ZCMAHKM472H45U73Y7VJO4LE5WD4IW&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "芙宁娜",
+                        "publish_timestamp": "1724379038",
+                        "title": "[❀拨雪寻春❀] 不時輕聲地以俄語遮羞的鄰座艾莉同學 / 隣のアーリャさん / Tonari no Alya-san - 07 [WEBRip][AVC-8bit 1080p][繁日內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/677487_Tonari_no_Alya-san_-_07_WEBRip_AVC-8bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "8BIT"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "❀拨雪寻春❀"
+                            },
+                            {
+                                "tag": "繁日內嵌"
+                            }
+                        ]
+                    }
                 }
             ]
         },

@@ -1191,6 +1191,138 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VJ3MVJCUXHL7JCUPBX4VJ76ZHPH3KDUI&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "芙宁娜",
+                        "publish_timestamp": "1725005668",
+                        "title": "[❀拨雪寻春❀] 义妹生活 / 義妹生活 / Gimai Seikatsu - 08 [WEBRip][HEVC-10bit 1080p][简繁日内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/677956_Gimai_Seikatsu_-_08_WEBRip_HEVC-10bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "❀拨雪寻春❀"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:LCZU4HJZLYC5I3TGOYOCO4K5EJTLPZYK&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "芙宁娜",
+                        "publish_timestamp": "1725005682",
+                        "title": "[❀拨雪寻春❀] 義妹生活 / 義妹生活 / Gimai Seikatsu - 08 [WEBRip][AVC-8bit 1080p][繁日内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/677957_Gimai_Seikatsu_-_08_WEBRip_AVC-8bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "8BIT"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "❀拨雪寻春❀"
+                            },
+                            {
+                                "tag": "繁日内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:YNCWN356NGW4HSKQUJM3WVFSVSTFJGI3&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "芙宁娜",
+                        "publish_timestamp": "1725005694",
+                        "title": "[❀拨雪寻春❀] 義妹生活 / 義妹生活 / Gimai Seikatsu - 08 [WEBRip][AVC-8bit 1080p][简日内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/677958_Gimai_Seikatsu_-_09_WEBRip_AVC-8bit_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "8BIT"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "❀拨雪寻春❀"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "09",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:UKK72R6J4CPIDE6NNVTZOIH4XOTDDIAU&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "B站沸羊羊都得叫我师傅",
+                        "publish_timestamp": "1725025049",
+                        "title": "[沸羊羊制作] 义妹生活 / Gimai Seikatsu - 09 [CR WebRip 1080p HEVC-10bit AAC][简繁内封字幕]",
+                        "page_link": "http://share.dmhy.org/topics/view/677977_Gimai_Seikatsu_-_09_CR_WebRip_1080p_HEVC-10bit_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "沸羊羊制作"
+                            },
+                            {
+                                "tag": "简繁内封字幕"
+                            }
+                        ]
+                    }
                 }
             ]
         }

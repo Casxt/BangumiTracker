@@ -1749,6 +1749,77 @@
                     }
                 }
             ]
+        },
+        {
+            "index": "08",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:3Z6BKZTA23SKIDXAQ6PUF47P6RO2CVEI&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1725123253",
+                        "title": "[桜都字幕组] 物语系列 番外＆怪物季 / Monogatari Series： Off & Monster Season [08][1080p][简体内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/678064_Monogatari_Series_Off_Monster_Season_08_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕组"
+                            },
+                            {
+                                "tag": "简体内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:VSGHB7YPI7LSYRMRSXCDY76JWN4YTBHV&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1725123260",
+                        "title": "[桜都字幕組] 物語系列 番外＆怪物季 / Monogatari Series： Off & Monster Season [08][1080P][繁體內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/678065_Monogatari_Series_Off_Monster_Season_08_1080P.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕組"
+                            },
+                            {
+                                "tag": "繁體內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:THE4ZE2Z7HKOAQSSMV5U4MMLFZKXKRMD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1725123268",
+                        "title": "[桜都字幕组] 物语系列 番外＆怪物季 / Monogatari Series： Off & Monster Season [08][1080p][简繁内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/678066_Monogatari_Series_Off_Monster_Season_08_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕组"
+                            },
+                            {
+                                "tag": "简繁内封"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }

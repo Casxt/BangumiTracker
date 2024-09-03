@@ -1665,6 +1665,62 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:ZWRI6NVQHY4HUGVLVCT6YVUZODERDI6L&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1725375611",
+                        "title": "[北宇治字幕组] 敗北女角太多了！ / Make Heroine ga Oosugiru! [08][WebRip][HEVC_AAC][繁日內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/678212_Make_Heroine_ga_Oosugiru%21_08_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "繁日內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:BWGQQH6A3XBJY3I4TH7D5JG6WRKUVQDK&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1725375618",
+                        "title": "[北宇治字幕组] 败犬女主太多了！ / Make Heroine ga Oosugiru! [08][WebRip][HEVC_AAC][简日内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/678213_Make_Heroine_ga_Oosugiru%21_08_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
                 }
             ]
         },

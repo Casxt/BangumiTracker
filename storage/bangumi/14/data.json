@@ -1845,6 +1845,106 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:FKURKILBFO6VEDGTF7OZPAPWEJ446Q6F&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1725448132",
+                        "title": "[漫貓字幕社&貓戀漢化組][7月新番][物語系列 番外 怪物季][Monogatari Series Off Monster Season][08][720p][MP4][繁日雙語]",
+                        "page_link": "http://share.dmhy.org/topics/view/678246_7_Monogatari_Series_Off_Monster_Season_08_720p_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:3SST62LJ4JBDJW6R7DPNWCENBLGO5XVK&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1725448137",
+                        "title": "[漫猫字幕社&猫恋汉化组][7月新番][物语系列 外传季 怪物季][Monogatari Series Off Monster Season][08][720p][MP4][简日双语]",
+                        "page_link": "http://share.dmhy.org/topics/view/678247_7_Monogatari_Series_Off_Monster_Season_08_720p_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:LGFZD2D6DJQBNLGJQJSZ2UNYYISINSM7&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1725448142",
+                        "title": "[漫貓字幕社&貓戀漢化組][7月新番][物語系列 番外 怪物季][Monogatari Series Off Monster Season][08][1080p][MP4][繁日雙語]",
+                        "page_link": "http://share.dmhy.org/topics/view/678248_7_Monogatari_Series_Off_Monster_Season_08_1080p_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫貓字幕社&貓戀漢化組"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:YAMC47GD6D2NKI4SAM7FGFBXFK5LQDB6&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1725448148",
+                        "title": "[漫猫字幕社&猫恋汉化组][7月新番][物语系列 外传季 怪物季][Monogatari Series Off Monster Season][08][1080p][MP4][简日双语]",
+                        "page_link": "http://share.dmhy.org/topics/view/678249_7_Monogatari_Series_Off_Monster_Season_08_1080p_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "漫猫字幕社&猫恋汉化组"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
                 }
             ]
         }

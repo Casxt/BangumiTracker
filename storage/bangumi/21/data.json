@@ -2813,6 +2813,68 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:HWLYBVDF3343BK6HL2VN3L6L3HBDXD7B&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "SweetSub",
+                        "publish_timestamp": "1726133411",
+                        "title": "[SweetSub][鹿乃子大摇大摆虎视眈眈][Shikanoko Nokonoko Koshitantan][11][WebRip][1080P][AVC 8bit][简日双语]",
+                        "page_link": "http://share.dmhy.org/topics/view/678683_SweetSub_Shikanoko_Nokonoko_Koshitantan_11_WebRip_1080P_AVC_8bit.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "8BIT"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "SweetSub"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:GFQS2RV4VGBWD6SE5JTVUIWU2DZELJXK&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "SweetSub",
+                        "publish_timestamp": "1726133430",
+                        "title": "[SweetSub][鹿乃子大搖大擺虎視眈眈][Shikanoko Nokonoko Koshitantan][11][WebRip][1080P][AVC 8bit][繁日雙語]",
+                        "page_link": "http://share.dmhy.org/topics/view/678684_SweetSub_Shikanoko_Nokonoko_Koshitantan_11_WebRip_1080P_AVC_8bit.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "8BIT"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "SweetSub"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
                 }
             ]
         }

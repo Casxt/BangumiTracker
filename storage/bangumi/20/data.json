@@ -1927,6 +1927,34 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:WXQB2ON42UTGZAJIQ4XW55DOU27FBSWZ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1726500697",
+                        "title": "[北宇治字幕组] 败犬女主太多了！ / 敗北女角太多了！ / Make Heroine ga Oosugiru! [10][WebRip][HEVC_AAC][简繁日内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/679024_Make_Heroine_ga_Oosugiru%21_10_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            }
+                        ]
+                    }
                 }
             ]
         },

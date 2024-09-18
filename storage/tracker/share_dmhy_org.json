@@ -32,9 +32,9 @@
             "bangumi_id": "13",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%94%A8%E4%BF%84%E8%AF%AD%E5%90%91%E6%88%91%E6%92%92%E5%A8%87%7C%E4%BB%A5%E4%BF%84%E8%AF%AD%E9%81%AE%E7%BE%9E",
             "latest_resp_hash": {
-                "value": "bKhHWNYUDUopyU5Q1KJQXzRwqwakLHGGYkAVWSy0EzI="
+                "value": "0EiZ0tMyTqgZu4cIgFiiSJ9mmnO9MNGIcvfoa5E5T/U="
             },
-            "latest_update_time": "2024-09-17T18:10:28.296717Z"
+            "latest_update_time": "2024-09-18T18:10:08.931867Z"
         },
         {
             "key": "物语系列 外传季&怪物季",
@@ -86,9 +86,9 @@
             "bangumi_id": "19",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%A5%9E%E4%B9%8B%E5%A1%94",
             "latest_resp_hash": {
-                "value": "3+4a4nmadUQ4E4BSVCv9duyZz7z32qIoSBgWfePO5po="
+                "value": "QXRoK5sVkXVzeQBemldp92JB8YDFoAAtsKQZRi13d7M="
             },
-            "latest_update_time": "2024-08-25T08:09:07.262646Z",
+            "latest_update_time": "2024-09-18T18:10:08.116726Z",
             "title_include_regex": "Ⅱ|第2季|第二季|S2|s2|2期|二期"
         },
         {
@@ -96,36 +96,36 @@
             "bangumi_id": "20",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%95%97%E5%8C%97%E5%A5%B3%7C%E8%B4%A5%E7%8A%AC%E5%A5%B3",
             "latest_resp_hash": {
-                "value": "iLFo/dW8LHuc0bJscP0tgbZjumII1+vNfuDPsMKReWM="
+                "value": "cLk9UUTCO6TLTLE4AP8BxHvU58wRLQzq906lMUL1v0Q="
             },
-            "latest_update_time": "2024-09-17T06:11:39.809911Z"
+            "latest_update_time": "2024-09-18T18:10:08.250074Z"
         },
         {
             "key": "鹿乃子乃子乃子虎视眈眈",
             "bangumi_id": "21",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E9%B9%BF%E4%B9%83%E5%AD%90",
             "latest_resp_hash": {
-                "value": "Vk2j3RGOsNiIecdgGwuLBEh2n6AM1K8/s/Ay7hAsrHg="
+                "value": "Zm7LY339fdyqOxy78hA8bwzMPNVgoiJOiizbw0+q32w="
             },
-            "latest_update_time": "2024-09-15T04:09:20.811327Z"
+            "latest_update_time": "2024-09-18T18:10:08.171077Z"
         },
         {
             "key": "百变的七仓同学",
             "bangumi_id": "22",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%99%BE%E8%AE%8A%E7%9A%84%E4%B8%83%E5%80%89%E5%90%8C%E5%AD%B8%7C%E6%A8%A1%E6%93%AC%E5%BE%8C%E5%AE%AE%E9%AB%94%E9%A9%97%7C%E7%96%91%E4%BC%BC%E5%90%8E%E5%AE%AB",
             "latest_resp_hash": {
-                "value": "X+VGTGGZ6H2ufHPqWZYqbRvMJx59ixP2RxcQ39uDcfg="
+                "value": "803EWRZU3cCztN6BIvL47ET7dm/GTpwCE5WtktseqBQ="
             },
-            "latest_update_time": "2024-09-12T18:10:58.210663Z"
+            "latest_update_time": "2024-09-18T18:10:08.208555Z"
         },
         {
             "key": "杖与剑的魔剑谭",
             "bangumi_id": "23",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E9%AD%94%E5%89%91%E8%B0%AD%7Ctsue%2Btsurugi%2Bwistoria",
             "latest_resp_hash": {
-                "value": "pqoAdurCXAtquqKtSsFasifPme9VEkuFs/NqdNmSNzI="
+                "value": "UiTj8w+Gqy6H0/NeyIXh1eSUjDbRLpkl3ejt1kr6PGI="
             },
-            "latest_update_time": "2024-09-15T18:10:22.433849Z"
+            "latest_update_time": "2024-09-18T18:10:09.324181Z"
         }
     ]
 }

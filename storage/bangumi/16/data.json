@@ -2107,6 +2107,50 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:Y6T5DKLG22W4LXJBBPIGAJJRPA7UEMTE&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1727375067",
+                        "title": "【喵萌奶茶屋】★07月新番★[义妹生活 / 義妹生活 / Gimai Seikatsu][10][1080p][简日双语][招募翻译时轴]",
+                        "page_link": "http://share.dmhy.org/topics/view/679532_07_Gimai_Seikatsu_10_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:BBR3ZITO4YZ2EK4OTUBZ6FZ3RDGF6EM3&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1727375102",
+                        "title": "【喵萌奶茶屋】★07月新番★[義妹生活 / Gimai Seikatsu][10][1080p][繁日雙語][招募翻譯時軸]",
+                        "page_link": "http://share.dmhy.org/topics/view/679533_07_Gimai_Seikatsu_10_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
                 }
             ]
         },

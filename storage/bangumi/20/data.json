@@ -169,6 +169,40 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:WBSFQMCOSDYBN7HAUYSLU5BGCTU7LHUQ&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "黑暗路基艾尔",
+                        "publish_timestamp": "1727535328",
+                        "title": "[DBD-Raws][败犬女主太多了！/Make Heroine ga Oosugiru!/負けヒロインが多すぎる!][01-02TV+特典映像][BOX1][1080P][BDRip][HEVC-10bit][FLACx2][MKV]",
+                        "page_link": "http://share.dmhy.org/topics/view/679603_DBD-Raws_Make_Heroine_ga_Oosugiru%21_%21_01-02TV_BOX1_1080P_BDRip_HEVC-10bit_FLACx2_MKV.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "DBD"
+                            },
+                            {
+                                "tag": "FLACX2"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "MKV"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -2483,6 +2517,45 @@
                             },
                             {
                                 "tag": "轻之国度字幕组"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "index": "12",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:GP52XD2T7ZF22EXQPL5FVPNXYSX2LFLM&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "ANiTorrent",
+                        "publish_timestamp": "1727542868",
+                        "title": "[ANi] Make Heroine ga Oosugiru /  敗北女角太多了！ - 12 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]",
+                        "page_link": "http://share.dmhy.org/topics/view/679629_ANi_Make_Heroine_ga_Oosugiru_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "ANi"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "CHT"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEB"
                             }
                         ]
                     }

@@ -405,6 +405,31 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:AWGTZIE2455RQSWWGCRPII6ICTXR3OYW&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "jibaketa",
+                        "publish_timestamp": "1728044580",
+                        "title": "[jibaketa]義妹生活 特別節目「寬敞與回顧」(AT-X 1440x1080i AVC AAC)",
+                        "page_link": "http://share.dmhy.org/topics/view/679913_jibaketa_AT-X_1440x1080i_AVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "jibaketa"
+                            }
+                        ]
+                    }
                 }
             ]
         },

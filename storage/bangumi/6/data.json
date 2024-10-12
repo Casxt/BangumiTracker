@@ -4212,6 +4212,62 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:45ISNY6DUYIKDAEK2PNU2LQSMCXTML7F&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1728724167",
+                        "title": "[爱恋&漫猫字幕社][4月新番][狼与香辛料 行商邂逅贤狼][Spice and Wolf][25][720p][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/680502_4_Spice_and_Wolf_25_720p_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "爱恋&漫猫字幕社"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:UPCXUUJZJJZP3G3UVU4L4SY33UGUS562&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1728724167",
+                        "title": "[爱恋&漫猫字幕社][4月新番][狼与香辛料 行商邂逅贤狼][Spice and Wolf][25][1080p][MP4][GB][简中]",
+                        "page_link": "http://share.dmhy.org/topics/view/680504_4_Spice_and_Wolf_25_1080p_MP4_GB.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "GB"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "爱恋&漫猫字幕社"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
                 }
             ]
         }

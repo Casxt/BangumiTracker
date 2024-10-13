@@ -587,6 +587,28 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:4JNFJLNOW5T5UJJK4II32JVLMWP2VN7K&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1728805660",
+                        "title": "【喵萌奶茶屋】★07月新番★[神之塔 二期 / Tower of God S2][12][1080p][繁體][v2][招募翻譯]",
+                        "page_link": "http://share.dmhy.org/topics/view/680603_07_Tower_of_God_S2_12_1080p_v2.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁體"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -624,6 +646,28 @@
                         "publish_timestamp": "1728797086",
                         "title": "【喵萌奶茶屋】★07月新番★[神之塔 二期 / Tower of God S2][13][1080p][繁體][招募翻譯]",
                         "page_link": "http://share.dmhy.org/topics/view/680592_07_Tower_of_God_S2_13_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁體"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OSXNTKBLKZUZNX4KEL7735KUEHVERPXR&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1728805668",
+                        "title": "【喵萌奶茶屋】★07月新番★[神之塔 二期 / Tower of God S2][13][1080p][繁體][v2][招募翻譯]",
+                        "page_link": "http://share.dmhy.org/topics/view/680604_07_Tower_of_God_S2_13_1080p_v2.html",
                         "tags": [
                             {
                                 "tag": "1080P"

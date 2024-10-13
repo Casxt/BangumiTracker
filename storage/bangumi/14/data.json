@@ -2712,6 +2712,77 @@
                     }
                 }
             ]
+        },
+        {
+            "index": "13",
+            "resources": [
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OABU6YZ5UZNG4VGV3W3EIMFCCXDLA7TM&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1728810900",
+                        "title": "[桜都字幕组] 物语系列 番外＆怪物季 / Monogatari Series： Off & Monster Season [13][1080p][简体内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/680616_Monogatari_Series_Off_Monster_Season_13_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕组"
+                            },
+                            {
+                                "tag": "简体内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:LFCXXZOGQAZF3VNTTXF3WO5TQ76ZK6FV&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1728810965",
+                        "title": "[桜都字幕組] 物語系列 番外＆怪物季 / Monogatari Series： Off & Monster Season [13][1080p][繁體內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/680617_Monogatari_Series_Off_Monster_Season_13_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕組"
+                            },
+                            {
+                                "tag": "繁體內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:XURTYPZMUMOAN666MEPURUUMO4JR3URA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "sakurato",
+                        "publish_timestamp": "1728810995",
+                        "title": "[桜都字幕组] 物语系列 番外＆怪物季 / Monogatari Series： Off & Monster Season [13][1080p][简繁内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/680618_Monogatari_Series_Off_Monster_Season_13_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "桜都字幕组"
+                            },
+                            {
+                                "tag": "简繁内封"
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }

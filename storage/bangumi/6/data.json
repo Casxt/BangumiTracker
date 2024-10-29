@@ -130,6 +130,74 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:6YQCOSKWWKASHDVM54MDK4NQIPAE73WA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1730210735",
+                        "title": "[爱恋&漫猫字幕组] 狼与香辛料 行商邂逅贤狼/Spice and Wolf (01-25Fin WEBRIP 720p AVC AAC MP4 2024年4月 简中)",
+                        "page_link": "http://share.dmhy.org/topics/view/681720_Spice_and_Wolf_01-25Fin_WEBRIP_720p_AVC_AAC_MP4_2024_4.html",
+                        "tags": [
+                            {
+                                "tag": "720P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "爱恋&漫猫字幕组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:TOSQX226LRPPRRPH3BQAOOOZHYZEKD2Y&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "KissSub",
+                        "publish_timestamp": "1730210770",
+                        "title": "[爱恋&漫猫字幕组] 狼与香辛料 行商邂逅贤狼/Spice and Wolf (01-25Fin WEBRIP 1080p AVC AAC MP4 2024年4月 简中)",
+                        "page_link": "http://share.dmhy.org/topics/view/681722_Spice_and_Wolf_01-25Fin_WEBRIP_1080p_AVC_AAC_MP4_2024_4.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "AVC"
+                            },
+                            {
+                                "tag": "MP4"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "爱恋&漫猫字幕组"
+                            },
+                            {
+                                "tag": "简中"
+                            }
+                        ]
+                    }
                 }
             ]
         },

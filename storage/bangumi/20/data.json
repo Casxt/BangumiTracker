@@ -322,6 +322,90 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:ON7A2NTZ2R3EHTCF27AS44L4EPL5H2XD&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1730631728",
+                        "title": "[北宇治字幕组] 败犬女主太多了！ / Make Heroine ga Oosugiru! [01-12 精校合集][WebRip][HEVC_AAC][简日内嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/682049_Make_Heroine_ga_Oosugiru%21_01-12_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "简日内嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:CRBUPPFNBSDGWU3CGSI3OCTIPS6K4427&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1730631729",
+                        "title": "[北宇治字幕组] 敗北女角太多了！ / Make Heroine ga Oosugiru! [01-12 精校合集][WebRip][HEVC_AAC][繁日內嵌]",
+                        "page_link": "http://share.dmhy.org/topics/view/682050_Make_Heroine_ga_Oosugiru%21_01-12_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "繁日內嵌"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:POZWCHPMALTFGWJ2CUAMFPRX2H24LBEK&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "Kitauji",
+                        "publish_timestamp": "1730631743",
+                        "title": "[北宇治字幕组] 败犬女主太多了！ / 敗北女角太多了！ / Make Heroine ga Oosugiru! [01-12 精校合集][WebRip][HEVC_AAC][简繁日内封]",
+                        "page_link": "http://share.dmhy.org/topics/view/682051_Make_Heroine_ga_Oosugiru%21_01-12_WebRip_HEVC_AAC.html",
+                        "tags": [
+                            {
+                                "tag": "AAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "WEBRIP"
+                            },
+                            {
+                                "tag": "北宇治字幕组"
+                            },
+                            {
+                                "tag": "简繁日内封"
+                            }
+                        ]
+                    }
                 }
             ]
         },

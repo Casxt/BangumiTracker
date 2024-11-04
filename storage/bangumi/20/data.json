@@ -425,6 +425,50 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:X7E5QYDVSBWTLPM4QMLDS6LYI2OKVUF3&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1730699245",
+                        "title": "【喵萌奶茶屋】★07月新番★[败犬女主角也太多了！ / 败犬女主太多了！ / 負けヒロインが多すぎる！ / Make Heroine ga Oosugiru!][01-12][1080p][简日双语][招募翻译时轴]",
+                        "page_link": "http://share.dmhy.org/topics/view/682156_07_Make_Heroine_ga_Oosugiru%21_01-12_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:22PXPKYUUG32U3XMO6GYJ2LZ4DLOTELO&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "nekomoekissaten",
+                        "publish_timestamp": "1730699309",
+                        "title": "【喵萌奶茶屋】★07月新番★[敗犬女主角也太多了！ / 敗犬女主太多了！ / 負けヒロインが多すぎる！ / Make Heroine ga Oosugiru!][01-12][1080p][繁日雙語][招募翻譯時軸]",
+                        "page_link": "http://share.dmhy.org/topics/view/682157_07_Make_Heroine_ga_Oosugiru%21_01-12_1080p.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "喵萌奶茶屋"
+                            },
+                            {
+                                "tag": "繁日雙語"
+                            }
+                        ]
+                    }
                 }
             ]
         },

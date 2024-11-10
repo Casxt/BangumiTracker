@@ -1755,6 +1755,34 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:CPR4ZNXNE7AU3ORYOKXF7OTAMNHW6NHW&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我为新代盐",
+                        "publish_timestamp": "1731226687",
+                        "title": "[新Sub][7月新番][不时轻声地以俄语遮羞的邻座艾莉同学_Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san][04][HEVC][10Bit][1080P][简日双语][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/682565_Sub_7_Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san_04_HEVC_10Bit_1080P.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "新Sub"
+                            },
+                            {
+                                "tag": "简日双语"
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -2083,6 +2111,34 @@
                             },
                             {
                                 "tag": "简体双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:OHIDIVRP2MY3SNGC2E3BRAFD4ADHXY67&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我为新代盐",
+                        "publish_timestamp": "1731226850",
+                        "title": "[新Sub][7月新番][不时轻声地以俄语遮羞的邻座艾莉同学_Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san][05][HEVC][10Bit][1080P][简日双语][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/682566_Sub_7_Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san_05_HEVC_10Bit_1080P.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "新Sub"
+                            },
+                            {
+                                "tag": "简日双语"
                             }
                         ]
                     }
@@ -2423,6 +2479,34 @@
                             },
                             {
                                 "tag": "简体双语"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:UWEITBOYRLZKAC35IVRCESQM5DAOSLIA&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "我为新代盐",
+                        "publish_timestamp": "1731226932",
+                        "title": "[新Sub][7月新番][不时轻声地以俄语遮羞的邻座艾莉同学_Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san][06][HEVC][10Bit][1080P][简日双语][招募翻译]",
+                        "page_link": "http://share.dmhy.org/topics/view/682567_Sub_7_Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san_06_HEVC_10Bit_1080P.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "新Sub"
+                            },
+                            {
+                                "tag": "简日双语"
                             }
                         ]
                     }

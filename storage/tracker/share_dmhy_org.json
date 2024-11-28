@@ -1,15 +1,6 @@
 {
     "configs": [
         {
-            "key": "狼与香辛料 行商邂逅贤狼",
-            "bangumi_id": "6",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E8%A1%8C%E5%95%86%E9%82%82%E9%80%85%E8%B3%A2%E7%8B%BC%7C%E8%A1%8C%E5%95%86%E9%82%82%E9%80%85%E8%B4%A4%E7%8B%BC",
-            "latest_resp_hash": {
-                "value": "RVbPJDqjf/vfJllD3IJ7OTcF11rFN5PgvLfuF4RCbKE="
-            },
-            "latest_update_time": "2024-10-29T18:11:00.636123Z"
-        },
-        {
             "key": "不时轻声地以俄语遮羞的邻座艾琳同学",
             "bangumi_id": "13",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%94%A8%E4%BF%84%E8%AF%AD%E5%90%91%E6%88%91%E6%92%92%E5%A8%87%7C%E4%BB%A5%E4%BF%84%E8%AF%AD%E9%81%AE%E7%BE%9E",
@@ -42,9 +33,9 @@
             "bangumi_id": "20",
             "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E6%95%97%E5%8C%97%E5%A5%B3%7C%E8%B4%A5%E7%8A%AC%E5%A5%B3",
             "latest_resp_hash": {
-                "value": "v6GhD+Cih0GJx856VkVlPlae62gg2ndMqZ0ykUeyaH0="
+                "value": "atUJO89mfjkImos35QFwAnKwnIIqfUYkpBIyZSv9ETo="
             },
-            "latest_update_time": "2024-11-04T18:10:29.643175Z"
+            "latest_update_time": "2024-11-28T18:11:18.049043Z"
         }
     ]
 }

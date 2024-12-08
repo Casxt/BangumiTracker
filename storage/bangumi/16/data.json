@@ -521,6 +521,40 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:KXK6QKK4TQLGOMYMGZPLXPYQ3ALJYP2E&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "黑暗路基艾尔",
+                        "publish_timestamp": "1733670211",
+                        "title": "[DBD-Raws][义妹生活/Gimai Seikatsu/義妹生活][05-08TV][BOX2][1080P][BDRip][HEVC-10bit][FLAC][MKV]",
+                        "page_link": "http://share.dmhy.org/topics/view/684736_DBD-Raws_Gimai_Seikatsu_05-08TV_BOX2_1080P_BDRip_HEVC-10bit_FLAC_MKV.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "DBD"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "MKV"
+                            }
+                        ]
+                    }
                 }
             ]
         },

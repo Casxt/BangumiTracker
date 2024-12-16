@@ -504,6 +504,43 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:7KRW6472QVTF4EPSKA3RNI2QXSO7D3QV&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "黑暗路基艾尔",
+                        "publish_timestamp": "1734328070",
+                        "title": "[DBD-Raws][不时轻声地以俄语遮羞的邻座艾莉同学/Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san/時々ボソッとロシア語でデレる隣のアーリャさん][01-12TV全集][1080P][BDRip][HEVC-10bit][简繁日双语外挂][FLAC][MKV](Alya Sometimes Hides Her Feelings in Russian)",
+                        "page_link": "http://share.dmhy.org/topics/view/685220_DBD-Raws_Tokidoki_Bosotto_Russia-go_de_Dereru_Tonari_no_Alya-san_01-12TV_1080P_BDRip_HEVC-10bit_FLAC_MKV_Alya_Sometimes_Hides_Her_Feelings_in_Russian.html",
+                        "tags": [
+                            {
+                                "tag": "1080P"
+                            },
+                            {
+                                "tag": "10BIT"
+                            },
+                            {
+                                "tag": "BDRIP"
+                            },
+                            {
+                                "tag": "DBD"
+                            },
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "HEVC"
+                            },
+                            {
+                                "tag": "MKV"
+                            },
+                            {
+                                "tag": "简繁日双语外挂"
+                            }
+                        ]
+                    }
                 }
             ]
         },

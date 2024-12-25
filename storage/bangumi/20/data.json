@@ -673,6 +673,25 @@
                             }
                         ]
                     }
+                },
+                {
+                    "share_dmhy_org": {
+                        "magnet": {
+                            "url": "magnet:?xt=urn:btih:ZM6GORFBEXJCSLWNP63G3A6CKJMSTZFL&tr=http%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=udp%3A%2F%2F104.143.10.186%3A8000%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce"
+                        },
+                        "author": "天使动漫",
+                        "publish_timestamp": "1735131565",
+                        "title": "[Hi-Res][241225][败犬女主太多了]負けヒロインが多すぎる！オリジナル・サウンドトラック VOL.1／音楽:うたたね歌菜[48kHz/24bit][FLAC]",
+                        "page_link": "http://share.dmhy.org/topics/view/685786_Hi-Res_241225_VOL_1_48kHz_24bit_FLAC.html",
+                        "tags": [
+                            {
+                                "tag": "FLAC"
+                            },
+                            {
+                                "tag": "Hi"
+                            }
+                        ]
+                    }
                 }
             ]
         },

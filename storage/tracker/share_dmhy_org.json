@@ -1,13 +1,1 @@
-{
-    "configs": [
-        {
-            "key": "不时轻声地以俄语遮羞的邻座艾琳同学",
-            "bangumi_id": "13",
-            "rss_url": "https://share.dmhy.org/topics/rss/rss.xml?keyword=%E7%94%A8%E4%BF%84%E8%AF%AD%E5%90%91%E6%88%91%E6%92%92%E5%A8%87%7C%E4%BB%A5%E4%BF%84%E8%AF%AD%E9%81%AE%E7%BE%9E",
-            "latest_resp_hash": {
-                "value": "pZyWEea4VgZIgdy8ZVhZ5HybW+aBFau6Tl+0n7XlHhM="
-            },
-            "latest_update_time": "2025-01-24T18:10:47.410292Z"
-        }
-    ]
-}
+{}
